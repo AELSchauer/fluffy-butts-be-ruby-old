@@ -1,6 +1,13 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
   namespace :api do
+    namespace :admin do
+      resources :authorizations, only: [:create]
+      jsonapi_resources :brands, only: [:create, :update, :delete]
+      jsonapi_resources :product_lines, only: [:create, :update, :delete]
+      jsonapi_resources :products, only: [:create, :update, :delete]
+      jsonapi_resources :listings, only: [:create, :update, :delete]
+    end
+
     namespace :v1 do
       jsonapi_resources :brands, only: [:index, :show]
       jsonapi_resources :product_lines, only: [:index, :show]

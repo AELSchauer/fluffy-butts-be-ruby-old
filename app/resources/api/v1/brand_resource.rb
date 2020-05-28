@@ -1,4 +1,2 @@
-class Api::V1::BrandResource < JSONAPI::Resource
-  attributes :name, :origin_country
-  has_many :product_lines
+class Api::V1::BrandResource < BrandResource
 end

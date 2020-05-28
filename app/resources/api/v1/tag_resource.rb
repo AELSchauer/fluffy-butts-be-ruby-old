@@ -1,3 +1,2 @@
-class Api::V1::TagResource < JSONAPI::Resource
-  attributes :name
+class Api::V1::TagResource < TagResource
 end

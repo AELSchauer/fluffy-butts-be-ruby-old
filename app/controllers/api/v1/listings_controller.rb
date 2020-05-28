@@ -1,2 +1,2 @@
-class Api::V1::ListingsController < ApplicationController
+class Api::V1::ListingsController < JSONAPI::ResourceController
 end
