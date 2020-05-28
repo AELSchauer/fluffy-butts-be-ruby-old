@@ -20,10 +20,10 @@ brand_data['product_lines'].each do |product_line_data|
     product_line.tags << tag
   end
   product_line_data['products'].each do |product_data|
-    product = Product.find_or_create_by({ manufactuerer_code: product_data['code'], product_line: product_line })
+    product = Product.find_or_create_by({ manufacturer_code: product_data['code'], product_line: product_line })
     product_data['tags'].each do |tag_name|
       tag = Tag.find_or_create_by({ name: tag_name })
-      product.tags << tag
+      product.product_tags << tag
     end
     product_data['listings'].each do |listing_data|
       listing = Listing.find_or_create_by({

@@ -54,7 +54,7 @@ ActiveRecord::Schema.define(version: 2020_05_26_234416) do
 
   create_table "products", force: :cascade do |t|
     t.bigint "product_line_id", null: false
-    t.string "manufactuerer_code"
+    t.string "manufacturer_code"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["product_line_id"], name: "index_products_on_product_line_id"

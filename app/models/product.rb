@@ -4,17 +4,6 @@ class Product < ApplicationRecord
   has_many :listings, through: :product_listings
   has_many :taggings, as: :taggable
   has_many :tags, through: :taggings
-  has_many :product_tags, through: :taggings, source: :tag
-
-  def product_line_tags
-    self.product_line.tags
-  end
-
-  def tags
-    @taggings = Tagging.where(taggable_id: self.id, taggable_type: 'Product')
-      .or(Tagging.where(taggable_id: self.product_line.id, taggable_type: 'ProductLine'))
-      Tag.where(id: @taggings.ids)
-  end
 
   def self.find_by_tag_ids(tag_ids = [])
     @product_tags = Tag.where(id: tag_ids);
