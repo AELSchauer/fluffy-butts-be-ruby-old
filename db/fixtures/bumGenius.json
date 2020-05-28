@@ -1,0 +1,714 @@
+{
+  "brand": "bumGenius",
+  "country_origin": "?",
+  "product_lines": [
+    {
+      "dimensions": {},
+      "tags": [
+        "all in one",
+        "aoi",
+        "snaps",
+        "tpu"
+      ],
+      "name": "Elemental™",
+      "products": [
+        {
+          "code": "ballet",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=32073958391880",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "blossom",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=15942400344136",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "countess",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=41695298309",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "dazzle",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12951352672328",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "faster",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12211210780744",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "go",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12211210747976",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "mid-century",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=44124398469",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "my sun",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=30768405839944",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sassy",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12951355392072",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sierpinski",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12278275604552",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "stop",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12211210649672",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "twilight",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
+              "price": 478.80,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=15911259406408",
+              "price": 26.95,
+              "type": "single"
+            }
+          ]
+        }
+      ],
+      "sizing": {},
+      "type": "diaper"
+    },
+    {
+      "tags": [
+        "all in one",
+        "aoi",
+        "snaps"
+      ],
+      "name": "Original 5.0",
+      "products": [
+        {
+          "code": "blossom",
+          "tags": [
+            "solid",
+            "pink"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=15942403326024",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sassy",
+          "tags": [
+            "solid",
+            "orange"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198536544328",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "twilight",
+          "tags": [
+            "solid",
+            "blue"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537691208",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "zinnia",
+          "tags": [
+            "solid",
+            "pink"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=16046459027528",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "mid-century",
+          "tags": [
+            "pattern",
+            "masculine",
+            "modern"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=44125009285",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "my sun",
+          "tags": [
+            "pattern",
+            "sky",
+            "sun",
+            "blue",
+            "yellow"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=16046515617864",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "play",
+          "tags": [
+            "pattern",
+            "modern",
+            "geometric",
+            "red",
+            "blue",
+            "green",
+            "white"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537232456",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sierpinski",
+          "tags": [
+            "pattern",
+            "gender neutral",
+            "modern",
+            "blue",
+            "green"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=43681626373",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "faster",
+          "tags": [
+            "pattern",
+            "cars",
+            "black",
+            "white",
+            "yellow"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537592904",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "go",
+          "tags": [
+            "pattern",
+            "cars",
+            "black",
+            "white",
+            "green"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537527368",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "stop",
+          "tags": [
+            "pattern",
+            "cars",
+            "black",
+            "white",
+            "red"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537396296",
+              "price": 23.95,
+              "type": "single"
+            }
+          ]
+        }
+      ],
+      "sizing": {
+        "weight_lb": {
+          "max": 35
+        }
+      },
+      "type": "diaper"
+    },
+    {
+      "tags": [
+        "newborn",
+        "all in one",
+        "aoi",
+        "snaps"
+      ],
+      "name": "Littles™ 2.0",
+      "products": [
+        {
+          "code": "blossom",
+          "tags": [
+            "solid",
+            "pink"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=15998808883272",
+              "price": 14.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "countess",
+          "tags": [
+            "solid",
+            "pink"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=6543080030247",
+              "price": 14.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "twilight",
+          "tags": [
+            "solid",
+            "blue"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=12336615522376",
+              "price": 14.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "mid-century",
+          "tags": [
+            "pattern",
+            "masculine",
+            "modern"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=44463007109",
+              "price": 14.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sierpinski",
+          "tags": [
+            "pattern",
+            "gender neutral",
+            "modern",
+            "blue",
+            "green"
+          ],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=12257579728968",
+              "price": 14.95,
+              "type": "single"
+            }
+          ]
+        }
+      ],
+      "sizing": {
+        "weight_lb": {
+          "max": 12
+        }
+      },
+      "type": "diaper"
+    }
+  ]
+}

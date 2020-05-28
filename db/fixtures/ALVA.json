@@ -1,0 +1,4088 @@
+{
+  "brand": "ALVA",
+  "country_origin": "China",
+  "product_lines": [
+    {
+      "dimensions": {
+        "in": {
+          "length": 15,
+          "width": 13
+        }
+      },
+      "name": "ALVABABY Diaper Cover",
+      "products": [
+        {
+          "code": "DC-B01",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb01-p-3036.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "orange"
+          ]
+        },
+        {
+          "code": "DC-B07",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb07-p-3037.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "red"
+          ]
+        },
+        {
+          "code": "DC-B09",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb09-p-3039.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "white"
+          ]
+        },
+        {
+          "code": "DC-B10",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb10-p-3038.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "green"
+          ]
+        },
+        {
+          "code": "DC-B18",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "DC-B25",
+          "image": "https://www.alvababy.com/images/v/201701/14836123960.jpg",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb25-p-3041.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "royal blue",
+            "blue"
+          ]
+        },
+        {
+          "code": "DC-B26",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb26-p-3042.html",
+              "price": 3.80,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "black"
+          ]
+        },
+        {
+          "code": "DC-H065",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dch065-p-3390.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "feminine",
+            "floral",
+            "pattern",
+            "pink",
+            "purple"
+          ]
+        },
+        {
+          "code": "DC-S33",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcs33-p-3389.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "chevron",
+            "gender neutral",
+            "geometric",
+            "gray",
+            "pattern",
+            "white"
+          ]
+        },
+        {
+          "code": "DC-S44",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcs44-p-3044.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "gender neutral",
+            "nautical",
+            "pattern",
+            "purple"
+          ]
+        },
+        {
+          "code": "DC-YA37",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya37-p-3045.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "chevron",
+            "gender neutral",
+            "geometric",
+            "pattern",
+            "rainbow"
+          ]
+        },
+        {
+          "code": "DC-YA54",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya54-p-3048.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "DC-YA84",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya84-p-3046.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "animal",
+            "blue",
+            "black",
+            "gender neutral",
+            "pattern",
+            "pink",
+            "white"
+          ]
+        },
+        {
+          "code": "DC-YA126",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
+              "price": 43.00,
+              "quantity": 10,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya126-p-3049.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "blue",
+            "masculine",
+            "nautical",
+            "pattern"
+          ]
+        }
+      ],
+      "sizing": {
+        "size": "OSFA",
+        "weight_kg": {
+          "max": 15,
+          "min": 3
+        },
+        "weight_lb": {
+          "max": 33,
+          "min": 6.6
+        }
+      },
+      "tags": [
+        "cover",
+        "double gussets",
+        "snaps",
+        "tpu"
+      ]
+    },
+    {
+      "dimensions": {
+        "cm": {
+          "length": 42,
+          "width": {
+            "belly": 32.5,
+            "waist": 45.5
+          }
+        }
+      },
+      "name": "ALVABABY Big Size Pocket Cloth Diaper",
+      "products": [
+        {
+          "code": "ZB26",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zb26-p-3282.html",
+              "price": "$7.00",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "black"
+          ]
+        },
+        {
+          "code": "ZH022",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zh022-p-3286.html",
+              "price": "$7.50",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "patern",
+            "animal",
+            "blue",
+            "black"
+          ]
+        },
+        {
+          "code": "ZH042",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zh042-p-3287.html",
+              "price": "$7.50",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "animal",
+            "gray",
+            "orange",
+            "pattern",
+            "polka dots"
+          ]
+        },
+        {
+          "code": "ZB29",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zb29-p-3283.html",
+              "price": "$7.00",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "beige"
+          ]
+        },
+        {
+          "code": "ZH078",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zh078-p-3918.html",
+              "price": "$7.50",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "pink",
+            "orange",
+            "floral"
+          ]
+        },
+        {
+          "code": "ZH085",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zh085-p-3919.html",
+              "price": "$7.50",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "sleep",
+            "sky",
+            "moon",
+            "stars",
+            "space",
+            "blue",
+            "yellow",
+            "pattern"
+          ]
+        },
+        {
+          "code": "ZH052",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zh052-p-3284.html",
+              "price": "$7.50",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "math",
+            "green",
+            "white"
+          ]
+        },
+        {
+          "code": "ZS33",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-big-size-cloth-diaper-with-one-4layer-super-absorbent-microfiber-insert-zs33-p-3285.html",
+              "price": "$7.50",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "geometric",
+            "chevron",
+            "gray",
+            "white"
+          ]
+        }
+      ],
+      "sizing": {
+        "rough_age": {
+          "max": 3.5,
+          "min": 1
+        },
+        "size": "OSFA",
+        "weight_kg": {
+          "max": 15,
+          "min": 3
+        },
+        "weight_lb": {
+          "max": 33,
+          "min": 6.6
+        }
+      },
+      "tags": [
+        "pocket diaper",
+        "snaps",
+        "tpu",
+        "suede"
+      ]
+    },
+    {
+      "dimensions": {
+        "in": {
+          "length": 15,
+          "width": 13
+        }
+      },
+      "name": "ALVABABY Plain Pocket Diaper",
+      "products": [
+        {
+          "code": "B09",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-snow-white-b09-p-2638.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "white"
+          ]
+        },
+        {
+          "code": "B29",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b29-p-2648.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "beige"
+          ]
+        },
+        {
+          "code": "B04",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b04-p-2633.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B05",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b05-p-2634.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B11",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b11-p-2640.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "green"
+          ]
+        },
+        {
+          "code": "B01",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b01-p-2631.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "orange"
+          ]
+        },
+        {
+          "code": "B19",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-girly-color-b19-p-2655.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "B15",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-girly-color-b15-p-2646.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "purple"
+          ]
+        },
+        {
+          "code": "B12",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b12-p-2641.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "yellow"
+          ]
+        },
+        {
+          "code": "B10",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b10-p-2639.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "green"
+          ]
+        },
+        {
+          "code": "B16",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-girly-color-watermelon-pink-b16-p-2647.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "B35",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b35-eclipse-p-4033.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B33",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b33-shaded-spruce-p-4031.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "teal"
+          ]
+        },
+        {
+          "code": "B06",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b06-p-2635.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B26",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b26-p-2651.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "black"
+          ]
+        },
+        {
+          "code": "B03",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b03-p-2632.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B02",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-1-microfiber-insert-unisex-color-b02-p-2660.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B07",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b07-p-2636.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "red"
+          ]
+        },
+        {
+          "code": "B17",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b17-p-2649.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "orange"
+          ]
+        },
+        {
+          "code": "B30",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b30-p-2642.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "green"
+          ]
+        },
+        {
+          "code": "B25",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b25-p-2653.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "B38",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b38-royal-blue-p-4036.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "teal",
+            "blue"
+          ]
+        },
+        {
+          "code": "B14",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-girly-color-b14-p-2643.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "purple"
+          ]
+        },
+        {
+          "code": "B18",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-girly-color-b18-p-2652.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "B08",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-with-1-microfiber-insert-for-baby-girl-bubble-gum-pink-b08-p-2637.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "B21",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b21-p-2658.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "green"
+          ]
+        },
+        {
+          "code": "B36",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b36-jester-red-p-4034.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "red"
+          ]
+        },
+        {
+          "code": "B23",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b23-p-2657.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "green"
+          ]
+        },
+        {
+          "code": "B34",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b34-pink-reacock-p-4032.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "B37",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b37-marrs-green-p-4035.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "teal"
+          ]
+        },
+        {
+          "code": "B27",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b27-p-2650.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "brown"
+          ]
+        },
+        {
+          "code": "B32",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-pure-reusable-cloth-diaper-nappy-with-1-microfiber-insert-unisex-color-b32-scuba-blue-p-4029.html",
+              "price": "$6.89",
+              "type": "single"
+            },
+            {
+              "link": "https://www.alvababy.com/20-alva-baby-classical-all-in-one-diaper-with-sewnin-4layer-bamboo-insert-ao-p-4593.html",
+              "price": "$104.00",
+              "type": "bulk"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "H074",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-neutral-design-for-baby-boy-and-baby-girl-pineapple-h074-p-3477.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H040",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-out-of-this-world-h040-p-2756.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H050",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-spring-has-sprung-h050-p-2782.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H091",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h091-p-3685.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H022",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h022-p-2684.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H042",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-foxy-friends-h042-p-2763.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H095",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h095-p-3702.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H034",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h034-p-2694.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H066",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-rose-for-baby-girl-h066-p-3307.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H134",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h134-p-3714.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H062",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-animal-pattern-h062-p-3248.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H027",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h027-p-2688.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H086",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-neutral-design-pizza-print-for-baby-boy-and-baby-girl-h086-p-3589.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H051",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h051-for-baby-girl-p-2788.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H037",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h037-for-baby-girls-p-2697.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H117",
+          "listings": [
+            {
+              "link": "",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H063",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-h063-p-2882.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H078",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-floral-fluff-h078-p-3524.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H054",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h054-p-2795.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H030",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h030-p-2691.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H132",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h132-p-3701.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H064",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-h064-p-2883.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H028",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h028-p-2689.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H187",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h187-p-4151.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H-YK47",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-hyk47-p-3939.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H-YK48",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-hyk48-p-3940.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H-YK49",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-hyk49-p-4003.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H-YK50",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-hyk50-p-3944.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H021",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-up-up-and-away-h021-p-2682.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H035",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-feather-fluff-h035-p-2695.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H038",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-love-pattern-h038-p-2698.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H041",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h041-p-2757.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H044",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h044-p-2766.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H046",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h046-p-2768.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H061",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h061-p-2824.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H068",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h068-p-3404.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H069",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h069-p-3444.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H071",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h071-p-3446.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H072",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h072-p-3463.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H076",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-neutral-design-for-baby-boy-and-baby-girl-h076-p-3479.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H077",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-neutral-design-for-baby-girl-sweet-cheeks-h077-p-3523.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H079",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-spring-fling-h079-p-3525.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H084",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-neutral-design-for-baby-boy-and-baby-girl-h084-p-3587.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H085",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-neutral-design-for-baby-boy-and-baby-girl-h085-p-3588.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H092",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h092-p-3699.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H093",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h093-p-3700.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H099",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h099-p-3707.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H108",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/buy-alvababy-new-arrival-cloth-pocket-diaper-nappy-one-diaper-with-one-insert-popsicle-for-baby-boy-and-baby-girl-h108-p-3780.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H110",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h110-p-3855.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H114",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h114-p-3866.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H115",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h115-p-3867.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H121",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h121-p-3703.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H122",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h122-p-3902.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H126",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h126-p-3906.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H127",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h127-p-3914.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H136",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h136-p-3741.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H139",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-autumn-bottom-h139-p-3927.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H140",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-rosy-cheeks-h140-p-3928.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H141",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-elephant-parade-h141-p-3929.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H142",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h142-p-3953.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H144",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h144-p-3955.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H146",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h146-p-3957.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H147",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h147-p-3958.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H150",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-let-it-snow-h150-p-3962.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H151",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-remember-me-h151-p-3963.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H152",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-autumn-bottom-h139-p-3927.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H153",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-whale-shadows-h153-p-3965.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H154",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h154-p-4004.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H155",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h155-p-4005.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H157",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h157-p-4021.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H159",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h159-p-4025.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H160",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h160-p-4027.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H161",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h161-p-4050.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H162",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h162-p-4052.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H164",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h164-p-4055.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H165",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h165-p-4057.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H166",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h166-p-4060.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H167",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h167-p-4061.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H169",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h169-p-4066.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H170",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h170-p-4067.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H171",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h171-p-4069.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H172",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h172-p-4103.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H173",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h173-p-4104.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H174",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h174-p-4105.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H175",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h175-p-4108.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H177",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h177-p-4120.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H181",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h181-p-4127.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H182",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h182-p-4136.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H183",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h183-p-4137.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H185",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h185-p-4142.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H186",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h186-p-4143.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H188",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h188-p-4152.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H189",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h189-p-4154.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H190",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h190-p-4157.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H191",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h191-p-4175.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H192",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h192-p-4176.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H193",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h193-p-4189.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H194",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h194-p-4200.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H196",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h196-p-4201.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H197",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h197-p-4211.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H198",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h198-p-4212.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H199",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h199-p-4214.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H200",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h200-p-4216.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H201",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h201-p-4217.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H202",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h202-p-4220.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H203",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h203-p-4239.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H204",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h204-p-4240.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H205",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h205-p-4243.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H206",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h206-p-4244.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H207",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h207-p-4246.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H208",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h208-p-4249.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H209",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h209-p-4338.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H210",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h210-p-4339.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H211",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h211-p-4341.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H212",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h212-p-4344.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H213",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h213-p-4361.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H214",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h214-p-4366.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H215",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h215-p-4363.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H216",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h216-p-4367.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H219",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h219-p-4373.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H220",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boyh220-p-4374.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H221",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h221-p-4440.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H222",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h222-p-4442.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H223",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h223-p-4444.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H224",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h224-p-4446.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H225",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h225-p-4448.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H226",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h226-p-4450.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H227",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-and-baby-girl-h227-p-4465.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H228",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h228-p-4467.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H229",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h229-p-4469.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H230",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h230-p-4471.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H231",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h231-p-4490.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H232",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-and-baby-boy-h232-p-4492.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H233",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-girl-h233-p-4494.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H234",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-for-baby-boy-h234-p-4496.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H235",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-rose-for-baby-girl-h235-p-4580.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H236",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-rose-for-baby-girl-h236-p-4581.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H237",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h237-p-4582.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H238",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-rose-for-baby-girl-h238-p-4583.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H239",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-rose-for-baby-girl-h239-p-4584.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H240",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h240-p-4585.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H241",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h241-p-4586.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H242",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h242-p-4587.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H243",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h243-p-4588.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H244",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-rose-for-baby-girl-h244-p-4589.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H245",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h245-p-4634.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H246",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h246-p-4635.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H247",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h247-p-4636.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H248",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h248-p-4637.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H249",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h249-p-4638.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H250",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h250-p-4639.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H251",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h251-p-4640.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H252",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h252-p-4641.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H254",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h254-p-4643.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H255",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h255-p-4644.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H256",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h256-p-4658.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "H253",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-h253-p-4642.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "h-series"
+          ]
+        },
+        {
+          "code": "A10",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-minky-print-reusable-cloth-diaper-nappy1-insert-unisex-pattern-a10-p-2826.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "A24",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-minky-print-reusable-cloth-diaper-nappy1-insert-unisex-pattern-a24-p-2825.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "J01",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-jeans-j01-p-2667.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "N01",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-bee-n01-p-2727.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "N06",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-spider-man-n06-p-2728.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "N11T",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-owl-aways-love-you-n11t-p-2764.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "S09",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-butterfly-kisses-s09-p-2834.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "S33",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-greywhite-chevron-s33-p-2861.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA112",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-for-baby-girl-ya112-p-2735.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA123",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-ya123-p-2746.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA126",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-ship-sailing-ya126-p-2749.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA28",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-fish-ya28-p-2707.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA39",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-block-of-color-ya39-p-2713.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA54",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-american-hero-ya54-p-2715.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical series"
+          ]
+        },
+        {
+          "code": "YA88",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-mustache-ya88-p-2724.html",
+              "price": "$5.59",
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "classical"
+          ]
+        }
+      ],
+      "sizing": {
+        "size": "OSFA",
+        "weight_kg": {
+          "max": 15,
+          "min": 3
+        },
+        "weight_lb": {
+          "max": 33,
+          "min": 6.6
+        }
+      },
+      "tags": [
+        "pocket diaper",
+        "snaps",
+        "tpu",
+        "suede"
+      ]
+    },
+    {
+      "dimensions": {
+        "in": {
+          "length": 15,
+          "width": 13
+        }
+      },
+      "name": "ALVABABY All In One Diapers",
+      "products": [
+        {
+          "code": "AO-H021",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoh021-p-3064.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-H024",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoh024-p-3065.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-H091",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoh091-p-3876.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-H100",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoh100-p-3869.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-S09",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aos09-p-3062.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-YA124",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoya124-p-3059.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-YA126",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoya126-p-3877.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-YA132",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoya132-p-3061.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "AO-YA75",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alvababy-all-in-one-diaper-with-pocket-sewnin-one-4layer-bamboomicrofiber-insert-aoya75-p-3870.html",
+              "price": "$4.79",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        }
+      ],
+      "sizing": {
+        "size": "OSFA",
+        "weight_kg": {
+          "max": 15,
+          "min": 3
+        },
+        "weight_lb": {
+          "max": 33,
+          "min": 6.6
+        }
+      },
+      "tags": [
+        "all in one",
+        "aio",
+        "snaps",
+        "tpu",
+        "suede",
+        "bamboo",
+        "microfiber"
+      ]
+    },
+    {
+      "dimensions": {
+        "in": {
+          "length": 15,
+          "width": 13
+        }
+      },
+      "name": "ALVABABY All In Two Diapers",
+      "products": [
+        {
+          "code": "CA10",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-ca10-p-2845.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CB06",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cb06-p-3018.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CB07",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cb07-p-3019.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CB09",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cb09-p-3020.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CB10",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cb10-p-3021.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CB18",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cb18-p-3024.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CB26",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cb26-p-3026.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CH021",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-ch021-p-3033.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CH022",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-ch022-p-3034.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CH030",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-ch030-p-3035.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CN06",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cn06-p-3032.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CS33",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cs33-p-3029.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CYA37",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cya37-p-3030.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "code": "CYA88",
+          "listings": [
+            {
+              "link": "https://www.alvababy.com/1-alva-baby-ai2-40-cloth-diapers-with-double-gussets-with-1-microfiber-snapin-insert-cya88-p-3031.html?pagesize=40",
+              "price": "$6.99",
+              "type": "single"
+            }
+          ],
+          "tags": []
+        }
+      ],
+      "sizing": {
+        "size": "OSFA",
+        "weight_kg": {
+          "max": 15,
+          "min": 3
+        },
+        "weight_lb": {
+          "max": 33,
+          "min": 6.6
+        }
+      },
+      "tags": [
+        "all in two",
+        "ai2",
+        "snaps",
+        "tpu",
+        "suede",
+        "microfiber"
+      ]
+    },
+    {
+      "dimensions": {
+        "in": {
+          "length": 13,
+          "width": 10.25
+        }
+      },
+      "name": "ALVABABY Newborn Plain Pocket Diaper",
+      "products": [
+        {
+          "code": "SB01",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb01-p-3148.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "yellow",
+            "orange"
+          ]
+        },
+        {
+          "code": "SB02",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb02-p-3149.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "SB03",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb03-p-3150.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "SB06",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb06-p-3151.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "SB07",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb07-p-3152.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "red"
+          ]
+        },
+        {
+          "code": "SB08",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb08-p-3153.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "pink"
+          ]
+        },
+        {
+          "code": "SB09",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb09-p-3154.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "white"
+          ]
+        },
+        {
+          "code": "SB14",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb14-p-3156.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "purple"
+          ]
+        },
+        {
+          "code": "SB17",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb17-p-3158.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "orange"
+          ]
+        },
+        {
+          "code": "SB25",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb25-p-3161.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "blue"
+          ]
+        },
+        {
+          "code": "SB26",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb26-p-3162.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "solid",
+            "black"
+          ]
+        },
+        {
+          "code": "SYA65",
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.alvababy.com/one-size-newborn-baby-snap-printed-cloth-pocket-diaper-with-one-3layer-newborn-microfiber-insert-sya65-p-3165.html",
+              "price": 4.50,
+              "type": "single"
+            }
+          ],
+          "tags": [
+            "pattern",
+            "rainbow",
+            "stripes"
+          ]
+        }
+      ],
+      "sizing": {
+        "weight_lb": {
+          "max": 12
+        }
+      },
+      "tags": [
+        "pocket",
+        "snaps",
+        "tpu",
+        "suede"
+      ]
+    }
+  ]
+}
