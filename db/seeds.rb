@@ -8,6 +8,8 @@ require 'json'
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+User.create(email: "fluffy-butts@gmail.com", password: "123456", role: :admin)
+
 # brand_data = JSON.parse(File.read('db/fixtures/ALVA.json'))
 brand_data = JSON.parse(File.read('db/fixtures/ALVA.json'))
 
@@ -23,7 +25,7 @@ brand_data['product_lines'].each do |product_line_data|
     product = Product.find_or_create_by({ manufacturer_code: product_data['code'], product_line: product_line })
     product_data['tags'].each do |tag_name|
       tag = Tag.find_or_create_by({ name: tag_name })
-      product.product_tags << tag
+      product.tags << tag
     end
     product_data['listings'].each do |listing_data|
       listing = Listing.find_or_create_by({
