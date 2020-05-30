@@ -8,6 +8,349 @@
         "all in one",
         "aoi",
         "snaps",
+        "osfa",
+        "tpu"
+      ],
+      "name": "Freetime™",
+      "products": [
+        {
+          "code": "countess",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=41695318725",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "dazzle",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43579712965",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sassy",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43580218373",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "twilight",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43580311493",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "zinnia",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43578836293",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "mid-century",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=44124480517",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "sierpinski",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43681627269",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "stop",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=12198534479944",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "go",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=12198534611016",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "code": "faster",
+          "tags": [],
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
+              "price": 246.60,
+              "quantity": 12,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
+              "price": 447.84,
+              "quantity": 24,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
+              "price": 125.70,
+              "quantity": 6,
+              "type": "bulk"
+            },
+            {
+              "currency": "USD",
+              "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=12198534840392",
+              "price": 21.95,
+              "type": "single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dimensions": {},
+      "tags": [
+        "all in one",
+        "aoi",
+        "snaps",
         "tpu"
       ],
       "name": "Elemental™",

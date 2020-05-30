@@ -1,9 +1,13 @@
 class Product < ApplicationRecord
   belongs_to :product_line
+  has_one :brand, through: :product_line
+
   has_many :product_listings
   has_many :listings, through: :product_listings
   has_many :taggings, as: :taggable
   has_many :tags, through: :taggings
+  has_many :imagings, as: :imagable
+  has_many :images, through: :imagings
 
   def self.find_by_tag_ids(tag_ids = [])
     @product_tags = Tag.where(id: tag_ids);
