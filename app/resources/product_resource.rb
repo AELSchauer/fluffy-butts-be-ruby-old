@@ -7,4 +7,9 @@ class ProductResource < JSONAPI::Resource
   has_many :tags
 
   filters :id, :name, :tags, :product_line, :brand
+
+  filter :'brand.name', apply: ->(records, value, _options) {
+    vals = value.sort.map { |v| "'#{v}'"}.join(', ')
+    records.joins(:brand).where("brands.name IN (#{vals})")
+  }
 end
