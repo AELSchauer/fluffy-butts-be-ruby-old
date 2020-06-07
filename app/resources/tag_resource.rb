@@ -1,3 +1,5 @@
 class TagResource < JSONAPI::Resource
-  attributes :name
+  attributes :name, :category
+
+  paginator :none
 end

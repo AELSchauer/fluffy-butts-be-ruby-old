@@ -1,8 +1,18 @@
 require 'json'
 
+
 def upload_brand_data (brand_filename)
+  tag_categories_data = JSON.parse(File.read('db/fixtures/tag_categories.json'))
   brand_data = JSON.parse(File.read(brand_filename))
   brand = Brand.find_or_create_by({ name: brand_data['brand'], origin_country: brand_data['country_origin'] })
+
+  brand_data['patterns'].each do |pattern_data|
+    pattern = Pattern.find_or_create_by({ name: pattern_data['name'], brand: brand })
+    pattern_data['tags'].each do |tag_name|
+      tag = Tag.find_or_create_by({ name: tag_name, category: tag_categories_data[tag_name] })
+      pattern.tags << tag
+    end
+  end
 
   brand_data['product_lines'].each do |product_line_data|
     product_line = ProductLine.find_or_create_by({ name: product_line_data['name'], brand: brand })
@@ -13,10 +23,11 @@ def upload_brand_data (brand_filename)
     end
 
     product_line_data['products'].each do |product_data|
-      product = Product.find_or_create_by({ manufacturer_code: product_data['code'], product_line: product_line })
-      product_data['tags'].each do |tag_name|
-        tag = Tag.find_or_create_by({ name: tag_name })
-        product.tags << tag
+      pattern = Pattern.find_by({ name: product_data["pattern"], brand: brand })
+      product = Product.find_or_create_by({ manufacturer_code: product_data['code'], product_line: product_line, pattern: pattern })
+
+      if product.nil?
+        print product_data
       end
 
       product_data['listings'].each do |listing_data|
@@ -51,7 +62,7 @@ def upload_images(image_filename)
         if not product.nil?
           product.images << product_image
         else
-          print product_line.name, ' ', product_image_data['name'].sub('.jpg','').sub('.png',''), "\n"
+          print product_line.name, ' ', product_image_data, "\n"
         end
       end
     end
@@ -62,6 +73,4 @@ User.create(email: "fluffy-butts-fake@gmail.com", password: "123456", role: :adm
 
 upload_brand_data('db/fixtures/AlvaBaby.json')
 upload_brand_data('db/fixtures/bumGenius.json')
-upload_images('db/fixtures/Images -- Fri May 29 2020.json')
-
-
+upload_images('db/fixtures/Images.json')

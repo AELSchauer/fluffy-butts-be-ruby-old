@@ -50,6 +50,14 @@ ActiveRecord::Schema.define(version: 2020_05_29_052909) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  create_table "patterns", force: :cascade do |t|
+    t.string "name", null: false
+    t.bigint "brand_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["brand_id"], name: "index_patterns_on_brand_id"
+  end
+
   create_table "product_lines", force: :cascade do |t|
     t.integer "product_type"
     t.string "name"
@@ -71,17 +79,19 @@ ActiveRecord::Schema.define(version: 2020_05_29_052909) do
   end
 
   create_table "products", force: :cascade do |t|
-    t.bigint "product_line_id", null: false
     t.string "manufacturer_code"
+    t.bigint "pattern_id", null: false
+    t.bigint "product_line_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["pattern_id"], name: "index_products_on_pattern_id"
     t.index ["product_line_id"], name: "index_products_on_product_line_id"
   end
 
   create_table "taggings", force: :cascade do |t|
-    t.integer "tag_id"
-    t.string "taggable_type", default: ""
-    t.integer "taggable_id"
+    t.integer "tag_id", null: false
+    t.string "taggable_type", null: false
+    t.integer "taggable_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["tag_id"], name: "index_taggings_on_tag_id"
@@ -89,9 +99,11 @@ ActiveRecord::Schema.define(version: 2020_05_29_052909) do
   end
 
   create_table "tags", force: :cascade do |t|
-    t.string "name", default: ""
+    t.string "name", null: false
+    t.integer "category", default: 0
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["category"], name: "index_tags_on_category"
     t.index ["name"], name: "index_tags_on_name"
   end
 
@@ -106,8 +118,10 @@ ActiveRecord::Schema.define(version: 2020_05_29_052909) do
     t.index ["email"], name: "index_users_on_email", unique: true
   end
 
+  add_foreign_key "patterns", "brands"
   add_foreign_key "product_lines", "brands"
   add_foreign_key "product_listings", "listings"
   add_foreign_key "product_listings", "products"
+  add_foreign_key "products", "patterns"
   add_foreign_key "products", "product_lines"
 end

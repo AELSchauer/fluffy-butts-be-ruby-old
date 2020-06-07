@@ -1,9 +1,8 @@
-class ProductLineResource < JSONAPI::Resource
+class PatternResource < JSONAPI::Resource
   attributes :name
-  has_one :brand
   has_many :products
   has_many :tags
 
-  filter :name
+  filters :name
   filters :brand, :tags
 end

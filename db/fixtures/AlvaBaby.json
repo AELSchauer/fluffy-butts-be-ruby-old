@@ -1,6 +1,1453 @@
 {
   "brand": "AlvaBaby",
   "country_origin": "China",
+  "patterns": [
+    {
+      "name": "A10",
+      "tags": [
+        "animal prints"
+      ]
+    },
+    {
+      "name": "A24",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "name": "B01",
+      "tags": [
+        "solid",
+        "orange"
+      ]
+    },
+    {
+      "name": "B02",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B03",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B04",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B05",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B06",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B07",
+      "tags": [
+        "solid",
+        "red"
+      ]
+    },
+    {
+      "name": "B08",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "B09",
+      "tags": [
+        "solid",
+        "white"
+      ]
+    },
+    {
+      "name": "B10",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "B11",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "B12",
+      "tags": [
+        "solid",
+        "yellow"
+      ]
+    },
+    {
+      "name": "B14",
+      "tags": [
+        "solid",
+        "purple"
+      ]
+    },
+    {
+      "name": "B15",
+      "tags": [
+        "solid",
+        "purple"
+      ]
+    },
+    {
+      "name": "B16",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "B17",
+      "tags": [
+        "solid",
+        "orange"
+      ]
+    },
+    {
+      "name": "B18",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "B19",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "B21",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "B23",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "B25",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B26",
+      "tags": [
+        "solid",
+        "black"
+      ]
+    },
+    {
+      "name": "B27",
+      "tags": [
+        "solid",
+        "brown"
+      ]
+    },
+    {
+      "name": "B29",
+      "tags": [
+        "solid",
+        "beige"
+      ]
+    },
+    {
+      "name": "B30",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "B32",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B33",
+      "tags": [
+        "solid",
+        "teal"
+      ]
+    },
+    {
+      "name": "B34",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "B35",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "B36",
+      "tags": [
+        "solid",
+        "red"
+      ]
+    },
+    {
+      "name": "B37",
+      "tags": [
+        "solid",
+        "teal"
+      ]
+    },
+    {
+      "name": "B38",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "H021",
+      "tags": [
+        "balloons",
+        "travel & transportation"
+      ]
+    },
+    {
+      "name": "H022",
+      "tags": [
+        "animal prints",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H024",
+      "tags": [
+        "abstract & geometric",
+        "herringbone",
+        "pink",
+        "yellow",
+        "blue"
+      ]
+    },
+    {
+      "name": "H027",
+      "tags": [
+        "outer space"
+      ]
+    },
+    {
+      "name": "H028",
+      "tags": [
+        "native american culture"
+      ]
+    },
+    {
+      "name": "H030",
+      "tags": [
+        "nature",
+        "birds & feathers"
+      ]
+    },
+    {
+      "name": "H034",
+      "tags": [
+        "paisley",
+        "purple",
+        "blue"
+      ]
+    },
+    {
+      "name": "H035",
+      "tags": [
+        "birds & feathers",
+        "nature"
+      ]
+    },
+    {
+      "name": "H037",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H038",
+      "tags": [
+        "writing & text"
+      ]
+    },
+    {
+      "name": "H040",
+      "tags": [
+        "outer space"
+      ]
+    },
+    {
+      "name": "H041",
+      "tags": [
+        "fantasy",
+        "monsters"
+      ]
+    },
+    {
+      "name": "H042",
+      "tags": [
+        "animals",
+        "nature",
+        "polka dots"
+      ]
+    },
+    {
+      "name": "H044",
+      "tags": [
+        "floral",
+        "nature"
+      ]
+    },
+    {
+      "name": "H046",
+      "tags": [
+        "birds & feathers",
+        "hearts"
+      ]
+    },
+    {
+      "name": "H050",
+      "tags": [
+        "foliage",
+        "nature"
+      ]
+    },
+    {
+      "name": "H051",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H052",
+      "tags": [
+        "stem",
+        "school"
+      ]
+    },
+    {
+      "name": "H054",
+      "tags": [
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H061",
+      "tags": [
+        "abstract & geometric",
+        "pink",
+        "purple"
+      ]
+    },
+    {
+      "name": "H062",
+      "tags": [
+        "animals",
+        "birds & feathers",
+        "black and white"
+      ]
+    },
+    {
+      "name": "H063",
+      "tags": [
+        "polka dots",
+        "abstract & geometric"
+      ]
+    },
+    {
+      "name": "H064",
+      "tags": [
+        "disney",
+        "black and white"
+      ]
+    },
+    {
+      "name": "H065",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H066",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H068",
+      "tags": [
+        "stem",
+        "school"
+      ]
+    },
+    {
+      "name": "H069",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H071",
+      "tags": [
+        "fantasy",
+        "rainbow"
+      ]
+    },
+    {
+      "name": "H072",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H074",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H076",
+      "tags": [
+        "food & beverage",
+        "seasons",
+        "summer"
+      ]
+    },
+    {
+      "name": "H077",
+      "tags": [
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H078",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H079",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H084",
+      "tags": [
+        "animals",
+        "damask"
+      ]
+    },
+    {
+      "name": "H085",
+      "tags": [
+        "sleep",
+        "night"
+      ]
+    },
+    {
+      "name": "H086",
+      "tags": [
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H091",
+      "tags": [
+        "disney",
+        "star wars"
+      ]
+    },
+    {
+      "name": "H092",
+      "tags": [
+        "hobbies",
+        "animals",
+        "nautical"
+      ]
+    },
+    {
+      "name": "H093",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "name": "H095",
+      "tags": [
+        "hobbies",
+        "around the house"
+      ]
+    },
+    {
+      "name": "H099",
+      "tags": [
+        "tartan & plaid"
+      ]
+    },
+    {
+      "name": "H100",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "name": "H108",
+      "tags": [
+        "seasons",
+        "polka dots",
+        "food & beverage",
+        "summer"
+      ]
+    },
+    {
+      "name": "H110",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H114",
+      "tags": [
+        "animals",
+        "toys",
+        "bathtime"
+      ]
+    },
+    {
+      "name": "H115",
+      "tags": [
+        "foliage",
+        "nature"
+      ]
+    },
+    {
+      "name": "H117",
+      "tags": [
+        "bugs & insects"
+      ]
+    },
+    {
+      "name": "H121",
+      "tags": [
+        "floral",
+        "abstract & geometric"
+      ]
+    },
+    {
+      "name": "H122",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H126",
+      "tags": [
+        "sky",
+        "super heroes"
+      ]
+    },
+    {
+      "name": "H127",
+      "tags": [
+        "sky",
+        "abstract & geometric"
+      ]
+    },
+    {
+      "name": "H132",
+      "tags": [
+        "fantasy",
+        "aliens",
+        "outer space",
+        "black and white"
+      ]
+    },
+    {
+      "name": "H134",
+      "tags": [
+        "around the house",
+        "foliage"
+      ]
+    },
+    {
+      "name": "H136",
+      "tags": [
+        "foliage",
+        "tropical"
+      ]
+    },
+    {
+      "name": "H139",
+      "tags": [
+        "seasons",
+        "foliage",
+        "autumn"
+      ]
+    },
+    {
+      "name": "H140",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H141",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "name": "H142",
+      "tags": [
+        "quatrefoil",
+        "abstract & geometric"
+      ]
+    },
+    {
+      "name": "H144",
+      "tags": [
+        "around the house",
+        "foliage"
+      ]
+    },
+    {
+      "name": "H146",
+      "tags": [
+        "floral",
+        "foliage"
+      ]
+    },
+    {
+      "name": "H147",
+      "tags": [
+        "dinosaurs"
+      ]
+    },
+    {
+      "name": "H150",
+      "tags": [
+        "seasons",
+        "winter"
+      ]
+    },
+    {
+      "name": "H151",
+      "tags": [
+        "holidays",
+        "mexican culture"
+      ]
+    },
+    {
+      "name": "H152",
+      "tags": [
+        "sky",
+        "stars",
+        "fantasy"
+      ]
+    },
+    {
+      "name": "H153",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H154",
+      "tags": [
+        "foliage",
+        "nature"
+      ]
+    },
+    {
+      "name": "H155",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H157",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H159",
+      "tags": [
+        "birds & feathers"
+      ]
+    },
+    {
+      "name": "H160",
+      "tags": [
+        "animals",
+        "jungle"
+      ]
+    },
+    {
+      "name": "H161",
+      "tags": [
+        "animals",
+        "woodland"
+      ]
+    },
+    {
+      "name": "H162",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H164",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H165",
+      "tags": [
+        "animals",
+        "jungle"
+      ]
+    },
+    {
+      "name": "H166",
+      "tags": [
+        "animals",
+        "woodland"
+      ]
+    },
+    {
+      "name": "H167",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H169",
+      "tags": [
+        "abstract & geometric",
+        "asian culture"
+      ]
+    },
+    {
+      "name": "H170",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H171",
+      "tags": [
+        "stem",
+        "outer space"
+      ]
+    },
+    {
+      "name": "H172",
+      "tags": [
+        "woodland"
+      ]
+    },
+    {
+      "name": "H173",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H174",
+      "tags": [
+        "animals",
+        "sleep"
+      ]
+    },
+    {
+      "name": "H175",
+      "tags": [
+        "foliage",
+        "floral"
+      ]
+    },
+    {
+      "name": "H177",
+      "tags": [
+        "animals",
+        "woodland"
+      ]
+    },
+    {
+      "name": "H181",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H182",
+      "tags": [
+        "fruits",
+        "food & beverage",
+        "foliage"
+      ]
+    },
+    {
+      "name": "H183",
+      "tags": [
+        "hobbies",
+        "stem"
+      ]
+    },
+    {
+      "name": "H185",
+      "tags": [
+        "foliage",
+        "woodland"
+      ]
+    },
+    {
+      "name": "H186",
+      "tags": [
+        "floral",
+        "asian culture"
+      ]
+    },
+    {
+      "name": "H187",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H188",
+      "tags": [
+        "stripes",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H189",
+      "tags": [
+        "travel & transportation"
+      ]
+    },
+    {
+      "name": "H190",
+      "tags": [
+        "sky",
+        "white",
+        "night"
+      ]
+    },
+    {
+      "name": "H191",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "name": "H192",
+      "tags": [
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H193",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H194",
+      "tags": [
+        "black",
+        "orange",
+        "dinosaurs"
+      ]
+    },
+    {
+      "name": "H196",
+      "tags": [
+        "abstract & geometric",
+        "white"
+      ]
+    },
+    {
+      "name": "H197",
+      "tags": [
+        "food & beverage",
+        "vegetables"
+      ]
+    },
+    {
+      "name": "H198",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H199",
+      "tags": [
+        "aquatic",
+        "animals"
+      ]
+    },
+    {
+      "name": "H200",
+      "tags": [
+        "outer space"
+      ]
+    },
+    {
+      "name": "H201",
+      "tags": [
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H202",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H203",
+      "tags": [
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H204",
+      "tags": [
+        "animals",
+        "woodland"
+      ]
+    },
+    {
+      "name": "H205",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H206",
+      "tags": [
+        "outer space"
+      ]
+    },
+    {
+      "name": "H207",
+      "tags": [
+        "birds & feathers",
+        "woodland"
+      ]
+    },
+    {
+      "name": "H208",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H209",
+      "tags": [
+        "holidays",
+        "animals"
+      ]
+    },
+    {
+      "name": "H210",
+      "tags": [
+        "nautical"
+      ]
+    },
+    {
+      "name": "H211",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H212",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H213",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H214",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H215",
+      "tags": [
+        "bugs & insects"
+      ]
+    },
+    {
+      "name": "H216",
+      "tags": [
+        "floral",
+        "black and white"
+      ]
+    },
+    {
+      "name": "H219",
+      "tags": [
+        "bugs & insects"
+      ]
+    },
+    {
+      "name": "H220",
+      "tags": [
+        "black and white",
+        "foliage",
+        "floral",
+        "bugs & insects"
+      ]
+    },
+    {
+      "name": "H221",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H222",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H223",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H224",
+      "tags": [
+        "foliage"
+      ]
+    },
+    {
+      "name": "H225",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H226",
+      "tags": [
+        "dinosaurs"
+      ]
+    },
+    {
+      "name": "H227",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H228",
+      "tags": [
+        "dinosaurs"
+      ]
+    },
+    {
+      "name": "H229",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H230",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H231",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H232",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "name": "H233",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H234",
+      "tags": [
+        "dinosaurs"
+      ]
+    },
+    {
+      "name": "H235",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H236",
+      "tags": [
+        "seasons",
+        "summer",
+        "food & beverage",
+        "fruits"
+      ]
+    },
+    {
+      "name": "H238",
+      "tags": [
+        "native american culture"
+      ]
+    },
+    {
+      "name": "H239",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "H240",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "name": "H241",
+      "tags": [
+        "stars",
+        "animals"
+      ]
+    },
+    {
+      "name": "H242",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H243",
+      "tags": [
+        "woodland",
+        "animals"
+      ]
+    },
+    {
+      "name": "H244",
+      "tags": [
+        "floral",
+        "foliage"
+      ]
+    },
+    {
+      "name": "H245",
+      "tags": [
+        "floral",
+        "abstract & geometric"
+      ]
+    },
+    {
+      "name": "H246",
+      "tags": [
+        "rainbow",
+        "abstract & geometric"
+      ]
+    },
+    {
+      "name": "H247",
+      "tags": [
+        "food & beverage",
+        "seasons",
+        "summer"
+      ]
+    },
+    {
+      "name": "H248",
+      "tags": [
+        "hearts"
+      ]
+    },
+    {
+      "name": "H249",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "H250",
+      "tags": [
+        "dinosaurs",
+        "animals"
+      ]
+    },
+    {
+      "name": "H251",
+      "tags": [
+        "quilt",
+        "abstract & geometric",
+        "blue",
+        "yellow"
+      ]
+    },
+    {
+      "name": "H252",
+      "tags": [
+        "dinosaurs",
+        "animals"
+      ]
+    },
+    {
+      "name": "H253",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "H254",
+      "tags": [
+        "birds & feathers"
+      ]
+    },
+    {
+      "name": "H255",
+      "tags": [
+        "writing & text",
+        "abstract & geometric",
+        "fruits"
+      ]
+    },
+    {
+      "name": "H256",
+      "tags": [
+        "dinosaurs",
+        "animals"
+      ]
+    },
+    {
+      "name": "J01",
+      "tags": [
+        "miscellaneous"
+      ]
+    },
+    {
+      "name": "N01",
+      "tags": [
+        "black",
+        "yellow",
+        "stripes",
+        "bugs & insects"
+      ]
+    },
+    {
+      "name": "N06",
+      "tags": [
+        "super heroes",
+        "disney"
+      ]
+    },
+    {
+      "name": "N11T",
+      "tags": [
+        "woodland",
+        "animals"
+      ]
+    },
+    {
+      "name": "S09",
+      "tags": [
+        "bugs & insects"
+      ]
+    },
+    {
+      "name": "S33",
+      "tags": [
+        "chevron",
+        "gray",
+        "white"
+      ]
+    },
+    {
+      "name": "S44",
+      "tags": [
+        "nautical"
+      ]
+    },
+    {
+      "name": "YA65",
+      "tags": [
+        "rainbow",
+        "stripes",
+        "stars"
+      ]
+    },
+    {
+      "name": "YA123",
+      "tags": [
+        "animals",
+        "jungle"
+      ]
+    },
+    {
+      "name": "YA124",
+      "tags": [
+        "floral"
+      ]
+    },
+    {
+      "name": "YA126",
+      "tags": [
+        "nautical"
+      ]
+    },
+    {
+      "name": "YA132",
+      "tags": [
+        "fantasy",
+        "skulls",
+        "movies"
+      ]
+    },
+    {
+      "name": "YA28",
+      "tags": [
+        "aquatic"
+      ]
+    },
+    {
+      "name": "YA37",
+      "tags": [
+        "chevron",
+        "rainbow"
+      ]
+    },
+    {
+      "name": "YA39",
+      "tags": [
+        "toys"
+      ]
+    },
+    {
+      "name": "YA54",
+      "tags": [
+        "super heroes",
+        "disney"
+      ]
+    },
+    {
+      "name": "YA75",
+      "tags": [
+        "rainbow",
+        "birds & feathers"
+      ]
+    },
+    {
+      "name": "YA84",
+      "tags": [
+        "animal prints"
+      ]
+    },
+    {
+      "name": "YA88",
+      "tags": [
+        "black and white",
+        "hipster",
+        "miscellaneous"
+      ]
+    },
+    {
+      "name": "YK47",
+      "tags": [
+        "aquatic"
+      ]
+    },
+    {
+      "name": "YK48",
+      "tags": [
+        "aquatic"
+      ]
+    },
+    {
+      "name": "YK49",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    },
+    {
+      "name": "YK50",
+      "tags": [
+        "fruits",
+        "food & beverage"
+      ]
+    }
+  ],
   "product_lines": [
     {
       "dimensions": {
@@ -35,10 +1482,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "orange"
-          ]
+          "pattern": "B01",
+          "tags": []
         },
         {
           "code": "DC-B07",
@@ -64,10 +1509,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "red"
-          ]
+          "pattern": "B07",
+          "tags": []
         },
         {
           "code": "DC-B09",
@@ -93,10 +1536,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "white"
-          ]
+          "pattern": "B09",
+          "tags": []
         },
         {
           "code": "DC-B10",
@@ -122,10 +1563,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "green"
-          ]
+          "pattern": "B10",
+          "tags": []
         },
         {
           "code": "DC-B18",
@@ -151,10 +1590,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B18",
+          "tags": []
         },
         {
           "code": "DC-B25",
@@ -181,11 +1618,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "royal blue",
-            "blue"
-          ]
+          "pattern": "B25",
+          "tags": []
         },
         {
           "code": "DC-B26",
@@ -211,10 +1645,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "black"
-          ]
+          "pattern": "B26",
+          "tags": []
         },
         {
           "code": "DC-H065",
@@ -240,13 +1672,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "feminine",
-            "floral",
-            "pattern",
-            "pink",
-            "purple"
-          ]
+          "pattern": "H065",
+          "tags": []
         },
         {
           "code": "DC-S33",
@@ -272,14 +1699,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "chevron",
-            "gender neutral",
-            "geometric",
-            "gray",
-            "pattern",
-            "white"
-          ]
+          "pattern": "S33",
+          "tags": []
         },
         {
           "code": "DC-S44",
@@ -305,12 +1726,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "gender neutral",
-            "nautical",
-            "pattern",
-            "purple"
-          ]
+          "pattern": "S44",
+          "tags": []
         },
         {
           "code": "DC-YA37",
@@ -336,13 +1753,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "chevron",
-            "gender neutral",
-            "geometric",
-            "pattern",
-            "rainbow"
-          ]
+          "pattern": "YA37",
+          "tags": []
         },
         {
           "code": "DC-YA54",
@@ -368,6 +1780,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA54",
           "tags": []
         },
         {
@@ -394,15 +1807,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "animal",
-            "blue",
-            "black",
-            "gender neutral",
-            "pattern",
-            "pink",
-            "white"
-          ]
+          "pattern": "YA84",
+          "tags": []
         },
         {
           "code": "DC-YA126",
@@ -428,12 +1834,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "blue",
-            "masculine",
-            "nautical",
-            "pattern"
-          ]
+          "pattern": "YA126",
+          "tags": []
         }
       ],
       "sizing": {
@@ -475,10 +1877,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "black"
-          ]
+          "pattern": "B26",
+          "tags": []
         },
         {
           "code": "ZH022",
@@ -489,12 +1889,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "patern",
-            "animal",
-            "blue",
-            "black"
-          ]
+          "pattern": "H022",
+          "tags": []
         },
         {
           "code": "ZH042",
@@ -505,13 +1901,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "animal",
-            "gray",
-            "orange",
-            "pattern",
-            "polka dots"
-          ]
+          "pattern": "H042",
+          "tags": []
         },
         {
           "code": "ZB29",
@@ -522,10 +1913,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "beige"
-          ]
+          "pattern": "B29",
+          "tags": []
         },
         {
           "code": "ZH078",
@@ -536,12 +1925,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "pink",
-            "orange",
-            "floral"
-          ]
+          "pattern": "H078",
+          "tags": []
         },
         {
           "code": "ZH085",
@@ -552,16 +1937,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "sleep",
-            "sky",
-            "moon",
-            "stars",
-            "space",
-            "blue",
-            "yellow",
-            "pattern"
-          ]
+          "pattern": "H085",
+          "tags": []
         },
         {
           "code": "ZH052",
@@ -572,12 +1949,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "math",
-            "green",
-            "white"
-          ]
+          "pattern": "H052",
+          "tags": []
         },
         {
           "code": "ZS33",
@@ -588,13 +1961,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "geometric",
-            "chevron",
-            "gray",
-            "white"
-          ]
+          "pattern": "S33",
+          "tags": []
         }
       ],
       "sizing": {
@@ -613,7 +1981,7 @@
         }
       },
       "tags": [
-        "pocket diaper",
+        "pocket",
         "snaps",
         "tpu",
         "suede"
@@ -642,10 +2010,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "white"
-          ]
+          "pattern": "B09",
+          "tags": []
         },
         {
           "code": "B29",
@@ -661,10 +2027,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "beige"
-          ]
+          "pattern": "B29",
+          "tags": []
         },
         {
           "code": "B04",
@@ -680,10 +2044,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B04",
+          "tags": []
         },
         {
           "code": "B05",
@@ -699,10 +2061,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B05",
+          "tags": []
         },
         {
           "code": "B11",
@@ -718,10 +2078,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "green"
-          ]
+          "pattern": "B11",
+          "tags": []
         },
         {
           "code": "B01",
@@ -737,10 +2095,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "orange"
-          ]
+          "pattern": "B01",
+          "tags": []
         },
         {
           "code": "B19",
@@ -756,10 +2112,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B19",
+          "tags": []
         },
         {
           "code": "B15",
@@ -775,10 +2129,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "purple"
-          ]
+          "pattern": "B15",
+          "tags": []
         },
         {
           "code": "B12",
@@ -794,10 +2146,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "yellow"
-          ]
+          "pattern": "B12",
+          "tags": []
         },
         {
           "code": "B10",
@@ -813,10 +2163,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "green"
-          ]
+          "pattern": "B10",
+          "tags": []
         },
         {
           "code": "B16",
@@ -832,10 +2180,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B16",
+          "tags": []
         },
         {
           "code": "B35",
@@ -851,10 +2197,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B35",
+          "tags": []
         },
         {
           "code": "B33",
@@ -870,10 +2214,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "teal"
-          ]
+          "pattern": "B33",
+          "tags": []
         },
         {
           "code": "B06",
@@ -889,10 +2231,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B06",
+          "tags": []
         },
         {
           "code": "B26",
@@ -908,10 +2248,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "black"
-          ]
+          "pattern": "B26",
+          "tags": []
         },
         {
           "code": "B03",
@@ -927,10 +2265,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B03",
+          "tags": []
         },
         {
           "code": "B02",
@@ -946,10 +2282,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B02",
+          "tags": []
         },
         {
           "code": "B07",
@@ -965,10 +2299,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "red"
-          ]
+          "pattern": "B07",
+          "tags": []
         },
         {
           "code": "B17",
@@ -984,10 +2316,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "orange"
-          ]
+          "pattern": "B17",
+          "tags": []
         },
         {
           "code": "B30",
@@ -1003,10 +2333,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "green"
-          ]
+          "pattern": "B30",
+          "tags": []
         },
         {
           "code": "B25",
@@ -1022,10 +2350,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B25",
+          "tags": []
         },
         {
           "code": "B38",
@@ -1041,11 +2367,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "teal",
-            "blue"
-          ]
+          "pattern": "B38",
+          "tags": []
         },
         {
           "code": "B14",
@@ -1061,10 +2384,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "purple"
-          ]
+          "pattern": "B14",
+          "tags": []
         },
         {
           "code": "B18",
@@ -1080,10 +2401,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B18",
+          "tags": []
         },
         {
           "code": "B08",
@@ -1099,10 +2418,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B08",
+          "tags": []
         },
         {
           "code": "B21",
@@ -1118,10 +2435,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "green"
-          ]
+          "pattern": "B21",
+          "tags": []
         },
         {
           "code": "B36",
@@ -1137,10 +2452,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "red"
-          ]
+          "pattern": "B36",
+          "tags": []
         },
         {
           "code": "B23",
@@ -1156,10 +2469,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "green"
-          ]
+          "pattern": "B23",
+          "tags": []
         },
         {
           "code": "B34",
@@ -1175,10 +2486,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B34",
+          "tags": []
         },
         {
           "code": "B37",
@@ -1194,10 +2503,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "teal"
-          ]
+          "pattern": "B37",
+          "tags": []
         },
         {
           "code": "B27",
@@ -1213,10 +2520,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "brown"
-          ]
+          "pattern": "B27",
+          "tags": []
         },
         {
           "code": "B32",
@@ -1232,10 +2537,8 @@
               "type": "bulk"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B32",
+          "tags": []
         },
         {
           "code": "H074",
@@ -1246,10 +2549,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H074",
+          "tags": []
         },
         {
           "code": "H040",
@@ -1260,10 +2561,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H040",
+          "tags": []
         },
         {
           "code": "H050",
@@ -1274,10 +2573,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H050",
+          "tags": []
         },
         {
           "code": "H091",
@@ -1288,10 +2585,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H091",
+          "tags": []
         },
         {
           "code": "H022",
@@ -1302,10 +2597,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H022",
+          "tags": []
         },
         {
           "code": "H042",
@@ -1316,10 +2609,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H042",
+          "tags": []
         },
         {
           "code": "H095",
@@ -1330,10 +2621,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H095",
+          "tags": []
         },
         {
           "code": "H034",
@@ -1344,10 +2633,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H034",
+          "tags": []
         },
         {
           "code": "H066",
@@ -1358,10 +2645,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H066",
+          "tags": []
         },
         {
           "code": "H134",
@@ -1372,10 +2657,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H134",
+          "tags": []
         },
         {
           "code": "H062",
@@ -1386,10 +2669,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H062",
+          "tags": []
         },
         {
           "code": "H027",
@@ -1400,10 +2681,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H027",
+          "tags": []
         },
         {
           "code": "H086",
@@ -1414,10 +2693,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H086",
+          "tags": []
         },
         {
           "code": "H051",
@@ -1428,10 +2705,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H051",
+          "tags": []
         },
         {
           "code": "H037",
@@ -1442,10 +2717,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H037",
+          "tags": []
         },
         {
           "code": "H117",
@@ -1456,10 +2729,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H117",
+          "tags": []
         },
         {
           "code": "H063",
@@ -1470,10 +2741,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H063",
+          "tags": []
         },
         {
           "code": "H078",
@@ -1484,10 +2753,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H078",
+          "tags": []
         },
         {
           "code": "H054",
@@ -1498,10 +2765,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H054",
+          "tags": []
         },
         {
           "code": "H030",
@@ -1512,10 +2777,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H030",
+          "tags": []
         },
         {
           "code": "H132",
@@ -1526,10 +2789,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H132",
+          "tags": []
         },
         {
           "code": "H064",
@@ -1540,10 +2801,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H064",
+          "tags": []
         },
         {
           "code": "H065",
@@ -1554,10 +2813,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H065",
+          "tags": []
         },
         {
           "code": "H022",
@@ -1568,10 +2825,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H022",
+          "tags": []
         },
         {
           "code": "H028",
@@ -1582,10 +2837,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H028",
+          "tags": []
         },
         {
           "code": "H187",
@@ -1596,10 +2849,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H187",
+          "tags": []
         },
         {
           "code": "H-YK47",
@@ -1610,10 +2861,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "YK47",
+          "tags": []
         },
         {
           "code": "H-YK48",
@@ -1624,10 +2873,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "YK48",
+          "tags": []
         },
         {
           "code": "H-YK49",
@@ -1638,10 +2885,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "YK49",
+          "tags": []
         },
         {
           "code": "H-YK50",
@@ -1652,10 +2897,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "YK50",
+          "tags": []
         },
         {
           "code": "H021",
@@ -1666,10 +2909,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H021",
+          "tags": []
         },
         {
           "code": "H035",
@@ -1680,10 +2921,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H035",
+          "tags": []
         },
         {
           "code": "H038",
@@ -1694,10 +2933,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H038",
+          "tags": []
         },
         {
           "code": "H041",
@@ -1708,10 +2945,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H041",
+          "tags": []
         },
         {
           "code": "H044",
@@ -1722,10 +2957,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H044",
+          "tags": []
         },
         {
           "code": "H046",
@@ -1736,10 +2969,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H046",
+          "tags": []
         },
         {
           "code": "H061",
@@ -1750,10 +2981,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H061",
+          "tags": []
         },
         {
           "code": "H068",
@@ -1764,10 +2993,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H068",
+          "tags": []
         },
         {
           "code": "H069",
@@ -1778,10 +3005,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H069",
+          "tags": []
         },
         {
           "code": "H071",
@@ -1792,10 +3017,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H071",
+          "tags": []
         },
         {
           "code": "H072",
@@ -1806,10 +3029,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H072",
+          "tags": []
         },
         {
           "code": "H076",
@@ -1820,10 +3041,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H076",
+          "tags": []
         },
         {
           "code": "H077",
@@ -1834,10 +3053,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H077",
+          "tags": []
         },
         {
           "code": "H079",
@@ -1848,10 +3065,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H079",
+          "tags": []
         },
         {
           "code": "H084",
@@ -1862,10 +3077,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H084",
+          "tags": []
         },
         {
           "code": "H085",
@@ -1876,10 +3089,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H085",
+          "tags": []
         },
         {
           "code": "H092",
@@ -1890,10 +3101,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H092",
+          "tags": []
         },
         {
           "code": "H093",
@@ -1904,10 +3113,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H093",
+          "tags": []
         },
         {
           "code": "H099",
@@ -1918,10 +3125,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H099",
+          "tags": []
         },
         {
           "code": "H108",
@@ -1932,10 +3137,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H108",
+          "tags": []
         },
         {
           "code": "H110",
@@ -1946,10 +3149,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H110",
+          "tags": []
         },
         {
           "code": "H114",
@@ -1960,10 +3161,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H114",
+          "tags": []
         },
         {
           "code": "H115",
@@ -1974,10 +3173,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H115",
+          "tags": []
         },
         {
           "code": "H121",
@@ -1988,10 +3185,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H121",
+          "tags": []
         },
         {
           "code": "H122",
@@ -2002,10 +3197,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H122",
+          "tags": []
         },
         {
           "code": "H126",
@@ -2016,10 +3209,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H126",
+          "tags": []
         },
         {
           "code": "H127",
@@ -2030,10 +3221,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H127",
+          "tags": []
         },
         {
           "code": "H136",
@@ -2044,10 +3233,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H136",
+          "tags": []
         },
         {
           "code": "H139",
@@ -2058,10 +3245,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H139",
+          "tags": []
         },
         {
           "code": "H140",
@@ -2072,10 +3257,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H140",
+          "tags": []
         },
         {
           "code": "H141",
@@ -2086,10 +3269,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H141",
+          "tags": []
         },
         {
           "code": "H142",
@@ -2100,10 +3281,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H142",
+          "tags": []
         },
         {
           "code": "H144",
@@ -2114,10 +3293,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H144",
+          "tags": []
         },
         {
           "code": "H146",
@@ -2128,10 +3305,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H146",
+          "tags": []
         },
         {
           "code": "H147",
@@ -2142,10 +3317,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H147",
+          "tags": []
         },
         {
           "code": "H150",
@@ -2156,10 +3329,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H150",
+          "tags": []
         },
         {
           "code": "H151",
@@ -2170,10 +3341,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H151",
+          "tags": []
         },
         {
           "code": "H152",
@@ -2184,10 +3353,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H152",
+          "tags": []
         },
         {
           "code": "H153",
@@ -2198,10 +3365,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H153",
+          "tags": []
         },
         {
           "code": "H154",
@@ -2212,10 +3377,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H154",
+          "tags": []
         },
         {
           "code": "H155",
@@ -2226,10 +3389,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H155",
+          "tags": []
         },
         {
           "code": "H157",
@@ -2240,10 +3401,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H157",
+          "tags": []
         },
         {
           "code": "H159",
@@ -2254,10 +3413,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H159",
+          "tags": []
         },
         {
           "code": "H160",
@@ -2268,10 +3425,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H160",
+          "tags": []
         },
         {
           "code": "H161",
@@ -2282,10 +3437,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H161",
+          "tags": []
         },
         {
           "code": "H162",
@@ -2296,10 +3449,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H162",
+          "tags": []
         },
         {
           "code": "H164",
@@ -2310,10 +3461,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H164",
+          "tags": []
         },
         {
           "code": "H165",
@@ -2324,10 +3473,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H165",
+          "tags": []
         },
         {
           "code": "H166",
@@ -2338,10 +3485,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H166",
+          "tags": []
         },
         {
           "code": "H167",
@@ -2352,10 +3497,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H167",
+          "tags": []
         },
         {
           "code": "H169",
@@ -2366,10 +3509,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H169",
+          "tags": []
         },
         {
           "code": "H170",
@@ -2380,10 +3521,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H170",
+          "tags": []
         },
         {
           "code": "H171",
@@ -2394,10 +3533,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H171",
+          "tags": []
         },
         {
           "code": "H172",
@@ -2408,10 +3545,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H172",
+          "tags": []
         },
         {
           "code": "H173",
@@ -2422,10 +3557,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H173",
+          "tags": []
         },
         {
           "code": "H174",
@@ -2436,10 +3569,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H174",
+          "tags": []
         },
         {
           "code": "H175",
@@ -2450,10 +3581,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H175",
+          "tags": []
         },
         {
           "code": "H177",
@@ -2464,10 +3593,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H177",
+          "tags": []
         },
         {
           "code": "H181",
@@ -2478,10 +3605,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H181",
+          "tags": []
         },
         {
           "code": "H182",
@@ -2492,10 +3617,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H182",
+          "tags": []
         },
         {
           "code": "H183",
@@ -2506,10 +3629,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H183",
+          "tags": []
         },
         {
           "code": "H185",
@@ -2520,10 +3641,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H185",
+          "tags": []
         },
         {
           "code": "H186",
@@ -2534,10 +3653,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H186",
+          "tags": []
         },
         {
           "code": "H188",
@@ -2548,10 +3665,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H188",
+          "tags": []
         },
         {
           "code": "H189",
@@ -2562,10 +3677,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H189",
+          "tags": []
         },
         {
           "code": "H190",
@@ -2576,10 +3689,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H190",
+          "tags": []
         },
         {
           "code": "H191",
@@ -2590,10 +3701,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H191",
+          "tags": []
         },
         {
           "code": "H192",
@@ -2604,10 +3713,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H192",
+          "tags": []
         },
         {
           "code": "H193",
@@ -2618,10 +3725,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H193",
+          "tags": []
         },
         {
           "code": "H194",
@@ -2632,10 +3737,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H194",
+          "tags": []
         },
         {
           "code": "H196",
@@ -2646,10 +3749,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H196",
+          "tags": []
         },
         {
           "code": "H197",
@@ -2660,10 +3761,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H197",
+          "tags": []
         },
         {
           "code": "H198",
@@ -2674,10 +3773,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H198",
+          "tags": []
         },
         {
           "code": "H199",
@@ -2688,10 +3785,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H199",
+          "tags": []
         },
         {
           "code": "H200",
@@ -2702,10 +3797,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H200",
+          "tags": []
         },
         {
           "code": "H201",
@@ -2716,10 +3809,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H201",
+          "tags": []
         },
         {
           "code": "H202",
@@ -2730,10 +3821,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H202",
+          "tags": []
         },
         {
           "code": "H203",
@@ -2744,10 +3833,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H203",
+          "tags": []
         },
         {
           "code": "H204",
@@ -2758,10 +3845,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H204",
+          "tags": []
         },
         {
           "code": "H205",
@@ -2772,10 +3857,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H205",
+          "tags": []
         },
         {
           "code": "H206",
@@ -2786,10 +3869,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H206",
+          "tags": []
         },
         {
           "code": "H207",
@@ -2800,10 +3881,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H207",
+          "tags": []
         },
         {
           "code": "H208",
@@ -2814,10 +3893,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H208",
+          "tags": []
         },
         {
           "code": "H209",
@@ -2828,10 +3905,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H209",
+          "tags": []
         },
         {
           "code": "H210",
@@ -2842,10 +3917,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H210",
+          "tags": []
         },
         {
           "code": "H211",
@@ -2856,10 +3929,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H211",
+          "tags": []
         },
         {
           "code": "H212",
@@ -2870,10 +3941,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H212",
+          "tags": []
         },
         {
           "code": "H213",
@@ -2884,10 +3953,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H213",
+          "tags": []
         },
         {
           "code": "H214",
@@ -2898,10 +3965,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H214",
+          "tags": []
         },
         {
           "code": "H215",
@@ -2912,10 +3977,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H215",
+          "tags": []
         },
         {
           "code": "H216",
@@ -2926,10 +3989,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H216",
+          "tags": []
         },
         {
           "code": "H219",
@@ -2940,10 +4001,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H219",
+          "tags": []
         },
         {
           "code": "H220",
@@ -2954,10 +4013,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H220",
+          "tags": []
         },
         {
           "code": "H221",
@@ -2968,10 +4025,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H221",
+          "tags": []
         },
         {
           "code": "H222",
@@ -2982,10 +4037,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H222",
+          "tags": []
         },
         {
           "code": "H223",
@@ -2996,10 +4049,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H223",
+          "tags": []
         },
         {
           "code": "H224",
@@ -3010,10 +4061,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H224",
+          "tags": []
         },
         {
           "code": "H225",
@@ -3024,10 +4073,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H225",
+          "tags": []
         },
         {
           "code": "H226",
@@ -3038,10 +4085,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H226",
+          "tags": []
         },
         {
           "code": "H227",
@@ -3052,10 +4097,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H227",
+          "tags": []
         },
         {
           "code": "H228",
@@ -3066,10 +4109,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H228",
+          "tags": []
         },
         {
           "code": "H229",
@@ -3080,10 +4121,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H229",
+          "tags": []
         },
         {
           "code": "H230",
@@ -3094,10 +4133,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H230",
+          "tags": []
         },
         {
           "code": "H231",
@@ -3108,10 +4145,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H231",
+          "tags": []
         },
         {
           "code": "H232",
@@ -3122,10 +4157,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H232",
+          "tags": []
         },
         {
           "code": "H233",
@@ -3136,10 +4169,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H233",
+          "tags": []
         },
         {
           "code": "H234",
@@ -3150,10 +4181,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H234",
+          "tags": []
         },
         {
           "code": "H235",
@@ -3164,10 +4193,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H235",
+          "tags": []
         },
         {
           "code": "H236",
@@ -3178,24 +4205,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
-        },
-        {
-          "code": "H237",
-          "listings": [
-            {
-              "link": "https://www.alvababy.com/1-baby-digital-printing-cloth-diaper-nappy-with-1-microfiber-insert-unisex-pattern-h237-p-4582.html",
-              "price": "$5.59",
-              "type": "single"
-            }
-          ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H236",
+          "tags": []
         },
         {
           "code": "H238",
@@ -3206,10 +4217,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H238",
+          "tags": []
         },
         {
           "code": "H239",
@@ -3220,10 +4229,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H239",
+          "tags": []
         },
         {
           "code": "H240",
@@ -3234,10 +4241,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H240",
+          "tags": []
         },
         {
           "code": "H241",
@@ -3248,10 +4253,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H241",
+          "tags": []
         },
         {
           "code": "H242",
@@ -3262,10 +4265,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H242",
+          "tags": []
         },
         {
           "code": "H243",
@@ -3276,10 +4277,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H243",
+          "tags": []
         },
         {
           "code": "H244",
@@ -3290,10 +4289,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H244",
+          "tags": []
         },
         {
           "code": "H245",
@@ -3304,10 +4301,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H245",
+          "tags": []
         },
         {
           "code": "H246",
@@ -3318,10 +4313,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H246",
+          "tags": []
         },
         {
           "code": "H247",
@@ -3332,10 +4325,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H247",
+          "tags": []
         },
         {
           "code": "H248",
@@ -3346,10 +4337,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H248",
+          "tags": []
         },
         {
           "code": "H249",
@@ -3360,10 +4349,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H249",
+          "tags": []
         },
         {
           "code": "H250",
@@ -3374,10 +4361,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H250",
+          "tags": []
         },
         {
           "code": "H251",
@@ -3388,10 +4373,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H251",
+          "tags": []
         },
         {
           "code": "H252",
@@ -3402,10 +4385,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H252",
+          "tags": []
         },
         {
           "code": "H254",
@@ -3416,10 +4397,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H254",
+          "tags": []
         },
         {
           "code": "H255",
@@ -3430,10 +4409,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H255",
+          "tags": []
         },
         {
           "code": "H256",
@@ -3444,10 +4421,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H256",
+          "tags": []
         },
         {
           "code": "H253",
@@ -3458,10 +4433,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "h-series"
-          ]
+          "pattern": "H253",
+          "tags": []
         },
         {
           "code": "A10",
@@ -3472,10 +4445,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "A10",
+          "tags": []
         },
         {
           "code": "A24",
@@ -3486,10 +4457,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "A24",
+          "tags": []
         },
         {
           "code": "J01",
@@ -3500,10 +4469,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "J01",
+          "tags": []
         },
         {
           "code": "N01",
@@ -3514,10 +4481,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "N01",
+          "tags": []
         },
         {
           "code": "N06",
@@ -3528,10 +4493,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "N06",
+          "tags": []
         },
         {
           "code": "N11T",
@@ -3542,10 +4505,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "N11T",
+          "tags": []
         },
         {
           "code": "S09",
@@ -3556,10 +4517,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "S09",
+          "tags": []
         },
         {
           "code": "S33",
@@ -3570,24 +4529,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
-        },
-        {
-          "code": "YA112",
-          "listings": [
-            {
-              "link": "https://www.alvababy.com/1-baby-printed-reusable-washable-baby-cloth-diaper-nappy-pocket-diaper-with-1-microfiber-insert-for-baby-girl-ya112-p-2735.html",
-              "price": "$5.59",
-              "type": "single"
-            }
-          ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "S33",
+          "tags": []
         },
         {
           "code": "YA123",
@@ -3598,10 +4541,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "YA123",
+          "tags": []
         },
         {
           "code": "YA126",
@@ -3612,10 +4553,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "YA126",
+          "tags": []
         },
         {
           "code": "YA28",
@@ -3626,10 +4565,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "YA28",
+          "tags": []
         },
         {
           "code": "YA39",
@@ -3640,10 +4577,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "YA39",
+          "tags": []
         },
         {
           "code": "YA54",
@@ -3654,10 +4589,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical series"
-          ]
+          "pattern": "YA54",
+          "tags": []
         },
         {
           "code": "YA88",
@@ -3668,10 +4601,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "classical"
-          ]
+          "pattern": "YA88",
+          "tags": []
         }
       ],
       "sizing": {
@@ -3686,7 +4617,7 @@
         }
       },
       "tags": [
-        "pocket diaper",
+        "pocket",
         "snaps",
         "tpu",
         "suede"
@@ -3710,6 +4641,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H021",
           "tags": []
         },
         {
@@ -3721,6 +4653,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H024",
           "tags": []
         },
         {
@@ -3732,6 +4665,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H091",
           "tags": []
         },
         {
@@ -3743,6 +4677,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H100",
           "tags": []
         },
         {
@@ -3754,6 +4689,7 @@
               "type": "single"
             }
           ],
+          "pattern": "S09",
           "tags": []
         },
         {
@@ -3765,6 +4701,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA124",
           "tags": []
         },
         {
@@ -3776,6 +4713,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA126",
           "tags": []
         },
         {
@@ -3787,6 +4725,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA132",
           "tags": []
         },
         {
@@ -3798,6 +4737,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA75",
           "tags": []
         }
       ],
@@ -3814,7 +4754,6 @@
       },
       "tags": [
         "all in one",
-        "aio",
         "snaps",
         "tpu",
         "suede",
@@ -3840,6 +4779,7 @@
               "type": "single"
             }
           ],
+          "pattern": "A10",
           "tags": []
         },
         {
@@ -3851,6 +4791,7 @@
               "type": "single"
             }
           ],
+          "pattern": "B06",
           "tags": []
         },
         {
@@ -3862,6 +4803,7 @@
               "type": "single"
             }
           ],
+          "pattern": "B07",
           "tags": []
         },
         {
@@ -3873,6 +4815,7 @@
               "type": "single"
             }
           ],
+          "pattern": "B09",
           "tags": []
         },
         {
@@ -3884,6 +4827,7 @@
               "type": "single"
             }
           ],
+          "pattern": "B10",
           "tags": []
         },
         {
@@ -3895,6 +4839,7 @@
               "type": "single"
             }
           ],
+          "pattern": "B18",
           "tags": []
         },
         {
@@ -3906,6 +4851,7 @@
               "type": "single"
             }
           ],
+          "pattern": "B26",
           "tags": []
         },
         {
@@ -3917,6 +4863,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H021",
           "tags": []
         },
         {
@@ -3928,6 +4875,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H022",
           "tags": []
         },
         {
@@ -3939,6 +4887,7 @@
               "type": "single"
             }
           ],
+          "pattern": "H030",
           "tags": []
         },
         {
@@ -3950,6 +4899,7 @@
               "type": "single"
             }
           ],
+          "pattern": "N06",
           "tags": []
         },
         {
@@ -3961,6 +4911,7 @@
               "type": "single"
             }
           ],
+          "pattern": "S33",
           "tags": []
         },
         {
@@ -3972,6 +4923,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA37",
           "tags": []
         },
         {
@@ -3983,6 +4935,7 @@
               "type": "single"
             }
           ],
+          "pattern": "YA88",
           "tags": []
         }
       ],
@@ -3999,7 +4952,6 @@
       },
       "tags": [
         "all in two",
-        "ai2",
         "snaps",
         "tpu",
         "suede",
@@ -4025,11 +4977,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "yellow",
-            "orange"
-          ]
+          "pattern": "B01",
+          "tags": []
         },
         {
           "code": "SB02",
@@ -4041,10 +4990,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B02",
+          "tags": []
         },
         {
           "code": "SB03",
@@ -4056,10 +5003,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B03",
+          "tags": []
         },
         {
           "code": "SB06",
@@ -4071,10 +5016,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B06",
+          "tags": []
         },
         {
           "code": "SB07",
@@ -4086,10 +5029,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "red"
-          ]
+          "pattern": "B07",
+          "tags": []
         },
         {
           "code": "SB08",
@@ -4101,10 +5042,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "pink"
-          ]
+          "pattern": "B08",
+          "tags": []
         },
         {
           "code": "SB09",
@@ -4116,10 +5055,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "white"
-          ]
+          "pattern": "B09",
+          "tags": []
         },
         {
           "code": "SB14",
@@ -4131,10 +5068,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "purple"
-          ]
+          "pattern": "B14",
+          "tags": []
         },
         {
           "code": "SB17",
@@ -4146,10 +5081,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "orange"
-          ]
+          "pattern": "B17",
+          "tags": []
         },
         {
           "code": "SB25",
@@ -4161,10 +5094,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "blue"
-          ]
+          "pattern": "B25",
+          "tags": []
         },
         {
           "code": "SB26",
@@ -4176,10 +5107,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "solid",
-            "black"
-          ]
+          "pattern": "B26",
+          "tags": []
         },
         {
           "code": "SYA65",
@@ -4191,11 +5120,8 @@
               "type": "single"
             }
           ],
-          "tags": [
-            "pattern",
-            "rainbow",
-            "stripes"
-          ]
+          "pattern": "YA65",
+          "tags": []
         }
       ],
       "sizing": {

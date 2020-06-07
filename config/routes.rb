@@ -6,6 +6,7 @@ Rails.application.routes.draw do
       jsonapi_resources :listings, only: [:index, :show]
       jsonapi_resources :product_lines, only: [:index, :show]
       jsonapi_resources :products, only: [:index, :show]
+      jsonapi_resources :tags, only: [:index, :show]
 
       post :login, to: 'sessions#create', as: :login
       delete :logout, to: 'sessions#destroy', as: :logout

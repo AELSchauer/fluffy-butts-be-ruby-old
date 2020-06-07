@@ -5,6 +5,7 @@ class CreateProductLines < ActiveRecord::Migration[6.0]
       t.string :name
       t.json :sizing
       t.json :dimensions
+
       t.references :brand, null: false, foreign_key: true
 
       t.timestamps null: false
