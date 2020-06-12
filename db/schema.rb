@@ -10,13 +10,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_05_29_052909) do
+ActiveRecord::Schema.define(version: 2020_06_11_131409) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "brands", force: :cascade do |t|
-    t.string "name"
+    t.string "name", null: false
+    t.string "name_insensitive", null: false
     t.string "origin_country"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -61,8 +62,8 @@ ActiveRecord::Schema.define(version: 2020_05_29_052909) do
   create_table "product_lines", force: :cascade do |t|
     t.integer "product_type"
     t.string "name"
-    t.json "sizing"
-    t.json "dimensions"
+    t.string "name_insensitive"
+    t.json "details"
     t.bigint "brand_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -79,13 +80,23 @@ ActiveRecord::Schema.define(version: 2020_05_29_052909) do
   end
 
   create_table "products", force: :cascade do |t|
-    t.string "manufacturer_code"
+    t.string "name"
+    t.json "details"
     t.bigint "pattern_id", null: false
     t.bigint "product_line_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["pattern_id"], name: "index_products_on_pattern_id"
     t.index ["product_line_id"], name: "index_products_on_product_line_id"
+  end
+
+  create_table "proposals", force: :cascade do |t|
+    t.string "proposable_type", default: ""
+    t.integer "proposable_id"
+    t.json "proposed_change"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["proposable_id", "proposable_type"], name: "index_proposals_on_proposable_id_and_proposable_type"
   end
 
   create_table "taggings", force: :cascade do |t|

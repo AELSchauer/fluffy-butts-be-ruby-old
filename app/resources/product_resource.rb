@@ -1,5 +1,5 @@
 class ProductResource < JSONAPI::Resource
-  attributes :manufacturer_code
+  attributes :name
   has_one :brand
   has_one :pattern
   has_one :product_line
@@ -10,7 +10,7 @@ class ProductResource < JSONAPI::Resource
     super + [:"brand.name", :"product_line.name"]
   end
 
-  filters :id, :manufacturer_code
+  filters :id, :name
   filters :brand, :pattern, :product_line
 
   filter :'brand.name', apply: ->(records, names, _options) {

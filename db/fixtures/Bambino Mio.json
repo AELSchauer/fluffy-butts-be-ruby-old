@@ -1,0 +1,1780 @@
+{
+  "brand": "Bambino Mio",
+  "country_origin": "?",
+  "patterns": [
+    { "name": "All Aboard", "tags": [] },
+    { "name": "Anchors Away", "tags": [] },
+    { "name": "Blue", "tags": [] },
+    { "name": "Blue Squid", "tags": [] },
+    { "name": "Bumble", "tags": [] },
+    { "name": "Butterfly Bloom", "tags": [] },
+    { "name": "Cloud Nine", "tags": [] },
+    { "name": "Coral Reef", "tags": [] },
+    { "name": "Crab Cove", "tags": [] },
+    { "name": "Deep Sea Blue", "tags": [] },
+    { "name": "Deep Sea Yellow", "tags": [] },
+    { "name": "Dino", "tags": [] },
+    { "name": "Dragon's Dungeon", "tags": [] },
+    { "name": "Dragonfly Daze", "tags": [] },
+    { "name": "Electro Fish", "tags": [] },
+    { "name": "Elephant Stomp", "tags": [] },
+    { "name": "Elephantastic", "tags": [] },
+    { "name": "Emerald", "tags": [] },
+    { "name": "Fairy", "tags": [] },
+    { "name": "Farmer Friends", "tags": [] },
+    { "name": "Giraffe Jamboree", "tags": [] },
+    { "name": "Giraffing Around", "tags": [] },
+    { "name": "Happy Hopper", "tags": [] },
+    { "name": "Hen House", "tags": [] },
+    { "name": "Honeybee Hive", "tags": [] },
+    { "name": "Hummingbird", "tags": [] },
+    { "name": "Jungle Snake", "tags": [] },
+    { "name": "Knight's Kingdom", "tags": [] },
+    { "name": "Leap Frog", "tags": [] },
+    { "name": "Light Pink", "tags": [] },
+    { "name": "Lilac", "tags": [] },
+    { "name": "Loveable Ladybug", "tags": [] },
+    { "name": "Marshmallow", "tags": [] },
+    { "name": "Mermaid", "tags": [] },
+    { "name": "Moo Meadow", "tags": [] },
+    { "name": "Neon Shark", "tags": [] },
+    { "name": "Ocean Drop", "tags": [] },
+    { "name": "Outer Space", "tags": [] },
+    { "name": "Pegasus Palace", "tags": [] },
+    { "name": "Pelican Pier", "tags": [] },
+    { "name": "Pink Elephant", "tags": [] },
+    { "name": "Pink Flamingo", "tags": [] },
+    { "name": "Pink Petal", "tags": [] },
+    { "name": "Puddle Pigs", "tags": [] },
+    { "name": "Puffin Parade", "tags": [] },
+    { "name": "Pure White", "tags": [] },
+    { "name": "Raccoon Retreat", "tags": [] },
+    { "name": "Radiant Ray", "tags": [] },
+    { "name": "Ruby", "tags": [] },
+    { "name": "Safari Spots", "tags": [] },
+    { "name": "Sail Away", "tags": [] },
+    { "name": "Savanna Stripes", "tags": [] },
+    { "name": "Seahorse", "tags": [] },
+    { "name": "Snail Surprise", "tags": [] },
+    { "name": "Spider Monkey", "tags": [] },
+    { "name": "Starry Night", "tags": [] },
+    { "name": "Supernova Star", "tags": [] },
+    { "name": "Sweet Dreams", "tags": [] },
+    { "name": "Swinging Sloth", "tags": [] },
+    { "name": "Teal", "tags": [] },
+    { "name": "Tiger Tango", "tags": [] },
+    { "name": "Totally Roarsome", "tags": [] },
+    { "name": "Tropical Island", "tags": [] },
+    { "name": "Tropical Toucan", "tags": [] },
+    { "name": "Turtle Bay", "tags": [] },
+    { "name": "Tutti Fruiti", "tags": [] },
+    { "name": "Whale Wharf", "tags": [] },
+    { "name": "White", "tags": [] },
+    { "name": "Wild Cat", "tags": [] },
+    { "name": "Zebra Crossing", "tags": [] },
+    { "name": "Zebra Dazzle", "tags": [] },
+    { "name": "Zebra-Cadabra", "tags": [] }
+  ],
+  "product_lines": [
+    {
+      "name": "Mioduo Diaper Cover",
+      "products": [
+        {
+          "code": "Bumble",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Bumble"
+        },
+        {
+          "code": "Butterfly Bloom",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Butterfly Bloom"
+        },
+        {
+          "code": "Cloud Nine",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Cloud Nine"
+        },
+        {
+          "code": "Dragonfly Daze",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Dragonfly Daze"
+        },
+        {
+          "code": "Elephant Stomp",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Elephant Stomp"
+        },
+        {
+          "code": "Giraffe Jamboree",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Giraffe Jamboree"
+        },
+        {
+          "code": "Happy Hopper",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Happy Hopper"
+        },
+        {
+          "code": "Honeybee Hive",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Honeybee Hive"
+        },
+        {
+          "code": "Hummingbird",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Hummingbird"
+        },
+        {
+          "code": "Jungle Snake",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Jungle Snake"
+        },
+        {
+          "code": "Loveable Ladybug",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Loveable Ladybug"
+        },
+        {
+          "code": "Pure White",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Pure White"
+        },
+        {
+          "code": "Raccoon Retreat",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Raccoon Retreat"
+        },
+        {
+          "code": "Safari Spots",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Safari Spots"
+        },
+        {
+          "code": "Sail Away",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Sail Away"
+        },
+        {
+          "code": "Savanna Stripes",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Savanna Stripes"
+        },
+        {
+          "code": "Snail Surprise",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Snail Surprise"
+        },
+        {
+          "code": "Spider Monkey",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Spider Monkey"
+        },
+        {
+          "code": "Starry Night",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Starry Night"
+        },
+        {
+          "code": "Sweet Dreams",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Sweet Dreams"
+        },
+        {
+          "code": "Swinging Sloth",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Swinging Sloth"
+        },
+        {
+          "code": "Tiger Tango",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Tiger Tango"
+        },
+        {
+          "code": "Tropical Toucan",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Tropical Toucan"
+        },
+        {
+          "code": "Wild Cat",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Wild Cat"
+        },
+        {
+          "code": "Zebra Crossing",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Zebra Crossing"
+        },
+        {
+          "code": "Zebra Dazzle",
+          "details": { "sizes": ["Size One", "Size Two"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌14.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/mioduo/products/mioduo-diaper-cover",
+              "price": "$‌23.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Zebra Dazzle"
+        }
+      ]
+    },
+    {
+      "name": "Miosolo All-In-One Cloth Diaper",
+      "products": [
+        {
+          "code": "Bumble",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Bumble"
+        },
+        {
+          "code": "Butterfly Bloom",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Butterfly Bloom"
+        },
+        {
+          "code": "Cloud Nine",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Cloud Nine"
+        },
+        {
+          "code": "Dragonfly Daze",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Dragonfly Daze"
+        },
+        {
+          "code": "Elephant Stomp",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Elephant Stomp"
+        },
+        {
+          "code": "Giraffe Jamboree",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Giraffe Jamboree"
+        },
+        {
+          "code": "Happy Hopper",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Happy Hopper"
+        },
+        {
+          "code": "Honeybee Hive",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Honeybee Hive"
+        },
+        {
+          "code": "Hummingbird",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Hummingbird"
+        },
+        {
+          "code": "Jungle Snake",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Jungle Snake"
+        },
+        {
+          "code": "Loveable Ladybug",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Loveable Ladybug"
+        },
+        {
+          "code": "Marshmallow",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Marshmallow"
+        },
+        {
+          "code": "Raccoon Retreat",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Raccoon Retreat"
+        },
+        {
+          "code": "Safari Spots",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Safari Spots"
+        },
+        {
+          "code": "Sail Away",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Sail Away"
+        },
+        {
+          "code": "Savanna Stripes",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Savanna Stripes"
+        },
+        {
+          "code": "Snail Surprise",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Snail Surprise"
+        },
+        {
+          "code": "Spider Monkey",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Spider Monkey"
+        },
+        {
+          "code": "Swinging Sloth",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Swinging Sloth"
+        },
+        {
+          "code": "Tiger Tango",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Tiger Tango"
+        },
+        {
+          "code": "Tropical Toucan",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Tropical Toucan"
+        },
+        {
+          "code": "Wild Cat",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Wild Cat"
+        },
+        {
+          "code": "Zebra Crossing",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Zebra Crossing"
+        },
+        {
+          "code": "Zebra Dazzle",
+          "details": { "sizes": ["onesize"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌25.49",
+              "quantity": 1,
+              "type": "single"
+            },
+            {
+              "currency": "CAD",
+              "link": "https://www.bambinomio.com/collections/miosolo/products/miosolo-diaper",
+              "price": "$‌40.00",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Zebra Dazzle"
+        }
+      ]
+    },
+    {
+      "name": "Potty Training Pants",
+      "products": [
+        {
+          "code": "Blue",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Blue"
+        },
+        {
+          "code": "Dino",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Dino"
+        },
+        {
+          "code": "Dragon's Dungeon",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Dragon's Dungeon"
+        },
+        {
+          "code": "Elephantastic",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Elephantastic"
+        },
+        {
+          "code": "Emerald",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Emerald"
+        },
+        {
+          "code": "Fairy",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Fairy"
+        },
+        {
+          "code": "Farmer Friends",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Farmer Friends"
+        },
+        {
+          "code": "Giraffing Around",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Giraffing Around"
+        },
+        {
+          "code": "Hen House",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Hen House"
+        },
+        {
+          "code": "Knight's Kingdom",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Knight's Kingdom"
+        },
+        {
+          "code": "Light Pink",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Light Pink"
+        },
+        {
+          "code": "Lilac",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Lilac"
+        },
+        {
+          "code": "Moo Meadow",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Moo Meadow"
+        },
+        {
+          "code": "Outer Space",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Outer Space"
+        },
+        {
+          "code": "Pegasus Palace",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Pegasus Palace"
+        },
+        {
+          "code": "Pink Elephant",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Pink Elephant"
+        },
+        {
+          "code": "Puddle Pigs",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Puddle Pigs"
+        },
+        {
+          "code": "Ruby",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Ruby"
+        },
+        {
+          "code": "Teal",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Teal"
+        },
+        {
+          "code": "Totally Roarsome",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Totally Roarsome"
+        },
+        {
+          "code": "Tropical Island",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Tropical Island"
+        },
+        {
+          "code": "White",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌9.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "White"
+        },
+        {
+          "code": "Zebra-Cadabra",
+          "details": { "sizes": ["18-24 Months", "2-3 Years", "3+ Years"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": "$‌8.99",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Zebra-Cadabra"
+        }
+      ]
+    },
+    {
+      "name": "Swim Diapers",
+      "products": [
+        {
+          "code": "All Aboard",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "All Aboard"
+        },
+        {
+          "code": "Anchors Away",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Anchors Away"
+        },
+        {
+          "code": "Blue Squid",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Blue Squid"
+        },
+        {
+          "code": "Coral Reef",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Coral Reef"
+        },
+        {
+          "code": "Crab Cove",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Crab Cove"
+        },
+        {
+          "code": "Deep Sea Blue",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Deep Sea Blue"
+        },
+        {
+          "code": "Deep Sea Yellow",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Deep Sea Yellow"
+        },
+        {
+          "code": "Electro Fish",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Electro Fish"
+        },
+        {
+          "code": "Leap Frog",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Leap Frog"
+        },
+        {
+          "code": "Mermaid",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Mermaid"
+        },
+        {
+          "code": "Neon Shark",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Neon Shark"
+        },
+        {
+          "code": "Ocean Drop",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Ocean Drop"
+        },
+        {
+          "code": "Pelican Pier",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Pelican Pier"
+        },
+        {
+          "code": "Pink Flamingo",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Pink Flamingo"
+        },
+        {
+          "code": "Pink Petal",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Pink Petal"
+        },
+        {
+          "code": "Puffin Parade",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Puffin Parade"
+        },
+        {
+          "code": "Radiant Ray",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Radiant Ray"
+        },
+        {
+          "code": "Seahorse",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Seahorse"
+        },
+        {
+          "code": "Supernova Star",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Supernova Star"
+        },
+        {
+          "code": "Turtle Bay",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Turtle Bay"
+        },
+        {
+          "code": "Tutti Fruiti",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Tutti Fruiti"
+        },
+        {
+          "code": "Whale Wharf",
+          "details": { "sizes": ["Small", "Medium", "Large"] },
+          "listings": [
+            {
+              "currency": "USD",
+              "link": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": "$‌15.49",
+              "quantity": 1,
+              "type": "single"
+            }
+          ],
+          "pattern": "Whale Wharf"
+        }
+      ]
+    }
+  ]
+}

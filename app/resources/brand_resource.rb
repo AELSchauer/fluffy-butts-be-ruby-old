@@ -4,4 +4,8 @@ class BrandResource < JSONAPI::Resource
   has_many :images
 
   filters :id, :name
+
+  def self.sortable_fields(context)
+    super + [:name_insensitive]
+  end
 end

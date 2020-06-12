@@ -4,1456 +4,876 @@
   "patterns": [
     {
       "name": "A10",
-      "tags": [
-        "animal prints"
-      ]
+      "tags": ["animal prints"]
     },
     {
       "name": "A24",
-      "tags": [
-        "animals"
-      ]
+      "tags": ["animals"]
     },
     {
       "name": "B01",
-      "tags": [
-        "solid",
-        "orange"
-      ]
+      "tags": ["solid", "orange"]
     },
     {
       "name": "B02",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B03",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B04",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B05",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B06",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B07",
-      "tags": [
-        "solid",
-        "red"
-      ]
+      "tags": ["solid", "red"]
     },
     {
       "name": "B08",
-      "tags": [
-        "solid",
-        "pink"
-      ]
+      "tags": ["solid", "pink"]
     },
     {
       "name": "B09",
-      "tags": [
-        "solid",
-        "white"
-      ]
+      "tags": ["solid", "white"]
     },
     {
       "name": "B10",
-      "tags": [
-        "solid",
-        "green"
-      ]
+      "tags": ["solid", "green"]
     },
     {
       "name": "B11",
-      "tags": [
-        "solid",
-        "green"
-      ]
+      "tags": ["solid", "green"]
     },
     {
       "name": "B12",
-      "tags": [
-        "solid",
-        "yellow"
-      ]
+      "tags": ["solid", "yellow"]
     },
     {
       "name": "B14",
-      "tags": [
-        "solid",
-        "purple"
-      ]
+      "tags": ["solid", "purple"]
     },
     {
       "name": "B15",
-      "tags": [
-        "solid",
-        "purple"
-      ]
+      "tags": ["solid", "purple"]
     },
     {
       "name": "B16",
-      "tags": [
-        "solid",
-        "pink"
-      ]
+      "tags": ["solid", "pink"]
     },
     {
       "name": "B17",
-      "tags": [
-        "solid",
-        "orange"
-      ]
+      "tags": ["solid", "orange"]
     },
     {
       "name": "B18",
-      "tags": [
-        "solid",
-        "pink"
-      ]
+      "tags": ["solid", "pink"]
     },
     {
       "name": "B19",
-      "tags": [
-        "solid",
-        "pink"
-      ]
+      "tags": ["solid", "pink"]
     },
     {
       "name": "B21",
-      "tags": [
-        "solid",
-        "green"
-      ]
+      "tags": ["solid", "green"]
     },
     {
       "name": "B23",
-      "tags": [
-        "solid",
-        "green"
-      ]
+      "tags": ["solid", "green"]
     },
     {
       "name": "B25",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B26",
-      "tags": [
-        "solid",
-        "black"
-      ]
+      "tags": ["solid", "black"]
     },
     {
       "name": "B27",
-      "tags": [
-        "solid",
-        "brown"
-      ]
+      "tags": ["solid", "brown"]
     },
     {
       "name": "B29",
-      "tags": [
-        "solid",
-        "beige"
-      ]
+      "tags": ["solid", "beige"]
     },
     {
       "name": "B30",
-      "tags": [
-        "solid",
-        "green"
-      ]
+      "tags": ["solid", "green"]
     },
     {
       "name": "B32",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B33",
-      "tags": [
-        "solid",
-        "teal"
-      ]
+      "tags": ["solid", "teal"]
     },
     {
       "name": "B34",
-      "tags": [
-        "solid",
-        "pink"
-      ]
+      "tags": ["solid", "pink"]
     },
     {
       "name": "B35",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "B36",
-      "tags": [
-        "solid",
-        "red"
-      ]
+      "tags": ["solid", "red"]
     },
     {
       "name": "B37",
-      "tags": [
-        "solid",
-        "teal"
-      ]
+      "tags": ["solid", "teal"]
     },
     {
       "name": "B38",
-      "tags": [
-        "solid",
-        "blue"
-      ]
+      "tags": ["solid", "blue"]
     },
     {
       "name": "H021",
-      "tags": [
-        "balloons",
-        "travel & transportation"
-      ]
+      "tags": ["balloons", "travel & transportation"]
     },
     {
       "name": "H022",
-      "tags": [
-        "animal prints",
-        "aquatic"
-      ]
+      "tags": ["animal prints", "aquatic"]
     },
     {
       "name": "H024",
-      "tags": [
-        "abstract & geometric",
-        "herringbone",
-        "pink",
-        "yellow",
-        "blue"
-      ]
+      "tags": ["abstract & geometric", "herringbone", "pink", "yellow", "blue"]
     },
     {
       "name": "H027",
-      "tags": [
-        "outer space"
-      ]
+      "tags": ["outer space"]
     },
     {
       "name": "H028",
-      "tags": [
-        "native american culture"
-      ]
+      "tags": ["native american culture", "western culture", "religion"]
     },
     {
       "name": "H030",
-      "tags": [
-        "nature",
-        "birds & feathers"
-      ]
+      "tags": ["nature", "birds & feathers"]
     },
     {
       "name": "H034",
-      "tags": [
-        "paisley",
-        "purple",
-        "blue"
-      ]
+      "tags": ["paisley", "purple", "blue"]
     },
     {
       "name": "H035",
-      "tags": [
-        "birds & feathers",
-        "nature"
-      ]
+      "tags": ["birds & feathers", "nature"]
     },
     {
       "name": "H037",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     },
     {
       "name": "H038",
-      "tags": [
-        "writing & text"
-      ]
+      "tags": ["writing & text"]
     },
     {
       "name": "H040",
-      "tags": [
-        "outer space"
-      ]
+      "tags": ["outer space"]
     },
     {
       "name": "H041",
-      "tags": [
-        "fantasy",
-        "monsters"
-      ]
+      "tags": ["fantasy", "monsters"]
     },
     {
       "name": "H042",
-      "tags": [
-        "animals",
-        "nature",
-        "polka dots"
-      ]
+      "tags": ["animals", "nature", "polka dots"]
     },
     {
       "name": "H044",
-      "tags": [
-        "floral",
-        "nature"
-      ]
+      "tags": ["floral", "nature"]
     },
     {
       "name": "H046",
-      "tags": [
-        "birds & feathers",
-        "hearts"
-      ]
+      "tags": ["birds & feathers", "hearts"]
     },
     {
       "name": "H050",
-      "tags": [
-        "foliage",
-        "nature"
-      ]
+      "tags": ["foliage", "nature"]
     },
     {
       "name": "H051",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H052",
-      "tags": [
-        "stem",
-        "school"
-      ]
+      "tags": ["stem", "school"]
     },
     {
       "name": "H054",
-      "tags": [
-        "aquatic"
-      ]
+      "tags": ["aquatic"]
     },
     {
       "name": "H061",
-      "tags": [
-        "abstract & geometric",
-        "pink",
-        "purple"
-      ]
+      "tags": ["abstract & geometric", "pink", "purple"]
     },
     {
       "name": "H062",
-      "tags": [
-        "animals",
-        "birds & feathers",
-        "black and white"
-      ]
+      "tags": ["animals", "birds & feathers", "black and white"]
     },
     {
       "name": "H063",
-      "tags": [
-        "polka dots",
-        "abstract & geometric"
-      ]
+      "tags": ["polka dots", "abstract & geometric"]
     },
     {
       "name": "H064",
-      "tags": [
-        "disney",
-        "black and white"
-      ]
+      "tags": ["disney", "black and white"]
     },
     {
       "name": "H065",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H066",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H068",
-      "tags": [
-        "stem",
-        "school"
-      ]
+      "tags": ["stem", "school"]
     },
     {
       "name": "H069",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H071",
-      "tags": [
-        "fantasy",
-        "rainbow"
-      ]
+      "tags": ["fantasy", "rainbow"]
     },
     {
       "name": "H072",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H074",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     },
     {
       "name": "H076",
-      "tags": [
-        "food & beverage",
-        "seasons",
-        "summer"
-      ]
+      "tags": ["food & beverage", "seasons", "summer"]
     },
     {
       "name": "H077",
-      "tags": [
-        "food & beverage"
-      ]
+      "tags": ["food & beverage"]
     },
     {
       "name": "H078",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H079",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H084",
-      "tags": [
-        "animals",
-        "damask"
-      ]
+      "tags": ["animals", "damask"]
     },
     {
       "name": "H085",
-      "tags": [
-        "sleep",
-        "night"
-      ]
+      "tags": ["sleep", "night"]
     },
     {
       "name": "H086",
-      "tags": [
-        "food & beverage"
-      ]
+      "tags": ["food & beverage"]
     },
     {
       "name": "H091",
-      "tags": [
-        "disney",
-        "star wars"
-      ]
+      "tags": ["disney", "star wars"]
     },
     {
       "name": "H092",
-      "tags": [
-        "hobbies",
-        "animals",
-        "nautical"
-      ]
+      "tags": ["hobbies", "animals", "nautical"]
     },
     {
       "name": "H093",
-      "tags": [
-        "animals"
-      ]
+      "tags": ["animals"]
     },
     {
       "name": "H095",
-      "tags": [
-        "hobbies",
-        "around the house"
-      ]
+      "tags": ["hobbies", "around the house"]
     },
     {
       "name": "H099",
-      "tags": [
-        "tartan & plaid"
-      ]
+      "tags": ["tartan & plaid"]
     },
     {
       "name": "H100",
-      "tags": [
-        "fantasy"
-      ]
+      "tags": ["fantasy"]
     },
     {
       "name": "H108",
-      "tags": [
-        "seasons",
-        "polka dots",
-        "food & beverage",
-        "summer"
-      ]
+      "tags": ["seasons", "polka dots", "food & beverage", "summer"]
     },
     {
       "name": "H110",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H114",
-      "tags": [
-        "animals",
-        "toys",
-        "bathtime"
-      ]
+      "tags": ["animals", "toys", "bathtime"]
     },
     {
       "name": "H115",
-      "tags": [
-        "foliage",
-        "nature"
-      ]
+      "tags": ["foliage", "nature"]
     },
     {
       "name": "H117",
-      "tags": [
-        "bugs & insects"
-      ]
+      "tags": ["bugs & insects"]
     },
     {
       "name": "H121",
-      "tags": [
-        "floral",
-        "abstract & geometric"
-      ]
+      "tags": ["floral", "abstract & geometric"]
     },
     {
       "name": "H122",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H126",
-      "tags": [
-        "sky",
-        "super heroes"
-      ]
+      "tags": ["sky", "super heroes"]
     },
     {
       "name": "H127",
-      "tags": [
-        "sky",
-        "abstract & geometric"
-      ]
+      "tags": ["sky", "abstract & geometric"]
     },
     {
       "name": "H132",
-      "tags": [
-        "fantasy",
-        "aliens",
-        "outer space",
-        "black and white"
-      ]
+      "tags": ["fantasy", "aliens", "outer space", "black and white"]
     },
     {
       "name": "H134",
-      "tags": [
-        "around the house",
-        "foliage"
-      ]
+      "tags": ["around the house", "foliage"]
     },
     {
       "name": "H136",
-      "tags": [
-        "foliage",
-        "tropical"
-      ]
+      "tags": ["foliage", "tropical"]
     },
     {
       "name": "H139",
-      "tags": [
-        "seasons",
-        "foliage",
-        "autumn"
-      ]
+      "tags": ["seasons", "foliage", "autumn"]
     },
     {
       "name": "H140",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H141",
-      "tags": [
-        "animals"
-      ]
+      "tags": ["animals"]
     },
     {
       "name": "H142",
-      "tags": [
-        "quatrefoil",
-        "abstract & geometric"
-      ]
+      "tags": ["quatrefoil", "abstract & geometric"]
     },
     {
       "name": "H144",
-      "tags": [
-        "around the house",
-        "foliage"
-      ]
+      "tags": ["around the house", "foliage"]
     },
     {
       "name": "H146",
-      "tags": [
-        "floral",
-        "foliage"
-      ]
+      "tags": ["floral", "foliage"]
     },
     {
       "name": "H147",
-      "tags": [
-        "dinosaurs"
-      ]
+      "tags": ["dinosaurs"]
     },
     {
       "name": "H150",
-      "tags": [
-        "seasons",
-        "winter"
-      ]
+      "tags": ["seasons", "winter"]
     },
     {
       "name": "H151",
-      "tags": [
-        "holidays",
-        "mexican culture"
-      ]
+      "tags": ["holidays", "mexican culture", "religion"]
     },
     {
       "name": "H152",
-      "tags": [
-        "sky",
-        "stars",
-        "fantasy"
-      ]
+      "tags": ["sky", "stars", "fantasy"]
     },
     {
       "name": "H153",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H154",
-      "tags": [
-        "foliage",
-        "nature"
-      ]
+      "tags": ["foliage", "nature"]
     },
     {
       "name": "H155",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H157",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H159",
-      "tags": [
-        "birds & feathers"
-      ]
+      "tags": ["birds & feathers"]
     },
     {
       "name": "H160",
-      "tags": [
-        "animals",
-        "jungle"
-      ]
+      "tags": ["animals", "jungle"]
     },
     {
       "name": "H161",
-      "tags": [
-        "animals",
-        "woodland"
-      ]
+      "tags": ["animals", "woodland"]
     },
     {
       "name": "H162",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H164",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     },
     {
       "name": "H165",
-      "tags": [
-        "animals",
-        "jungle"
-      ]
+      "tags": ["animals", "jungle"]
     },
     {
       "name": "H166",
-      "tags": [
-        "animals",
-        "woodland"
-      ]
+      "tags": ["animals", "woodland"]
     },
     {
       "name": "H167",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H169",
-      "tags": [
-        "abstract & geometric",
-        "asian culture"
-      ]
+      "tags": ["abstract & geometric", "asian culture"]
     },
     {
       "name": "H170",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H171",
-      "tags": [
-        "stem",
-        "outer space"
-      ]
+      "tags": ["stem", "outer space"]
     },
     {
       "name": "H172",
-      "tags": [
-        "woodland"
-      ]
+      "tags": ["woodland"]
     },
     {
       "name": "H173",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H174",
-      "tags": [
-        "animals",
-        "sleep"
-      ]
+      "tags": ["animals", "sleep"]
     },
     {
       "name": "H175",
-      "tags": [
-        "foliage",
-        "floral"
-      ]
+      "tags": ["foliage", "floral"]
     },
     {
       "name": "H177",
-      "tags": [
-        "animals",
-        "woodland"
-      ]
+      "tags": ["animals", "woodland"]
     },
     {
       "name": "H181",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H182",
-      "tags": [
-        "fruits",
-        "food & beverage",
-        "foliage"
-      ]
+      "tags": ["fruits", "food & beverage", "foliage"]
     },
     {
       "name": "H183",
-      "tags": [
-        "hobbies",
-        "stem"
-      ]
+      "tags": ["hobbies", "stem"]
     },
     {
       "name": "H185",
-      "tags": [
-        "foliage",
-        "woodland"
-      ]
+      "tags": ["foliage", "woodland"]
     },
     {
       "name": "H186",
-      "tags": [
-        "floral",
-        "asian culture"
-      ]
+      "tags": ["floral", "asian culture"]
     },
     {
       "name": "H187",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H188",
-      "tags": [
-        "stripes",
-        "food & beverage"
-      ]
+      "tags": ["stripes", "food & beverage"]
     },
     {
       "name": "H189",
-      "tags": [
-        "travel & transportation"
-      ]
+      "tags": ["travel & transportation"]
     },
     {
       "name": "H190",
-      "tags": [
-        "sky",
-        "white",
-        "night"
-      ]
+      "tags": ["sky", "white", "night"]
     },
     {
       "name": "H191",
-      "tags": [
-        "animals"
-      ]
+      "tags": ["animals"]
     },
     {
       "name": "H192",
-      "tags": [
-        "aquatic"
-      ]
+      "tags": ["aquatic"]
     },
     {
       "name": "H193",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H194",
-      "tags": [
-        "black",
-        "orange",
-        "dinosaurs"
-      ]
+      "tags": ["black", "orange", "dinosaurs"]
     },
     {
       "name": "H196",
-      "tags": [
-        "abstract & geometric",
-        "white"
-      ]
+      "tags": ["abstract & geometric", "white"]
     },
     {
       "name": "H197",
-      "tags": [
-        "food & beverage",
-        "vegetables"
-      ]
+      "tags": ["food & beverage", "vegetables"]
     },
     {
       "name": "H198",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H199",
-      "tags": [
-        "aquatic",
-        "animals"
-      ]
+      "tags": ["aquatic", "animals"]
     },
     {
       "name": "H200",
-      "tags": [
-        "outer space"
-      ]
+      "tags": ["outer space"]
     },
     {
       "name": "H201",
-      "tags": [
-        "food & beverage"
-      ]
+      "tags": ["food & beverage"]
     },
     {
       "name": "H202",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H203",
-      "tags": [
-        "food & beverage"
-      ]
+      "tags": ["food & beverage"]
     },
     {
       "name": "H204",
-      "tags": [
-        "animals",
-        "woodland"
-      ]
+      "tags": ["animals", "woodland"]
     },
     {
       "name": "H205",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H206",
-      "tags": [
-        "outer space"
-      ]
+      "tags": ["outer space"]
     },
     {
       "name": "H207",
-      "tags": [
-        "birds & feathers",
-        "woodland"
-      ]
+      "tags": ["birds & feathers", "woodland"]
     },
     {
       "name": "H208",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H209",
-      "tags": [
-        "holidays",
-        "animals"
-      ]
+      "tags": ["holidays", "animals"]
     },
     {
       "name": "H210",
-      "tags": [
-        "nautical"
-      ]
+      "tags": ["nautical"]
     },
     {
       "name": "H211",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H212",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H213",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H214",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H215",
-      "tags": [
-        "bugs & insects"
-      ]
+      "tags": ["bugs & insects"]
     },
     {
       "name": "H216",
-      "tags": [
-        "floral",
-        "black and white"
-      ]
+      "tags": ["floral", "black and white"]
     },
     {
       "name": "H219",
-      "tags": [
-        "bugs & insects"
-      ]
+      "tags": ["bugs & insects"]
     },
     {
       "name": "H220",
-      "tags": [
-        "black and white",
-        "foliage",
-        "floral",
-        "bugs & insects"
-      ]
+      "tags": ["black and white", "foliage", "floral", "bugs & insects"]
     },
     {
       "name": "H221",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H222",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H223",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H224",
-      "tags": [
-        "foliage"
-      ]
+      "tags": ["foliage"]
     },
     {
       "name": "H225",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     },
     {
       "name": "H226",
-      "tags": [
-        "dinosaurs"
-      ]
+      "tags": ["dinosaurs"]
     },
     {
       "name": "H227",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H228",
-      "tags": [
-        "dinosaurs"
-      ]
+      "tags": ["dinosaurs"]
     },
     {
       "name": "H229",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H230",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H231",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H232",
-      "tags": [
-        "animals"
-      ]
+      "tags": ["animals"]
     },
     {
       "name": "H233",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H234",
-      "tags": [
-        "dinosaurs"
-      ]
+      "tags": ["dinosaurs"]
     },
     {
       "name": "H235",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H236",
-      "tags": [
-        "seasons",
-        "summer",
-        "food & beverage",
-        "fruits"
-      ]
+      "tags": ["seasons", "summer", "food & beverage", "fruits"]
     },
     {
       "name": "H238",
-      "tags": [
-        "native american culture"
-      ]
+      "tags": ["native american culture", "western culture", "religion"]
     },
     {
       "name": "H239",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "H240",
-      "tags": [
-        "animals"
-      ]
+      "tags": ["animals"]
     },
     {
       "name": "H241",
-      "tags": [
-        "stars",
-        "animals"
-      ]
+      "tags": ["stars", "animals"]
     },
     {
       "name": "H242",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H243",
-      "tags": [
-        "woodland",
-        "animals"
-      ]
+      "tags": ["woodland", "animals"]
     },
     {
       "name": "H244",
-      "tags": [
-        "floral",
-        "foliage"
-      ]
+      "tags": ["floral", "foliage"]
     },
     {
       "name": "H245",
-      "tags": [
-        "floral",
-        "abstract & geometric"
-      ]
+      "tags": ["floral", "abstract & geometric"]
     },
     {
       "name": "H246",
-      "tags": [
-        "rainbow",
-        "abstract & geometric"
-      ]
+      "tags": ["rainbow", "abstract & geometric"]
     },
     {
       "name": "H247",
-      "tags": [
-        "food & beverage",
-        "seasons",
-        "summer"
-      ]
+      "tags": ["food & beverage", "seasons", "summer"]
     },
     {
       "name": "H248",
-      "tags": [
-        "hearts"
-      ]
+      "tags": ["hearts"]
     },
     {
       "name": "H249",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     },
     {
       "name": "H250",
-      "tags": [
-        "dinosaurs",
-        "animals"
-      ]
+      "tags": ["dinosaurs", "animals"]
     },
     {
       "name": "H251",
-      "tags": [
-        "quilt",
-        "abstract & geometric",
-        "blue",
-        "yellow"
-      ]
+      "tags": ["quilt", "abstract & geometric", "blue", "yellow"]
     },
     {
       "name": "H252",
-      "tags": [
-        "dinosaurs",
-        "animals"
-      ]
+      "tags": ["dinosaurs", "animals"]
     },
     {
       "name": "H253",
-      "tags": [
-        "animals",
-        "aquatic"
-      ]
+      "tags": ["animals", "aquatic"]
     },
     {
       "name": "H254",
-      "tags": [
-        "birds & feathers"
-      ]
+      "tags": ["birds & feathers"]
     },
     {
       "name": "H255",
-      "tags": [
-        "writing & text",
-        "abstract & geometric",
-        "fruits"
-      ]
+      "tags": ["writing & text", "abstract & geometric", "fruits"]
     },
     {
       "name": "H256",
-      "tags": [
-        "dinosaurs",
-        "animals"
-      ]
+      "tags": ["dinosaurs", "animals"]
     },
     {
       "name": "J01",
-      "tags": [
-        "miscellaneous"
-      ]
+      "tags": ["miscellaneous"]
     },
     {
       "name": "N01",
-      "tags": [
-        "black",
-        "yellow",
-        "stripes",
-        "bugs & insects"
-      ]
+      "tags": ["black", "yellow", "stripes", "bugs & insects"]
     },
     {
       "name": "N06",
-      "tags": [
-        "super heroes",
-        "disney"
-      ]
+      "tags": ["super heroes", "disney"]
     },
     {
       "name": "N11T",
-      "tags": [
-        "woodland",
-        "animals"
-      ]
+      "tags": ["woodland", "animals"]
     },
     {
       "name": "S09",
-      "tags": [
-        "bugs & insects"
-      ]
+      "tags": ["bugs & insects"]
     },
     {
       "name": "S33",
-      "tags": [
-        "chevron",
-        "gray",
-        "white"
-      ]
+      "tags": ["chevron", "gray", "white"]
     },
     {
       "name": "S44",
-      "tags": [
-        "nautical"
-      ]
+      "tags": ["nautical"]
     },
     {
       "name": "YA65",
-      "tags": [
-        "rainbow",
-        "stripes",
-        "stars"
-      ]
+      "tags": ["rainbow", "stripes", "stars"]
     },
     {
       "name": "YA123",
-      "tags": [
-        "animals",
-        "jungle"
-      ]
+      "tags": ["animals", "jungle"]
     },
     {
       "name": "YA124",
-      "tags": [
-        "floral"
-      ]
+      "tags": ["floral"]
     },
     {
       "name": "YA126",
-      "tags": [
-        "nautical"
-      ]
+      "tags": ["nautical"]
     },
     {
       "name": "YA132",
-      "tags": [
-        "fantasy",
-        "skulls",
-        "movies"
-      ]
+      "tags": ["fantasy", "skulls", "movies"]
     },
     {
       "name": "YA28",
-      "tags": [
-        "aquatic"
-      ]
+      "tags": ["aquatic"]
     },
     {
       "name": "YA37",
-      "tags": [
-        "chevron",
-        "rainbow"
-      ]
+      "tags": ["chevron", "rainbow"]
     },
     {
       "name": "YA39",
-      "tags": [
-        "toys"
-      ]
+      "tags": ["toys"]
     },
     {
       "name": "YA54",
-      "tags": [
-        "super heroes",
-        "disney"
-      ]
+      "tags": ["super heroes", "disney"]
     },
     {
       "name": "YA75",
-      "tags": [
-        "rainbow",
-        "birds & feathers"
-      ]
+      "tags": ["rainbow", "birds & feathers"]
     },
     {
       "name": "YA84",
-      "tags": [
-        "animal prints"
-      ]
+      "tags": ["animal prints"]
     },
     {
       "name": "YA88",
-      "tags": [
-        "black and white",
-        "hipster",
-        "miscellaneous"
-      ]
+      "tags": ["black and white", "hipster", "miscellaneous"]
     },
     {
       "name": "YK47",
-      "tags": [
-        "aquatic"
-      ]
+      "tags": ["aquatic"]
     },
     {
       "name": "YK48",
-      "tags": [
-        "aquatic"
-      ]
+      "tags": ["aquatic"]
     },
     {
       "name": "YK49",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     },
     {
       "name": "YK50",
-      "tags": [
-        "fruits",
-        "food & beverage"
-      ]
+      "tags": ["fruits", "food & beverage"]
     }
   ],
   "product_lines": [
     {
-      "dimensions": {
-        "in": {
-          "length": 15,
-          "width": 13
+      "details": {
+        "materials": "Outer layer: TPU\nInner layer: TPU\nInsert: no insert",
+        "dimensions": {
+          "in": {
+            "length": 15,
+            "width": 13
+          }
+        },
+        "sizing": {
+          "min": {
+            "num": 3,
+            "unit": "kg"
+          },
+          "max": {
+            "num": 15,
+            "unit": "kg"
+          }
         }
       },
       "name": "Diaper Cover",
@@ -1464,21 +884,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb01-p-3036.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1491,21 +911,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb07-p-3037.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1518,21 +938,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb09-p-3039.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1545,21 +965,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb10-p-3038.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1572,21 +992,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-pink-color-for-baby-girl-dcb18-p-3040.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1600,21 +1020,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb25-p-3041.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1627,21 +1047,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcb26-p-3042.html",
-              "price": 3.80,
+              "price": 3.8,
               "type": "single"
             }
           ],
@@ -1654,21 +1074,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dch065-p-3390.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1681,21 +1101,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcs33-p-3389.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1708,21 +1128,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcs44-p-3044.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1735,21 +1155,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya37-p-3045.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1762,21 +1182,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya54-p-3048.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1789,21 +1209,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya84-p-3046.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1816,21 +1236,21 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/10pcs-baby-color-snap-covers-with-double-gussets-dc10-p-1600.html",
-              "price": 43.00,
+              "price": 43.0,
               "quantity": 10,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/20pcs-baby-color-snap-covers-with-double-gussets-dc20-p-2109.html",
-              "price": 82.00,
+              "price": 82.0,
               "quantity": 20,
               "type": "bulk"
             },
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/1pc-baby-color-snap-covers-with-double-gussets-dcya126-p-3049.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -1838,33 +1258,11 @@
           "tags": []
         }
       ],
-      "sizing": {
-        "size": "OSFA",
-        "weight_kg": {
-          "max": 15,
-          "min": 3
-        },
-        "weight_lb": {
-          "max": 33,
-          "min": 6.6
-        }
-      },
-      "tags": [
-        "cover",
-        "double gussets",
-        "snaps",
-        "tpu"
-      ]
+      "tags": ["diaper cover", "double gussets", "waist snaps", "infant / toddler", "non-organic"]
     },
     {
-      "dimensions": {
-        "cm": {
-          "length": 42,
-          "width": {
-            "belly": 32.5,
-            "waist": 45.5
-          }
-        }
+      "details": {
+        "materials": "Outer layer: polyester and TPU\nInner layer: suede cloth (100% polyester)\nInsert: microfiber (80% polyester, 20% polyamide)"
       },
       "name": "Big Size Pocket Cloth Diaper",
       "products": [
@@ -1965,33 +1363,20 @@
           "tags": []
         }
       ],
-      "sizing": {
-        "rough_age": {
-          "max": 3.5,
-          "min": 1
-        },
-        "size": "OSFA",
-        "weight_kg": {
-          "max": 15,
-          "min": 3
-        },
-        "weight_lb": {
-          "max": 33,
-          "min": 6.6
-        }
-      },
-      "tags": [
-        "pocket",
-        "snaps",
-        "tpu",
-        "suede"
-      ]
+      "tags": ["pocket diaper", "waist snaps", "infant / toddler", "non-organic"]
     },
     {
-      "dimensions": {
-        "in": {
-          "length": 15,
-          "width": 13
+      "details": {
+        "materials": "Outer layer: polyester and TPU\nInner layer: suede cloth (100% polyester)\nInsert: microfiber (80% polyester, 20% polyamide)",
+        "sizing": {
+          "min": {
+            "num": 3,
+            "unit": "kg"
+          },
+          "max": {
+            "num": 15,
+            "unit": "kg"
+          }
         }
       },
       "name": "Plain Pocket Diaper",
@@ -4605,29 +3990,20 @@
           "tags": []
         }
       ],
-      "sizing": {
-        "size": "OSFA",
-        "weight_kg": {
-          "max": 15,
-          "min": 3
-        },
-        "weight_lb": {
-          "max": 33,
-          "min": 6.6
-        }
-      },
-      "tags": [
-        "pocket",
-        "snaps",
-        "tpu",
-        "suede"
-      ]
+      "tags": ["pocket diaper", "waist snaps", "infant / toddler", "non-organic"]
     },
     {
-      "dimensions": {
-        "in": {
-          "length": 15,
-          "width": 13
+      "details": {
+        "materials": "Outer layer: polyester and TPU\nInner layer: suede cloth (100% polyester)\nInsert: bamboo (71.3% Bamboo, 28.7% polyester) and microfiber (80% polyester, 20% polyamide)",
+        "sizing": {
+          "min": {
+            "num": 3,
+            "unit": "kg"
+          },
+          "max": {
+            "num": 15,
+            "unit": "kg"
+          }
         }
       },
       "name": "All In One Diapers",
@@ -4741,31 +4117,20 @@
           "tags": []
         }
       ],
-      "sizing": {
-        "size": "OSFA",
-        "weight_kg": {
-          "max": 15,
-          "min": 3
-        },
-        "weight_lb": {
-          "max": 33,
-          "min": 6.6
-        }
-      },
-      "tags": [
-        "all in one",
-        "snaps",
-        "tpu",
-        "suede",
-        "bamboo",
-        "microfiber"
-      ]
+      "tags": ["all in one diaper", "waist snaps", "infant / toddler", "non-organic"]
     },
     {
-      "dimensions": {
-        "in": {
-          "length": 15,
-          "width": 13
+      "details": {
+        "materials": "Outer layer: polyester and TPU\nInner layer: suede cloth (100% polyester)\nInsert: microfiber (80% polyester, 20% polyamide)",
+        "sizing": {
+          "min": {
+            "num": 3,
+            "unit": "kg"
+          },
+          "max": {
+            "num": 15,
+            "unit": "kg"
+          }
         }
       },
       "name": "All In Two Diapers",
@@ -4939,30 +4304,26 @@
           "tags": []
         }
       ],
-      "sizing": {
-        "size": "OSFA",
-        "weight_kg": {
-          "max": 15,
-          "min": 3
-        },
-        "weight_lb": {
-          "max": 33,
-          "min": 6.6
-        }
-      },
-      "tags": [
-        "all in two",
-        "snaps",
-        "tpu",
-        "suede",
-        "microfiber"
-      ]
+      "tags": ["hybrid diaper", "waist snaps", "non-organic", "infant / toddler"]
     },
     {
-      "dimensions": {
-        "in": {
-          "length": 13,
-          "width": 10.25
+      "details": {
+        "materials": "Outer layer: polyester and TPU\nInner layer: suede cloth (100% polyester)\nInsert: bamboo (71.3% Bamboo, 28.7% polyester) and microfiber (80% polyester, 20% polyamide)",
+        "dimensions": {
+          "length": {
+            "num": 13,
+            "unit": "in"
+          },
+          "width": {
+            "num": 10.25,
+            "unit": "in"
+          }
+        },
+        "sizing": {
+          "max": {
+            "num": 12,
+            "unit": "lb"
+          }
         }
       },
       "name": "Newborn Plain Pocket Diaper",
@@ -4973,7 +4334,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb01-p-3148.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -4986,7 +4347,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb02-p-3149.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -4999,7 +4360,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb03-p-3150.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5012,7 +4373,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb06-p-3151.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5025,7 +4386,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb07-p-3152.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5038,7 +4399,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb08-p-3153.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5051,7 +4412,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb09-p-3154.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5064,7 +4425,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb14-p-3156.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5077,7 +4438,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb17-p-3158.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5090,7 +4451,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb25-p-3161.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5103,7 +4464,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-pure-cloth-diaper-with-one-3layer-newborn-microfiber-insert-sb26-p-3162.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5116,7 +4477,7 @@
             {
               "currency": "USD",
               "link": "https://www.alvababy.com/one-size-newborn-baby-snap-printed-cloth-pocket-diaper-with-one-3layer-newborn-microfiber-insert-sya65-p-3165.html",
-              "price": 4.50,
+              "price": 4.5,
               "type": "single"
             }
           ],
@@ -5124,17 +4485,7 @@
           "tags": []
         }
       ],
-      "sizing": {
-        "weight_lb": {
-          "max": 12
-        }
-      },
-      "tags": [
-        "pocket",
-        "snaps",
-        "tpu",
-        "suede"
-      ]
+      "tags": ["pocket diaper", "waist snaps", "preemie / newborn", "non-organic"]
     }
   ]
 }
