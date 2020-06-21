@@ -140,7 +140,7 @@
     },
     {
       "name": "H021",
-      "tags": ["balloons", "travel & transportation"]
+      "tags": ["balloons", "travel & transportation", "teal"]
     },
     {
       "name": "H022",
@@ -148,15 +148,15 @@
     },
     {
       "name": "H024",
-      "tags": ["abstract & geometric", "herringbone", "pink", "yellow", "blue"]
+      "tags": ["abstract & geometric", "herringbone" ]
     },
     {
       "name": "H027",
-      "tags": ["outer space"]
+      "tags": ["outer space","black"]
     },
     {
       "name": "H028",
-      "tags": ["native american culture", "western culture", "religion"]
+      "tags": ["native american culture", "american western culture", "religion"]
     },
     {
       "name": "H030",
@@ -164,15 +164,15 @@
     },
     {
       "name": "H034",
-      "tags": ["paisley", "purple", "blue"]
+      "tags": ["paisley", "purple" ]
     },
     {
       "name": "H035",
-      "tags": ["birds & feathers", "nature"]
+      "tags": ["birds & feathers", "nature", "black"]
     },
     {
       "name": "H037",
-      "tags": ["fruits", "food & beverage"]
+      "tags": ["fruits", "food & beverage","pink"]
     },
     {
       "name": "H038",
@@ -180,7 +180,7 @@
     },
     {
       "name": "H040",
-      "tags": ["outer space"]
+      "tags": ["outer space","black & white", "black"]
     },
     {
       "name": "H041",
@@ -192,7 +192,7 @@
     },
     {
       "name": "H044",
-      "tags": ["floral", "nature"]
+      "tags": ["flowers & foliage", "nature"]
     },
     {
       "name": "H046",
@@ -200,15 +200,15 @@
     },
     {
       "name": "H050",
-      "tags": ["foliage", "nature"]
+      "tags": ["flowers & foliage", "nature"]
     },
     {
       "name": "H051",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H052",
-      "tags": ["stem", "school"]
+      "tags": ["stem", "school", "green"]
     },
     {
       "name": "H054",
@@ -220,7 +220,7 @@
     },
     {
       "name": "H062",
-      "tags": ["animals", "birds & feathers", "black and white"]
+      "tags": ["animals", "birds & feathers", "black & white"]
     },
     {
       "name": "H063",
@@ -228,15 +228,15 @@
     },
     {
       "name": "H064",
-      "tags": ["disney", "black and white"]
+      "tags": ["disney", "black & white"]
     },
     {
       "name": "H065",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "pink"]
     },
     {
       "name": "H066",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H068",
@@ -248,15 +248,15 @@
     },
     {
       "name": "H071",
-      "tags": ["fantasy", "rainbow"]
+      "tags": ["fantasy", "rainbow", "pink"]
     },
     {
       "name": "H072",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H074",
-      "tags": ["fruits", "food & beverage"]
+      "tags": ["fruits", "food & beverage","green"]
     },
     {
       "name": "H076",
@@ -268,11 +268,11 @@
     },
     {
       "name": "H078",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "pink"]
     },
     {
       "name": "H079",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H084",
@@ -280,7 +280,7 @@
     },
     {
       "name": "H085",
-      "tags": ["sleep", "night"]
+      "tags": ["sleep", "night", "blue"]
     },
     {
       "name": "H086",
@@ -288,7 +288,7 @@
     },
     {
       "name": "H091",
-      "tags": ["disney", "star wars"]
+      "tags": ["disney", "star wars", "blue", "movies" ]
     },
     {
       "name": "H092",
@@ -308,7 +308,7 @@
     },
     {
       "name": "H100",
-      "tags": ["fantasy"]
+      "tags": ["fantasy", "purple"]
     },
     {
       "name": "H108",
@@ -316,7 +316,7 @@
     },
     {
       "name": "H110",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H114",
@@ -324,7 +324,7 @@
     },
     {
       "name": "H115",
-      "tags": ["foliage", "nature"]
+      "tags": ["flowers & foliage", "nature"]
     },
     {
       "name": "H117",
@@ -332,11 +332,11 @@
     },
     {
       "name": "H121",
-      "tags": ["floral", "abstract & geometric"]
+      "tags": ["flowers & foliage", "abstract & geometric"]
     },
     {
       "name": "H122",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H126",
@@ -348,27 +348,27 @@
     },
     {
       "name": "H132",
-      "tags": ["fantasy", "aliens", "outer space", "black and white"]
+      "tags": ["fantasy", "aliens", "outer space", "black & white"]
     },
     {
       "name": "H134",
-      "tags": ["around the house", "foliage"]
+      "tags": ["around the house", "flowers & foliage"]
     },
     {
       "name": "H136",
-      "tags": ["foliage", "tropical"]
+      "tags": ["flowers & foliage", "tropical"]
     },
     {
       "name": "H139",
-      "tags": ["seasons", "foliage", "autumn"]
+      "tags": ["seasons", "flowers & foliage", "autumn", "orange"]
     },
     {
       "name": "H140",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "pink"]
     },
     {
       "name": "H141",
-      "tags": ["animals"]
+      "tags": ["animals", "blue"]
     },
     {
       "name": "H142",
@@ -376,11 +376,11 @@
     },
     {
       "name": "H144",
-      "tags": ["around the house", "foliage"]
+      "tags": ["around the house", "flowers & foliage","teal"]
     },
     {
       "name": "H146",
-      "tags": ["floral", "foliage"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H147",
@@ -388,7 +388,7 @@
     },
     {
       "name": "H150",
-      "tags": ["seasons", "winter"]
+      "tags": ["seasons", "winter", "blue"]
     },
     {
       "name": "H151",
@@ -404,19 +404,19 @@
     },
     {
       "name": "H154",
-      "tags": ["foliage", "nature"]
+      "tags": ["flowers & foliage", "nature"]
     },
     {
       "name": "H155",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "black"]
     },
     {
       "name": "H157",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H159",
-      "tags": ["birds & feathers"]
+      "tags": ["birds & feathers", "blue"]
     },
     {
       "name": "H160",
@@ -424,11 +424,11 @@
     },
     {
       "name": "H161",
-      "tags": ["animals", "woodland"]
+      "tags": ["animals", "woodland", "brown"]
     },
     {
       "name": "H162",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H164",
@@ -444,7 +444,7 @@
     },
     {
       "name": "H167",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage","blue"]
     },
     {
       "name": "H169",
@@ -452,11 +452,11 @@
     },
     {
       "name": "H170",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H171",
-      "tags": ["stem", "outer space"]
+      "tags": ["stem", "outer space", "blue"]
     },
     {
       "name": "H172",
@@ -464,15 +464,15 @@
     },
     {
       "name": "H173",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "pink"]
     },
     {
       "name": "H174",
-      "tags": ["animals", "sleep"]
+      "tags": ["animals", "sleep", "blue"]
     },
     {
       "name": "H175",
-      "tags": ["foliage", "floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H177",
@@ -480,27 +480,27 @@
     },
     {
       "name": "H181",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H182",
-      "tags": ["fruits", "food & beverage", "foliage"]
+      "tags": ["fruits", "food & beverage", "flowers & foliage", "black"]
     },
     {
       "name": "H183",
-      "tags": ["hobbies", "stem"]
+      "tags": ["hobbies", "stem", "blue"]
     },
     {
       "name": "H185",
-      "tags": ["foliage", "woodland"]
+      "tags": ["flowers & foliage", "woodland"]
     },
     {
       "name": "H186",
-      "tags": ["floral", "asian culture"]
+      "tags": ["flowers & foliage", "asian culture", "red"]
     },
     {
       "name": "H187",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H188",
@@ -508,7 +508,7 @@
     },
     {
       "name": "H189",
-      "tags": ["travel & transportation"]
+      "tags": ["travel & transportation", "blue"]
     },
     {
       "name": "H190",
@@ -524,11 +524,11 @@
     },
     {
       "name": "H193",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H194",
-      "tags": ["black", "orange", "dinosaurs"]
+      "tags": ["dinosaurs", "black"]
     },
     {
       "name": "H196",
@@ -540,7 +540,7 @@
     },
     {
       "name": "H198",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H199",
@@ -548,7 +548,7 @@
     },
     {
       "name": "H200",
-      "tags": ["outer space"]
+      "tags": ["outer space","black"]
     },
     {
       "name": "H201",
@@ -556,7 +556,7 @@
     },
     {
       "name": "H202",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H203",
@@ -564,15 +564,15 @@
     },
     {
       "name": "H204",
-      "tags": ["animals", "woodland"]
+      "tags": ["animals", "woodland","gray"]
     },
     {
       "name": "H205",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H206",
-      "tags": ["outer space"]
+      "tags": ["outer space","black"]
     },
     {
       "name": "H207",
@@ -580,7 +580,7 @@
     },
     {
       "name": "H208",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H209",
@@ -592,7 +592,7 @@
     },
     {
       "name": "H211",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H212",
@@ -600,11 +600,11 @@
     },
     {
       "name": "H213",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "pink"]
     },
     {
       "name": "H214",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H215",
@@ -612,7 +612,7 @@
     },
     {
       "name": "H216",
-      "tags": ["floral", "black and white"]
+      "tags": ["flowers & foliage", "black & white"]
     },
     {
       "name": "H219",
@@ -620,15 +620,15 @@
     },
     {
       "name": "H220",
-      "tags": ["black and white", "foliage", "floral", "bugs & insects"]
+      "tags": ["black & white", "flowers & foliage", "bugs & insects"]
     },
     {
       "name": "H221",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "red"]
     },
     {
       "name": "H222",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "yellow"]
     },
     {
       "name": "H223",
@@ -636,19 +636,19 @@
     },
     {
       "name": "H224",
-      "tags": ["foliage"]
+      "tags": ["flowers & foliage","black"]
     },
     {
       "name": "H225",
-      "tags": ["fruits", "food & beverage"]
+      "tags": ["fruits", "food & beverage","red"]
     },
     {
       "name": "H226",
-      "tags": ["dinosaurs"]
+      "tags": ["dinosaurs", "black"]
     },
     {
       "name": "H227",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H228",
@@ -656,7 +656,7 @@
     },
     {
       "name": "H229",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H230",
@@ -664,7 +664,7 @@
     },
     {
       "name": "H231",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H232",
@@ -672,15 +672,15 @@
     },
     {
       "name": "H233",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H234",
-      "tags": ["dinosaurs"]
+      "tags": ["dinosaurs", "black"]
     },
     {
       "name": "H235",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage", "blue"]
     },
     {
       "name": "H236",
@@ -688,23 +688,23 @@
     },
     {
       "name": "H238",
-      "tags": ["native american culture", "western culture", "religion"]
+      "tags": ["native american culture", "american western culture", "religion"]
     },
     {
       "name": "H239",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "H240",
-      "tags": ["animals"]
+      "tags": ["animals","teal"]
     },
     {
       "name": "H241",
-      "tags": ["stars", "animals"]
+      "tags": ["stars", "animals","black"]
     },
     {
       "name": "H242",
-      "tags": ["animals", "aquatic"]
+      "tags": ["animals", "aquatic","blue"]
     },
     {
       "name": "H243",
@@ -712,11 +712,11 @@
     },
     {
       "name": "H244",
-      "tags": ["floral", "foliage"]
+      "tags": ["flowers & foliage", "purple"]
     },
     {
       "name": "H245",
-      "tags": ["floral", "abstract & geometric"]
+      "tags": ["flowers & foliage", "abstract & geometric"]
     },
     {
       "name": "H246",
@@ -736,7 +736,7 @@
     },
     {
       "name": "H250",
-      "tags": ["dinosaurs", "animals"]
+      "tags": ["dinosaurs", "animals","blue"]
     },
     {
       "name": "H251",
@@ -744,15 +744,15 @@
     },
     {
       "name": "H252",
-      "tags": ["dinosaurs", "animals"]
+      "tags": ["dinosaurs", "animals","blue"]
     },
     {
       "name": "H253",
-      "tags": ["animals", "aquatic"]
+      "tags": ["animals", "aquatic","blue"]
     },
     {
       "name": "H254",
-      "tags": ["birds & feathers"]
+      "tags": ["birds & feathers", "blue"]
     },
     {
       "name": "H255",
@@ -764,15 +764,15 @@
     },
     {
       "name": "J01",
-      "tags": ["miscellaneous"]
+      "tags": ["miscellaneous", "blue"]
     },
     {
       "name": "N01",
-      "tags": ["black", "yellow", "stripes", "bugs & insects"]
+      "tags": ["stripes", "bugs & insects"]
     },
     {
       "name": "N06",
-      "tags": ["super heroes", "disney"]
+      "tags": ["super heroes", "disney", "red"]
     },
     {
       "name": "N11T",
@@ -788,7 +788,7 @@
     },
     {
       "name": "S44",
-      "tags": ["nautical"]
+      "tags": ["nautical", "purple"]
     },
     {
       "name": "YA65",
@@ -800,15 +800,15 @@
     },
     {
       "name": "YA124",
-      "tags": ["floral"]
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "YA126",
-      "tags": ["nautical"]
+      "tags": ["nautical", "blue"]
     },
     {
       "name": "YA132",
-      "tags": ["fantasy", "skulls", "movies"]
+      "tags": ["fantasy", "skulls", "movies", "black & white"]
     },
     {
       "name": "YA28",
@@ -836,7 +836,7 @@
     },
     {
       "name": "YA88",
-      "tags": ["black and white", "hipster", "miscellaneous"]
+      "tags": ["black & white", "hipster", "miscellaneous"]
     },
     {
       "name": "YK47",
@@ -844,15 +844,15 @@
     },
     {
       "name": "YK48",
-      "tags": ["aquatic"]
+      "tags": ["aquatic","pink"]
     },
     {
       "name": "YK49",
-      "tags": ["fruits", "food & beverage"]
+      "tags": ["fruits", "food & beverage","pink"]
     },
     {
       "name": "YK50",
-      "tags": ["fruits", "food & beverage"]
+      "tags": ["fruits", "food & beverage","yellow"]
     }
   ],
   "product_lines": [
@@ -1258,7 +1258,7 @@
           "tags": []
         }
       ],
-      "tags": ["diaper cover", "double gussets", "waist snaps", "infant / toddler", "non-organic"]
+      "tags": ["diaper cover", "double gussets", "waist snaps", "infant", "toddler", "non-organic"]
     },
     {
       "details": {
@@ -1363,7 +1363,7 @@
           "tags": []
         }
       ],
-      "tags": ["pocket diaper", "waist snaps", "infant / toddler", "non-organic"]
+      "tags": ["pocket diaper", "waist snaps", "infant", "toddler", "non-organic"]
     },
     {
       "details": {
@@ -3990,7 +3990,7 @@
           "tags": []
         }
       ],
-      "tags": ["pocket diaper", "waist snaps", "infant / toddler", "non-organic"]
+      "tags": ["pocket diaper", "waist snaps", "infant", "toddler", "non-organic"]
     },
     {
       "details": {
@@ -4117,7 +4117,7 @@
           "tags": []
         }
       ],
-      "tags": ["all in one diaper", "waist snaps", "infant / toddler", "non-organic"]
+      "tags": ["all in one diaper", "waist snaps", "infant", "toddler", "non-organic"]
     },
     {
       "details": {
@@ -4304,7 +4304,7 @@
           "tags": []
         }
       ],
-      "tags": ["hybrid diaper", "waist snaps", "non-organic", "infant / toddler"]
+      "tags": ["hybrid diaper", "waist snaps", "non-organic", "infant", "toddler"]
     },
     {
       "details": {

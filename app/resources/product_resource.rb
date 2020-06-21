@@ -13,7 +13,7 @@ class ProductResource < JSONAPI::Resource
   filters :id, :name
   filters :brand, :pattern, :product_line
 
-  filter :'brand.name', apply: ->(records, names, _options) {
+  filter :'brands.name', apply: ->(records, names, _options) {
     names_str = names.sort.map { |v| "'#{v}'"}.join(', ')
     records.joins(:brand).where("brands.name IN (#{names_str})")
   }
@@ -21,8 +21,8 @@ class ProductResource < JSONAPI::Resource
     records.find_by_tag_ids(ids)
   }
   filter :'tags.name', apply: ->(records, names, _options) {
-    Tag.where(name: names).ids.each do |id|
-      records = records.find_by_tag_ids(id)
+    Tag.where(name: names).group_by(&:category).each do |category, tags|
+      records = records.find_by_tag_ids(tags.pluck(:id))
     end
     records
   }

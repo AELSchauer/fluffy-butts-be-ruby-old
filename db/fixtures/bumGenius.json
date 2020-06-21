@@ -4,7 +4,7 @@
   "patterns": [
     {
       "name": "Ballet",
-      "tags": ["pink", "gray", "polka dots"]
+      "tags": ["pink", "polka dots"]
     },
     {
       "name": "Blossom",
@@ -20,11 +20,11 @@
     },
     {
       "name": "Faster",
-      "tags": ["travel & transportation", "black and white"]
+      "tags": ["travel & transportation", "black & white"]
     },
     {
       "name": "Go",
-      "tags": ["travel & transportation", "black and white"]
+      "tags": ["travel & transportation", "black & white"]
     },
     {
       "name": "Mid-Century",
@@ -32,11 +32,11 @@
     },
     {
       "name": "My Sun",
-      "tags": ["day", "sky", "writing & text"]
+      "tags": ["daytime", "sky", "writing & text"]
     },
     {
       "name": "Play",
-      "tags": ["red", "blue", "green", "hobbies"]
+      "tags": ["hobbies"]
     },
     {
       "name": "Sassy",
@@ -44,11 +44,11 @@
     },
     {
       "name": "Sierpinski",
-      "tags": ["green", "blue", "abstract & geometric"]
+      "tags": ["green", "abstract & geometric"]
     },
     {
       "name": "Stop",
-      "tags": ["travel & transportation", "black and white"]
+      "tags": ["travel & transportation", "black & white"]
     },
     {
       "name": "Twilight",
@@ -405,7 +405,7 @@
           "tags": []
         }
       ],
-      "tags": ["all in one diaper",  "waist snaps", "osfa", "tpu"]
+      "tags": ["all in one diaper", "waist snaps"]
     },
     {
       "details": {},
@@ -842,7 +842,7 @@
         }
       ],
       "sizing": {},
-      "tags": ["all in one diaper",  "waist snaps", "tpu"],
+      "tags": ["all in one diaper", "waist snaps"],
       "type": "diaper"
     },
     {
@@ -1234,7 +1234,7 @@
           "max": 35
         }
       },
-      "tags": ["all in one diaper",  "waist snaps"],
+      "tags": ["all in one diaper", "waist snaps"],
       "type": "diaper"
     },
     {
@@ -1306,7 +1306,7 @@
           "max": 12
         }
       },
-      "tags": ["preemie / newborn", "all in one diaper",  "waist snaps"],
+      "tags": ["preemie / newborn", "all in one diaper", "waist snaps"],
       "type": "diaper"
     },
     {
@@ -1488,7 +1488,7 @@
           "max": 12
         }
       },
-      "tags": ["preemie / newborn", "all in one diaper",  "waist snaps"],
+      "tags": ["preemie / newborn", "all in one diaper", "waist snaps"],
       "type": "diaper"
     }
   ]

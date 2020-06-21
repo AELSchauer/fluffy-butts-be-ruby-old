@@ -6,33 +6,33 @@
     { "name": "Abalone", "tags": ["solid", "blue"] },
     { "name": "Arctic", "tags": ["solid", "blue"] },
     { "name": "Ballot", "tags": ["abstract & geometric", "black & white"] },
-    { "name": "Basil", "tags": ["solid", "gren"] },
-    { "name": "Clay", "tags": ["brown", "red", "solid"] },
+    { "name": "Basil", "tags": ["solid", "green"] },
+    { "name": "Clay", "tags": ["brown", "solid"] },
     { "name": "Cloud", "tags": ["solid", "gray"] },
     { "name": "Fennec", "tags": ["stripes"] },
     { "name": "Glacier", "tags": ["solid", "green"] },
     { "name": "Have Baby Will Travel", "travel & transportation": [] },
-    { "name": "Heartspring", "tags": ["animals"] },
+    { "name": "Heartspring", "tags": ["animals","black"] },
     { "name": "Jet", "tags": ["solid", "brown"] },
     { "name": "Koi", "tags": ["animals", "aquatic"] },
     { "name": "Lotus", "tags": ["solid", "pink"] },
     { "name": "Marsala", "tags": ["solid", "red"] },
-    { "name": "Maverick", "tags": ["travel & transportation", "sky"] },
+    { "name": "Maverick", "tags": ["travel & transportation", "sky", "gray"] },
     { "name": "Onyx Stripe", "tags": ["stripes", "black & white"] },
     { "name": "Petal", "tags": ["solid", "pink"] },
     { "name": "Rainbow Baby", "tags": ["sky"] },
     { "name": "Rose", "tags": ["solid", "pink", "orange"] },
     { "name": "Sugar Rush", "tags": ["stripes", "pink"] },
-    { "name": "Tex", "tags": ["western culture", "hobbies"] },
-    { "name": "Ur the One", "tags": ["animals", "aquatic"] },
-    { "name": "Vanilla", "tags": ["solid", "white", "cream"] },
+    { "name": "Tex", "tags": ["american western culture", "hobbies", "red"] },
+    { "name": "Ur the One", "tags": ["animals", "aquatic","blue"] },
+    { "name": "Vanilla", "tags": ["solid", "white"] },
     { "name": "Waverly", "tags": ["abstract & geometric", "purple"] },
-    { "name": "Yarrow", "tags": ["solid", "white"] }
+    { "name": "Yarrow", "tags": ["solid", "yellow"] }
   ],
   "product_lines": [
     {
       "name": "All In One Organic Cloth Diapers",
-      "tags": ["organic", "infant / toddler", "all in one diaper"],
+      "tags": ["organic", "infant", "toddler", "all in one diaper"],
       "details": {
         "materials": "Inner Body: 4 layers of 100% Organic Cotton on both sewn-in insert and snap-in booster.\nDiaper Outer: 100% water-resistant Polyester TPU, lined with 2 layers of Organic Cotton.",
         "origin_country": "China",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Big O.N.E. Cloth Diaper",
-      "tags": ["toddler / young child", "all in one diaper", "non-organic"],
+      "tags": ["young child", "toddler", "all in one diaper", "non-organic"],
       "details": {
         "materials": "Hidden Inner Layer: 100% Polyester Microfiber\nOuter: 100% Water Resistant Polyester TPU\nSoaker: 100% Cotton topped with 100% Polyester Microfleece\nBody Lining: 100% Polyester Microfleece\nOuter: 100% Water Resistant Polyester TPU (Exclusive of Trim)",
         "origin_country": "China",
@@ -351,7 +351,7 @@
       "name": "Buttah O.N.E. Cloth Diaper",
       "tags": [
         "buttah series",
-        "infant / toddler",
+        "infant", "toddler",
         "all in one diaper",
         "non-organic"
       ],
@@ -416,7 +416,7 @@
     },
     {
       "name": "Buttah Organic All In One",
-      "tags": ["buttah series", "organic", "infant / toddler", "all in one diaper"],
+      "tags": ["buttah series", "organic", "infant", "toddler", "all in one diaper"],
       "details": {
         "materials": "Inner Body: 4 layers of 100% Organic Cotton on both sewn-in insert and snap-in booster.\nDiaper Outer: 100% water-resistant Polyester TPU, lined with 2 layers of Organic Cotton.",
         "origin_country": "China",
@@ -522,8 +522,8 @@
       "name": "Cloth Swim Diapers",
       "tags": [
         "swim diaper",
-        "infant / toddler",
-        "toddler / young child",
+        "infant", "toddler",
+        "young child", "toddler",
         "non-organic"
       ],
       "details": {
@@ -835,7 +835,7 @@
     },
     {
       "name": "Hybrid Cloth Diapers",
-      "tags": ["organic", "infant / toddler", "hybrid diaper"],
+      "tags": ["organic", "infant", "toddler", "hybrid diaper"],
       "details": {
         "materials": "Inner Body: 100% Polyester Mesh\nOuter: 100% Water Resistant Polyester TPU",
         "origin_country": "China",
@@ -1307,7 +1307,7 @@
     },
     {
       "name": "O.N.E. Cloth Diaper",
-      "tags": ["infant / toddler", "all in one diaper", "non-organic"],
+      "tags": ["infant", "toddler", "all in one diaper", "non-organic"],
       "details": {
         "materials": "Hidden Inner Layer: 100% Polyester Microfiber\nOuter: 100% Water Resistant Polyester TPU\nSoaker: 100% Cotton topped with 100% Polyester Microfleece\nBody Lining: 100% Polyester Microfleece\nOuter: 100% Water Resistant Polyester TPU (Exclusive of Trim)",
         "origin_country": "China",
@@ -1350,20 +1350,6 @@
             }
           ],
           "pattern": "Basil"
-        },
-        {
-          "code": "Clay",
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-clay?variant=30300619047023",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "23.95"
-            }
-          ],
-          "pattern": "Clay"
         },
         {
           "code": "Cloud",

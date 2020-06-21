@@ -1,8 +1,8 @@
 require 'json'
 
+tag_categories_data = JSON.parse(File.read('db/fixtures/tag_categories.json'))
 
 def upload_brand_data (brand_filename)
-  tag_categories_data = JSON.parse(File.read('db/fixtures/tag_categories.json'))
   brand_data = JSON.parse(File.read(brand_filename))
   brand = Brand.find_or_create_by({ name: brand_data['brand'], origin_country: brand_data['country_origin'] })
   brand.images.find_or_create_by(name: brand_data['brand'], link: "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/Logo.png")
@@ -10,7 +10,7 @@ def upload_brand_data (brand_filename)
   brand_data['patterns'].each do |pattern_data|
     pattern = brand.patterns.find_or_create_by({ name: pattern_data['name'] })
     (pattern_data['tags'] || []).each do |tag_name|
-      tag = Tag.find_or_create_by({ name: tag_name, category: tag_categories_data[tag_name] })
+      tag = Tag.find_or_create_by({ name: tag_name })
       if !pattern.tags.include?(tag)
         pattern.tags << tag
       end
@@ -71,3 +71,11 @@ upload_brand_data('db/fixtures/Blueberry.json')
 upload_brand_data('db/fixtures/bumGenius.json')
 upload_brand_data('db/fixtures/GroVia.json')
 upload_brand_data('db/fixtures/Thirsties.json')
+
+Tag.where(category: 'TBD').each do |tag|
+  tag.update(category: tag_categories_data[tag.name])
+end
+
+Tag.where(category: nil).each do |tag|
+  tag.update(category: tag_categories_data[tag.name])
+end

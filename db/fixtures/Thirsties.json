@@ -1,1645 +1,3015 @@
 {
-  "brand": "Thirsties",
-  "country_origin": "?",
-  "patterns": [
-    { "name": "Adventure Trail", "tags": [] },
-    { "name": "Alice Brights", "tags": [] },
-    { "name": "Aqua", "tags": [] },
-    { "name": "Arthropoda", "tags": [] },
-    { "name": "Azalea", "tags": [] },
-    { "name": "Birdie", "tags": [] },
-    { "name": "Blackbird", "tags": [] },
-    { "name": "Classic Jurassic", "tags": [] },
-    { "name": "Counting Sheep", "tags": [] },
-    { "name": "Dreamscape", "tags": [] },
-    { "name": "Elefantabulous", "tags": [] },
-    { "name": "Fin", "tags": [] },
-    { "name": "Fish Tales", "tags": [] },
-    { "name": "Forest Frolic", "tags": [] },
-    { "name": "Happy Camper", "tags": [] },
-    { "name": "Ice Blue", "tags": [] },
-    { "name": "Leap", "tags": [] },
-    { "name": "Merry Moose-mas", "tags": [] },
-    { "name": "Midnight Blue", "tags": [] },
-    { "name": "Moss", "tags": [] },
-    { "name": "Mountain Bike", "tags": [] },
-    { "name": "Mountain Twilight", "tags": [] },
-    { "name": "Night Owl", "tags": [] },
-    { "name": "Ocean Blue", "tags": [] },
-    { "name": "Over the Moon", "tags": [] },
-    { "name": "Palm Paradise", "tags": [] },
-    { "name": "Pandamonium", "tags": [] },
-    { "name": "Plum", "tags": [] },
-    { "name": "Rocket", "tags": [] },
-    { "name": "Stand Tall", "tags": [] },
-    { "name": "Stargazer", "tags": [] },
-    { "name": "Sugar Plum", "tags": [] },
-    { "name": "Tortuga", "tags": [] },
-    { "name": "Toucan", "tags": [] },
-    { "name": "Whales", "tags": [] },
-    { "name": "White", "tags": [] },
-    { "name": "Woodland", "tags": [] }
-  ],
-  "product_lines": [
-    {
-      "name": "Duo Wrap",
-      "products": [
-        {
-          "code": "Adventure Trail -- Hook & Loop",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Adventure Trail"
-        },
-        {
-          "code": "Adventure Trail -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Adventure Trail"
-        },
-        {
-          "code": "Alice Brights -- Hook & Loop",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Alice Brights"
-        },
-        {
-          "code": "Alice Brights -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Alice Brights"
-        },
-        {
-          "code": "Aqua -- Hook & Loop",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Aqua"
-        },
-        {
-          "code": "Aqua -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Aqua"
-        },
-        {
-          "code": "Arthropoda -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Arthropoda"
-        },
-        {
-          "code": "Arthropoda -- Snap",
-          "sizes": ["One", "Two", "Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Arthropoda"
-        },
-        {
-          "code": "Azalea -- Snap",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Azalea"
-        },
-        {
-          "code": "Birdie -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Birdie"
-        },
-        {
-          "code": "Birdie -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Birdie"
-        },
-        {
-          "code": "Counting Sheep -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Counting Sheep"
-        },
-        {
-          "code": "Counting Sheep -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Counting Sheep"
-        },
-        {
-          "code": "Dreamscape -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Dreamscape"
-        },
-        {
-          "code": "Elefantabulous -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Elefantabulous"
-        },
-        {
-          "code": "Elefantabulous -- Snap",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Elefantabulous"
-        },
-        {
-          "code": "Fin -- Hook & Loop",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fin"
-        },
-        {
-          "code": "Fin -- Snap",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fin"
-        },
-        {
-          "code": "Forest Frolic -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Forest Frolic"
-        },
-        {
-          "code": "Forest Frolic -- Snap",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Forest Frolic"
-        },
-        {
-          "code": "Happy Camper -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Happy Camper"
-        },
-        {
-          "code": "Happy Camper -- Snap",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Happy Camper"
-        },
-        {
-          "code": "Ice Blue -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Ice Blue"
-        },
-        {
-          "code": "Merry Moose-mas -- Hook & Loop",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Merry Moose-mas"
-        },
-        {
-          "code": "Merry Moose-mas -- Snap",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Merry Moose-mas"
-        },
-        {
-          "code": "Midnight Blue -- Hook & Loop",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Midnight Blue"
-        },
-        {
-          "code": "Midnight Blue -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Midnight Blue"
-        },
-        {
-          "code": "Mountain Bike -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Bike"
-        },
-        {
-          "code": "Mountain Bike -- Snap",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Bike"
-        },
-        {
-          "code": "Mountain Twilight -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        },
-        {
-          "code": "Mountain Twilight -- Snap",
-          "sizes": ["One", "Two", "Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        },
-        {
-          "code": "Night Owl -- Hook & Loop",
-          "sizes": ["Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        },
-        {
-          "code": "Night Owl -- Snap",
-          "sizes": ["One", "Two", "Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        },
-        {
-          "code": "Over the Moon -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Over the Moon"
-        },
-        {
-          "code": "Stand Tall -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stand Tall"
-        },
-        {
-          "code": "Stand Tall -- Snap",
-          "sizes": ["One", "Two", "Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stand Tall"
-        },
-        {
-          "code": "Stargazer -- Hook & Loop",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stargazer"
-        },
-        {
-          "code": "White -- Snap",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "White"
-        },
-        {
-          "code": "Woodland -- Hook & Loop",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Woodland"
-        },
-        {
-          "code": "Woodland -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
-              "price": "$13.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Woodland"
-        }
-      ]
-    },
-    {
-      "name": "Natural Newborn All In One",
-      "products": [
-        {
-          "code": "Birdie -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Birdie"
-        },
-        {
-          "code": "Elefantabulous -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Elefantabulous"
-        },
-        {
-          "code": "Forest Frolic -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Forest Frolic"
-        },
-        {
-          "code": "Happy Camper -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Happy Camper"
-        },
-        {
-          "code": "Ice Blue -- Hook & Loop",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Ice Blue"
-        },
-        {
-          "code": "Ice Blue -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Ice Blue"
-        },
-        {
-          "code": "Merry Moose-mas -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Merry Moose-mas"
-        },
-        {
-          "code": "Midnight Blue -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Midnight Blue"
-        },
-        {
-          "code": "Mountain Twilight -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        },
-        {
-          "code": "Night Owl -- Hook & Loop",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        },
-        {
-          "code": "Night Owl -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        },
-        {
-          "code": "Stand Tall -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
-              "price": "$19.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stand Tall"
-        }
-      ]
-    },
-    {
-      "name": "Natural One Size All In One",
-      "products": [
-        {
-          "code": "Adventure Trail -- Hook & Loop",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Adventure Trail"
-        },
-        {
-          "code": "Arthropoda -- Hook & Loop",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Arthropoda"
-        },
-        {
-          "code": "Birdie -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Birdie"
-        },
-        {
-          "code": "Counting Sheep -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Counting Sheep"
-        },
-        {
-          "code": "Dreamscape -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Dreamscape"
-        },
-        {
-          "code": "Forest Frolic -- Hook & Loop",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Forest Frolic"
-        },
-        {
-          "code": "Happy Camper -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Happy Camper"
-        },
-        {
-          "code": "Merry Moose-mas -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Merry Moose-mas"
-        },
-        {
-          "code": "Midnight Blue -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Midnight Blue"
-        },
-        {
-          "code": "Mountain Twilight -- Hook & Loop",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        },
-        {
-          "code": "Night Owl -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        },
-        {
-          "code": "Over the Moon -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Over the Moon"
-        },
-        {
-          "code": "Stand Tall -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stand Tall"
-        }
-      ]
-    },
-    {
-      "name": "Newborn All In One",
-      "products": [
-        {
-          "code": "Aqua -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Aqua"
-        },
-        {
-          "code": "Counting Sheep -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Counting Sheep"
-        },
-        {
-          "code": "Dreamscape -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Dreamscape"
-        },
-        {
-          "code": "Elefantabulous -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Elefantabulous"
-        },
-        {
-          "code": "Ice Blue -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Ice Blue"
-        },
-        {
-          "code": "Mountain Twilight -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        },
-        {
-          "code": "Over the Moon -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
-              "price": "$16.25",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Over the Moon"
-        }
-      ]
-    },
-    {
-      "name": "One Size All In One",
-      "products": [
-        {
-          "code": "Adventure Trail -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Adventure Trail"
-        },
-        {
-          "code": "Forest Frolic -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Forest Frolic"
-        },
-        {
-          "code": "Happy Camper -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Happy Camper"
-        },
-        {
-          "code": "Midnight Blue -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Midnight Blue"
-        },
-        {
-          "code": "Mountain Bike -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Bike"
-        },
-        {
-          "code": "Night Owl -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        },
-        {
-          "code": "Stand Tall -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stand Tall"
-        },
-        {
-          "code": "Woodland -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
-              "price": "$20.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Woodland"
-        }
-      ]
-    },
-    {
-      "name": "Natural Newborn Fitted",
-      "products": [
-        {
-          "code": "Fin -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-fitted/",
-              "price": "$18.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fin"
-        },
-        {
-          "code": "Moss -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-fitted/",
-              "price": "$18.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Moss"
-        },
-        {
-          "code": "Ocean Blue -- Snap",
-          "sizes": ["Newborn"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-fitted/",
-              "price": "$18.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Ocean Blue"
-        }
-      ]
-    },
-    {
-      "name": "Natural One Size Fitted",
-      "products": [
-        {
-          "code": "Fin -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-fitted/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fin"
-        },
-        {
-          "code": "Moss -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-fitted/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Moss"
-        },
-        {
-          "code": "Ocean Blue -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-fitted/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Ocean Blue"
-        },
-        {
-          "code": "Plum -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-fitted/",
-              "price": "$26.95",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Plum"
-        }
-      ]
-    },
-    {
-      "name": "Natural One Size Pocket",
-      "products": [
-        {
-          "code": "Elefantabulous -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-pocket/",
-              "price": "$24.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Elefantabulous"
-        },
-        {
-          "code": "Mountain Twilight -- Hook & Loop",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-pocket/",
-              "price": "$24.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        }
-      ]
-    },
-    {
-      "name": "One Size Pocket Diaper",
-      "products": [
-        {
-          "code": "Arthropoda -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
-              "price": "$21.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Arthropoda"
-        },
-        {
-          "code": "Mountain Twilight -- Hook & Loop",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
-              "price": "$21.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Mountain Twilight"
-        },
-        {
-          "code": "Night Owl -- Snap",
-          "sizes": ["One size"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
-              "price": "$21.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Night Owl"
-        }
-      ]
-    },
-    {
-      "name": "Potty Training Pant",
-      "products": [
-        {
-          "code": "Classic Jurassic",
-          "sizes": ["Small", "X-Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
-              "price": "$19.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Classic Jurassic"
-        },
-        {
-          "code": "Elefantabulous",
-          "sizes": ["Small", "X-Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
-              "price": "$19.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Elefantabulous"
-        },
-        {
-          "code": "Pandamonium",
-          "sizes": ["Small", "X-Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
-              "price": "$19.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Pandamonium"
-        },
-        {
-          "code": "Rocket",
-          "sizes": ["Medium", "Large", "X-Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
-              "price": "$19.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Rocket"
-        },
-        {
-          "code": "Stand Tall",
-          "sizes": ["Medium", "Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
-              "price": "$19.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Stand Tall"
-        }
-      ]
-    },
-    {
-      "name": "Swim Diaper",
-      "products": [
-        {
-          "code": "Fish Tales -- Snap",
-          "sizes": ["One"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
-              "price": "$15.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fish Tales"
-        },
-        {
-          "code": "Leap -- Snap",
-          "sizes": ["Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
-              "price": "$15.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Leap"
-        },
-        {
-          "code": "Palm Paradise -- Snap",
-          "sizes": ["Two", "Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
-              "price": "$15.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Palm Paradise"
-        },
-        {
-          "code": "Tortuga -- Snap",
-          "sizes": ["Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
-              "price": "$15.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Tortuga"
-        },
-        {
-          "code": "Toucan -- Snap",
-          "sizes": ["One", "Two"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
-              "price": "$15.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Toucan"
-        },
-        {
-          "code": "Whales -- Snap",
-          "sizes": ["Two", "Three"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
-              "price": "$15.75",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Whales"
-        }
-      ]
-    },
-    {
-      "name": "Diaper Cover",
-      "products": [
-        {
-          "code": "Aqua -- Hook & Loop",
-          "sizes": ["Newborn-preemie", "X-small", "Small", "Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Aqua"
-        },
-        {
-          "code": "Aqua -- Snap",
-          "sizes": ["X-small", "Medium", "Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Aqua"
-        },
-        {
-          "code": "Blackbird -- Hook & Loop",
-          "sizes": ["Newborn-preemie"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Blackbird"
-        },
-        {
-          "code": "Fin -- Hook & Loop",
-          "sizes": ["Newborn-preemie", "Medium", "Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fin"
-        },
-        {
-          "code": "Fin -- Snap",
-          "sizes": ["Small", "Medium", "Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Fin"
-        },
-        {
-          "code": "Sugar Plum -- Hook & Loop",
-          "sizes": ["Newborn-preemie", "X-small", "Small"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "Sugar Plum"
-        },
-        {
-          "code": "White -- Hook & Loop",
-          "sizes": ["Newborn-preemie", "X-small", "Small", "Medium", "Large"],
-          "listings": [
-            {
-              "currency": "USD",
-              "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
-              "price": "$12.50",
-              "quantity": 1,
-              "type": "single"
-            }
-          ],
-          "pattern": "White"
-        }
-      ]
-    }
-  ]
+  "data": {
+    "brand": "Thirsties",
+    "country_orgin": "?",
+    "patterns": [
+      {
+        "name": "Adventure Trail",
+        "tags": ["animals", "woodland", "hobbies", "travel & transportation"]
+      },
+      {
+        "name": "Alice Brights",
+        "tags": ["pink", "flowers & foliage"]
+      },
+      {
+        "name": "Aqua",
+        "tags": ["solid", "green", "blue"]
+      },
+      {
+        "name": "Arthropoda",
+        "tags": ["bugs & insects"]
+      },
+      {
+        "name": "Azalea",
+        "tags": ["solid", "red"]
+      },
+      {
+        "name": "Birdie",
+        "tags": ["animals", "flowers & foliage"]
+      },
+      {
+        "name": "Blackbird",
+        "tags": ["flowers & foliage"]
+      },
+      {
+        "name": "Classic Jurassic",
+        "tags": ["dinosaurs"]
+      },
+      {
+        "name": "Counting Sheep",
+        "tags": ["animals"]
+      },
+      {
+        "name": "Dreamscape",
+        "tags": ["abstract & geometric"]
+      },
+      {
+        "name": "Elefantabulous",
+        "tags": ["animals", "flowers & foliage", "indian culture"]
+      },
+      {
+        "name": "Fin",
+        "tags": ["gray", "solid"]
+      },
+      {
+        "name": "Fish Tales",
+        "tags": ["animals", "aquatic"]
+      },
+      {
+        "name": "Forest Frolic",
+        "tags": ["nature", "woodland"]
+      },
+      {
+        "name": "Happy Camper",
+        "tags": ["hobbies", "travel & transportation"]
+      },
+      {
+        "name": "Ice Blue",
+        "tags": ["blue", "solid"]
+      },
+      {
+        "name": "Leap",
+        "tags": ["flowers & foliage", "jungle"]
+      },
+      {
+        "name": "Merry Moose-mas",
+        "tags": ["animals", "woodland", "holidays"]
+      },
+      {
+        "name": "Midnight Blue",
+        "tags": ["solid", "blue"]
+      },
+      {
+        "name": "Mountain Bike",
+        "tags": ["travel & transportation", "hobbies"]
+      },
+      {
+        "name": "Mountain Twilight",
+        "tags": ["nature", "green"]
+      },
+      {
+        "name": "Night Owl",
+        "tags": ["blue", "birds & feathers"]
+      },
+      {
+        "name": "Over the Moon",
+        "tags": ["gray", "sleep"]
+      },
+      {
+        "name": "Palm Paradise",
+        "tags": ["flowers & foliage", "tropical"]
+      },
+      {
+        "name": "Pandamonium",
+        "tags": ["animals", "teal"]
+      },
+      {
+        "name": "Rocket",
+        "tags": ["outer space", "fantasy", "aliens"]
+      },
+      {
+        "name": "Stand Tall",
+        "tags": ["jungle", "animals"]
+      },
+      {
+        "name": "Stargazer",
+        "tags": ["black", "outer space"]
+      },
+      {
+        "name": "Sugar Plum",
+        "tags": ["solid", "purple"]
+      },
+      {
+        "name": "Tortuga",
+        "tags": ["animals", "aquatic", "blue"]
+      },
+      {
+        "name": "Toucan",
+        "tags": ["animals", "birds & feathers", "jungle"]
+      },
+      {
+        "name": "Whales",
+        "tags": ["animals", "aquatic"]
+      },
+      {
+        "name": "White",
+        "tags": ["solid", "white"]
+      },
+      {
+        "name": "Woodland",
+        "tags": ["animals", "woodland"]
+      }
+    ],
+    "product_lines": [
+      {
+        "name": "Diaper Cover",
+        "details": {
+          "materials": "Outer: 100% polyester\n",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "newborn / preemie",
+              "min": [
+                {
+                  "num": 4,
+                  "unit": "lb"
+                },
+                {
+                  "num": 2,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 10,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4.5,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "x-small",
+              "min": [
+                {
+                  "num": 6,
+                  "unit": "lb"
+                },
+                {
+                  "num": 3,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 12,
+                  "unit": "lb"
+                },
+                {
+                  "num": 5.5,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "small",
+              "min": [
+                {
+                  "num": 12,
+                  "unit": "lb"
+                },
+                {
+                  "num": 5.5,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 18,
+                  "unit": "lb"
+                },
+                {
+                  "num": 8,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "medium",
+              "min": [
+                {
+                  "num": 18,
+                  "unit": "lb"
+                },
+                {
+                  "num": 8,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 28,
+                  "unit": "lb"
+                },
+                {
+                  "num": 12.5,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "large",
+              "min": [
+                {
+                  "num": 28,
+                  "unit": "lb"
+                },
+                {
+                  "num": 12.5,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["preemie / newborn", "diaper cover", "infant", "toddler"],
+        "products": [
+          {
+            "name": "Aqua -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Aqua",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 12.5,
+                "sizes": [
+                  "x-small 6-12 lbs (3-5.5 kg)",
+                  "small 12-18 lbs (5.5-8 kg)",
+                  "newborn-preemie 4-10 lbs (2-4.5 kg)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Aqua -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Aqua",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 12.5,
+                "sizes": [
+                  "x-small 6-12 lbs (3-5.5 kg)",
+                  "medium 18-28 lbs (8-12.5 kg)",
+                  "large 28-40 lbs (12.5-18 kg)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Blackbird -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Blackbird",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 12.5,
+                "sizes": ["newborn-preemie 4-10 lbs (2-4.5 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Fin -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Fin",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 12.5,
+                "sizes": [
+                  "newborn-preemie 4-10 lbs (2-4.5 kg)",
+                  "large 28-40 lbs (12.5-18 kg)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fin -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Fin",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 12.5,
+                "sizes": [
+                  "small 12-18 lbs (5.5-8 kg)",
+                  "medium 18-28 lbs (8-12.5 kg)",
+                  "large 28-40 lbs (12.5-18 kg)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "White -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "White",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/diaper-cover/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 12.5,
+                "sizes": [
+                  "x-small 6-12 lbs (3-5.5 kg)",
+                  "small 12-18 lbs (5.5-8 kg)",
+                  "newborn-preemie 4-10 lbs (2-4.5 kg)",
+                  "medium 18-28 lbs (8-12.5 kg)",
+                  "large 28-40 lbs (12.5-18 kg)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Duo Wrap",
+        "details": {
+          "materials": "Outer: 100% polyester\n",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one",
+              "min": [
+                {
+                  "num": 6,
+                  "unit": "lb"
+                },
+                {
+                  "num": 3,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 18,
+                  "unit": "lb"
+                },
+                {
+                  "num": 8,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "two",
+              "min": [
+                {
+                  "num": 18,
+                  "unit": "lb"
+                },
+                {
+                  "num": 8,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "three",
+              "min": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 60,
+                  "unit": "lb"
+                },
+                {
+                  "num": 30,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["diaper cover", "infant", "toddler", "young child"],
+        "products": [
+          {
+            "name": "Adventure Trail -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Adventure Trail",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Adventure Trail -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Adventure Trail",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Alice Brights -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Alice Brights",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Alice Brights -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Alice Brights",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Aqua -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Aqua",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Aqua -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Aqua",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Arthropoda -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Arthropoda -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Counting Sheep -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Counting Sheep",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Counting Sheep -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Counting Sheep",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Dreamscape -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Dreamscape",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Dreamscape -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Dreamscape",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Happy Camper -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Happy Camper",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Happy Camper -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Happy Camper",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Merry Moose-mas -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Merry Moose-mas",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Merry Moose-mas -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Merry Moose-mas",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Stand Tall -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Stand Tall",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Stand Tall -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Stand Tall",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "White -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "White",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "White -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "White",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Woodland -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Woodland",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          },
+          {
+            "name": "Woodland -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Woodland",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/duo-wrap/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 13.95,
+                "sizes": ["one", "three", "two"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Natural Newborn All In One",
+        "details": {
+          "materials": "Outer: 100% polyester\nInner Liner: 100% GOTS certified organic cotton\nInner Absorbency: 2 layers of 100% GOTS certified organic cotton\nInner Soakers: 6 layers of 55% hemp - 45% organic cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "newborn",
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                },
+                {
+                  "num": 2,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 14,
+                  "unit": "lb"
+                },
+                {
+                  "num": 6,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["all in one diaper", "preemie / newborn", "organic"],
+        "products": [
+          {
+            "name": "Arthropoda -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Arthropoda -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Birdie -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Birdie",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Birdie -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Birdie",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Happy Camper -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Happy Camper",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Happy Camper -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Happy Camper",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Merry Moose-mas -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Merry Moose-mas",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Merry Moose-mas -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Merry Moose-mas",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Midnight Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Midnight Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Midnight Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Midnight Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Stand Tall -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Stand Tall",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Stand Tall -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Stand Tall",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.5,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Natural Newborn Fitted",
+        "details": {
+          "materials": "70% Rayon from Bamboo/30% Cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "newborn",
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                },
+                {
+                  "num": 2,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 14,
+                  "unit": "lb"
+                },
+                {
+                  "num": 6,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["fitted diaper", "preemie / newborn", "non-organic"],
+        "products": [
+          {
+            "name": "Fin",
+            "pattern": "Fin",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-newborn-fitted/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 18.95,
+                "sizes": ["newborn 5 - 14 lbs (2-6 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Natural One Size All In One",
+        "details": {
+          "materials": "Outer – 100% polyester with waterproof TPU laminate\nInner Liner – 100% GOTS certified organic cotton\nInner Absorbency – 2 layers of 100% GOTS certified organic cotton\nInner Soakers – 8  layers of 55% hemp - 45% organic cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one size",
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["all in one diaper", "infant", "toddler", "organic"],
+        "products": [
+          {
+            "name": "Adventure Trail -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Adventure Trail",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Adventure Trail -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Adventure Trail",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Counting Sheep -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Counting Sheep",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Counting Sheep -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Counting Sheep",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Merry Moose-mas -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Merry Moose-mas",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Merry Moose-mas -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Merry Moose-mas",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Midnight Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Midnight Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Midnight Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Midnight Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Natural One Size Fitted",
+        "details": {
+          "materials": "70% Rayon from Bamboo/30% Cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one size",
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["all in one diaper", "infant", "toddler", "non-organic"],
+        "products": [
+          {
+            "name": "Moss",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-fitted/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 26.95,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Natural One Size Pocket",
+        "details": {
+          "materials": "Outer: 100% polyester with waterproof urethane coating\nInner: 100% GOTS certified organic cotton\nNewborn insert: 100% GOTS certified organic cotton\nFull size insert: 55% Hemp, 45% Cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one size",
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["pocket diaper", "infant", "toddler", "organic"],
+        "products": [
+          {
+            "name": "Birdie -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Birdie",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-pocket/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 24.5,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Birdie -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Birdie",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/natural-one-size-pocket/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 24.5,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Newborn All in One",
+        "details": {
+          "materials": "Outer – 100% polyester with waterproof TPU laminate\nInner Liner – 100% GOTS certified organic cotton\nInner Absorbency – 2 layers of 100% GOTS certified organic cotton\nInner Soakers – 6 layers of 55% hemp - 45% organic cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one size",
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                },
+                {
+                  "num": 2,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 14,
+                  "unit": "lb"
+                },
+                {
+                  "num": 6,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["all in one diaper", "preemie / newborn", "organic"],
+        "products": [
+          {
+            "name": "Aqua -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Aqua",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Aqua -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Aqua",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Counting Sheep -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Counting Sheep",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Counting Sheep -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Counting Sheep",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Dreamscape -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Dreamscape",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Dreamscape -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Dreamscape",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/newborn-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 16.25,
+                "sizes": ["Newborn 5 - 14 lbs (2 - 6 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "One Size All in One",
+        "details": {
+          "materials": "Outer: 100% polyester with waterproof TPU laminate\nInner liner: 100% polyester microfleece\nInner absorbency : 1 layer of microfiber terry\nInner soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one size",
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["all in one diaper", "infant", "toddler", "non-organic"],
+        "products": [
+          {
+            "name": "Adventure Trail -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Adventure Trail",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Adventure Trail -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Adventure Trail",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Arthropoda -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Arthropoda -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Happy Camper -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Happy Camper",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Happy Camper -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Happy Camper",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Midnight Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Midnight Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Midnight Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Midnight Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Bike -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Mountain Bike",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Bike -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Mountain Bike",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Mountain Twilight -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Mountain Twilight",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Stand Tall -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Stand Tall",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Stand Tall -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Stand Tall",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Woodland -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Woodland",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Woodland -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Woodland",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-all-in-one/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 20.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "One Size Pocket Diaper",
+        "details": {
+          "materials": "Outer: 100% polyester with waterproof TPU laminate\nInner: 100% polyester microfleece\nNewborn insert: 100% polyester–microfiber terry\nFull size insert: 55% hemp, 45% organic cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one size",
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["pocket diaper", "infant", "toddler", "organic"],
+        "products": [
+          {
+            "name": "Arthropoda -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Arthropoda -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Arthropoda",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Dreamscape -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Dreamscape",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Dreamscape -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Dreamscape",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Forest Frolic -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Forest Frolic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Ice Blue -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Ice Blue",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Night Owl -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Night Owl",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Hook & Loop",
+            "tags": ["waist velcro"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          },
+          {
+            "name": "Over the Moon -- Snap",
+            "tags": ["waist snaps"],
+            "pattern": "Over the Moon",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/one-size-pocket-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 21.75,
+                "sizes": ["one size 8 - 40 lbs (4 -18 kg)"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Potty Training Pant",
+        "details": {
+          "materials": "Outer: 92% Polyester, 8% Spandex\nMiddle: 100% polyester with waterproof TPU laminate\nInner abosrbent layers: 100% GOTS Certified Organic Cotton",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "small",
+              "min": [
+                {
+                  "num": 20,
+                  "unit": "lb"
+                },
+                {
+                  "num": 9,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 27,
+                  "unit": "lb"
+                },
+                {
+                  "num": 12,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "medium",
+              "min": [
+                {
+                  "num": 26,
+                  "unit": "lb"
+                },
+                {
+                  "num": 12,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                },
+                {
+                  "num": 16,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "large",
+              "min": [
+                {
+                  "num": 33,
+                  "unit": "lb"
+                },
+                {
+                  "num": 15,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 45,
+                  "unit": "lb"
+                },
+                {
+                  "num": 20,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "x-large",
+              "min": [
+                {
+                  "num": 42,
+                  "unit": "lb"
+                },
+                {
+                  "num": 56,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 19,
+                  "unit": "lb"
+                },
+                {
+                  "num": 25,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["pull-up diaper", "young child", "organic"],
+        "products": [
+          {
+            "name": "Classic Jurassic",
+            "pattern": "Classic Jurassic",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.75,
+                "sizes": [
+                  "Large 33-45 lb (15-20 kg)",
+                  "Medium 26-35 lb (12-16 kg)",
+                  "Small 20-27 lbs (9-12 kg)",
+                  "X-Large 42-56+ lbs (19-25 kg)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Elefantabulous",
+            "pattern": "Elefantabulous",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.75,
+                "sizes": [
+                  "Large 33-45 lb (15-20 kg)",
+                  "Medium 26-35 lb (12-16 kg)",
+                  "Small 20-27 lbs (9-12 kg)",
+                  "X-Large 42-56+ lbs (19-25 kg)"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Pandamonium",
+            "pattern": "Pandamonium",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/potty-training-pant/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 19.75,
+                "sizes": [
+                  "Large 33-45 lb (15-20 kg)",
+                  "Medium 26-35 lb (12-16 kg)",
+                  "Small 20-27 lbs (9-12 kg)",
+                  "X-Large 42-56+ lbs (19-25 kg)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Swim Diaper",
+        "details": {
+          "materials": "Outer: 100% polyester\n\nInner: 100% polyester",
+          "origin_country": "?",
+          "sizing": [
+            {
+              "name": "one",
+              "min": [
+                {
+                  "num": 6,
+                  "unit": "lb"
+                },
+                {
+                  "num": 3,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 18,
+                  "unit": "lb"
+                },
+                {
+                  "num": 8,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "two",
+              "min": [
+                {
+                  "num": 18,
+                  "unit": "lb"
+                },
+                {
+                  "num": 8,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            },
+            {
+              "name": "three",
+              "min": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                },
+                {
+                  "num": 16,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 55,
+                  "unit": "lb"
+                },
+                {
+                  "num": 25,
+                  "unit": "kg"
+                }
+              ]
+            }
+          ]
+        },
+        "tags": ["infant", "toddler", "swim diaper", "young child", "toddler"],
+        "products": [
+          {
+            "name": "Palm Paradise",
+            "pattern": "Palm Paradise",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 15.75,
+                "sizes": [
+                  "one",
+                  "three 35-55+ lbs (16-25 kg)",
+                  "two"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Whales",
+            "pattern": "Whales",
+            "listings": [
+              {
+                "currency": "USD",
+                "link": "https://www.thirstiesbaby.com/products/cloth-diapers/swim-diaper/",
+                "quantity": 1,
+                "type": "single",
+                "available": true,
+                "price": 15.75,
+                "sizes": [
+                  "one",
+                  "three 35-55+ lbs (16-25 kg)",
+                  "two"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
