@@ -42,9 +42,11 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
   end
 
   create_table "listings", force: :cascade do |t|
+    t.string "company"
+    t.string "currency"
+    t.json "details"
     t.integer "listing_type"
     t.string "link"
-    t.string "currency"
     t.decimal "price", precision: 10, scale: 2
     t.integer "quantity"
     t.datetime "created_at", precision: 6, null: false
@@ -82,7 +84,7 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
   create_table "products", force: :cascade do |t|
     t.string "name"
     t.json "details"
-    t.bigint "pattern_id", null: false
+    t.bigint "pattern_id"
     t.bigint "product_line_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

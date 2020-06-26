@@ -4,59 +4,102 @@
   "patterns": [
     {
       "name": "Ballet",
-      "tags": ["pink", "polka dots"]
+      "tags": [
+        "pink",
+        "polka dots"
+      ]
     },
     {
       "name": "Blossom",
-      "tags": ["pink", "solid"]
+      "tags": [
+        "pink",
+        "solid"
+      ]
     },
     {
       "name": "Countess",
-      "tags": ["pink", "solid"]
+      "tags": [
+        "pink",
+        "solid"
+      ]
     },
     {
       "name": "Dazzle",
-      "tags": ["purple", "solid"]
+      "tags": [
+        "purple",
+        "solid"
+      ]
     },
     {
       "name": "Faster",
-      "tags": ["travel & transportation", "black & white"]
+      "tags": [
+        "travel & transportation",
+        "black & white"
+      ]
     },
     {
       "name": "Go",
-      "tags": ["travel & transportation", "black & white"]
+      "tags": [
+        "travel & transportation",
+        "black & white"
+      ]
     },
     {
       "name": "Mid-Century",
-      "tags": ["abstract & geometric", "school", "hobbies"]
+      "tags": [
+        "abstract & geometric",
+        "school",
+        "hobbies"
+      ]
     },
     {
       "name": "My Sun",
-      "tags": ["daytime", "sky", "writing & text"]
+      "tags": [
+        "daytime",
+        "sky",
+        "writing & text"
+      ]
     },
     {
       "name": "Play",
-      "tags": ["hobbies"]
+      "tags": [
+        "hobbies"
+      ]
     },
     {
       "name": "Sassy",
-      "tags": ["orange", "solid"]
+      "tags": [
+        "orange",
+        "solid"
+      ]
     },
     {
       "name": "Sierpinski",
-      "tags": ["green", "abstract & geometric"]
+      "tags": [
+        "green",
+        "abstract & geometric"
+      ]
     },
     {
       "name": "Stop",
-      "tags": ["travel & transportation", "black & white"]
+      "tags": [
+        "travel & transportation",
+        "black & white"
+      ]
     },
     {
       "name": "Twilight",
-      "tags": ["solid", "blue"]
+      "tags": [
+        "solid",
+        "blue"
+      ]
     },
     {
       "name": "Zinnia",
-      "tags": ["pink", "solid"]
+      "tags": [
+        "pink",
+        "solid"
+      ]
     }
   ],
   "product_lines": [
@@ -65,10 +108,11 @@
       "name": "Freetime™",
       "products": [
         {
-          "code": "Countess",
+          "name": "Countess",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -76,6 +120,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -83,6 +128,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -90,6 +136,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=41695318725",
               "price": 21.95,
               "type": "single"
@@ -99,10 +146,11 @@
           "tags": []
         },
         {
-          "code": "Dazzle",
+          "name": "Dazzle",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -110,6 +158,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -117,6 +166,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -124,6 +174,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43579712965",
               "price": 21.95,
               "type": "single"
@@ -133,10 +184,11 @@
           "tags": []
         },
         {
-          "code": "Sassy",
+          "name": "Sassy",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -144,6 +196,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -151,6 +204,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -158,6 +212,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43580218373",
               "price": 21.95,
               "type": "single"
@@ -167,10 +222,11 @@
           "tags": []
         },
         {
-          "code": "Twilight",
+          "name": "Twilight",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -178,6 +234,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -185,6 +242,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -192,6 +250,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43580311493",
               "price": 21.95,
               "type": "single"
@@ -201,10 +260,11 @@
           "tags": []
         },
         {
-          "code": "Zinnia",
+          "name": "Zinnia",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -212,6 +272,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -219,6 +280,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -226,6 +288,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43578836293",
               "price": 21.95,
               "type": "single"
@@ -235,10 +298,11 @@
           "tags": []
         },
         {
-          "code": "Mid-Century",
+          "name": "Mid-Century",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -246,6 +310,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -253,6 +318,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -260,6 +326,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=44124480517",
               "price": 21.95,
               "type": "single"
@@ -269,10 +336,11 @@
           "tags": []
         },
         {
-          "code": "Sierpinski",
+          "name": "Sierpinski",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -280,6 +348,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -287,6 +356,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -294,6 +364,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=43681627269",
               "price": 21.95,
               "type": "single"
@@ -303,10 +374,11 @@
           "tags": []
         },
         {
-          "code": "Stop",
+          "name": "Stop",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -314,6 +386,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -321,6 +394,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -328,6 +402,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=12198534479944",
               "price": 21.95,
               "type": "single"
@@ -337,10 +412,11 @@
           "tags": []
         },
         {
-          "code": "Go",
+          "name": "Go",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -348,6 +424,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -355,6 +432,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -362,6 +440,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=12198534611016",
               "price": 21.95,
               "type": "single"
@@ -371,10 +450,11 @@
           "tags": []
         },
         {
-          "code": "Faster",
+          "name": "Faster",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -382,6 +462,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-24",
               "price": 447.84,
               "quantity": 24,
@@ -389,6 +470,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -396,6 +478,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-freetime-all-in-one-one-size-cloth-diaper?variant=12198534840392",
               "price": 21.95,
               "type": "single"
@@ -405,17 +488,21 @@
           "tags": []
         }
       ],
-      "tags": ["all in one diaper", "waist snaps"]
+      "tags": [
+        "all in one diaper",
+        "waist snaps"
+      ]
     },
     {
       "details": {},
       "name": "Elemental™",
       "products": [
         {
-          "code": "Ballet",
+          "name": "Ballet",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -423,6 +510,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -430,6 +518,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -437,6 +526,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=32073958391880",
               "price": 26.95,
               "type": "single"
@@ -446,10 +536,11 @@
           "tags": []
         },
         {
-          "code": "Blossom",
+          "name": "Blossom",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -457,6 +548,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -464,6 +556,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -471,6 +564,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=15942400344136",
               "price": 26.95,
               "type": "single"
@@ -480,10 +574,11 @@
           "tags": []
         },
         {
-          "code": "Countess",
+          "name": "Countess",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -491,6 +586,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -498,6 +594,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -505,6 +602,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -512,6 +610,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -519,6 +618,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -526,6 +626,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=41695298309",
               "price": 26.95,
               "type": "single"
@@ -535,10 +636,11 @@
           "tags": []
         },
         {
-          "code": "Dazzle",
+          "name": "Dazzle",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -546,6 +648,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -553,6 +656,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -560,6 +664,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12951352672328",
               "price": 26.95,
               "type": "single"
@@ -569,10 +674,11 @@
           "tags": []
         },
         {
-          "code": "Faster",
+          "name": "Faster",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -580,6 +686,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -587,6 +694,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -594,6 +702,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12211210780744",
               "price": 26.95,
               "type": "single"
@@ -603,10 +712,11 @@
           "tags": []
         },
         {
-          "code": "Go",
+          "name": "Go",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -614,6 +724,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -621,6 +732,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -628,6 +740,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12211210747976",
               "price": 26.95,
               "type": "single"
@@ -637,10 +750,11 @@
           "tags": []
         },
         {
-          "code": "Mid-Century",
+          "name": "Mid-Century",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -648,6 +762,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -655,6 +770,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -662,6 +778,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=44124398469",
               "price": 26.95,
               "type": "single"
@@ -671,10 +788,11 @@
           "tags": []
         },
         {
-          "code": "My Sun",
+          "name": "My Sun",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -682,6 +800,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -689,6 +808,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -696,6 +816,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=30768405839944",
               "price": 26.95,
               "type": "single"
@@ -705,10 +826,11 @@
           "tags": []
         },
         {
-          "code": "Sassy",
+          "name": "Sassy",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -716,6 +838,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -723,6 +846,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -730,6 +854,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12951355392072",
               "price": 26.95,
               "type": "single"
@@ -739,10 +864,11 @@
           "tags": []
         },
         {
-          "code": "Sierpinski",
+          "name": "Sierpinski",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -750,6 +876,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -757,6 +884,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -764,6 +892,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12278275604552",
               "price": 26.95,
               "type": "single"
@@ -773,10 +902,11 @@
           "tags": []
         },
         {
-          "code": "Stop",
+          "name": "Stop",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -784,6 +914,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -791,6 +922,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -798,6 +930,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=12211210649672",
               "price": 26.95,
               "type": "single"
@@ -807,10 +940,11 @@
           "tags": []
         },
         {
-          "code": "Twilight",
+          "name": "Twilight",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-12",
               "price": 246.6,
               "quantity": 12,
@@ -818,6 +952,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-24",
               "price": 478.8,
               "quantity": 24,
@@ -825,6 +960,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper-6",
               "price": 125.7,
               "quantity": 6,
@@ -832,6 +968,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-elemental-one-size-cloth-diaper?variant=15911259406408",
               "price": 26.95,
               "type": "single"
@@ -842,17 +979,21 @@
         }
       ],
       "sizing": {},
-      "tags": ["all in one diaper", "waist snaps"],
+      "tags": [
+        "all in one diaper",
+        "waist snaps"
+      ],
       "type": "diaper"
     },
     {
       "name": "Original 5.0",
       "products": [
         {
-          "code": "Blossom",
+          "name": "Blossom",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -860,6 +1001,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -867,6 +1009,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -874,6 +1017,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=15942403326024",
               "price": 23.95,
               "type": "single"
@@ -883,10 +1027,11 @@
           "tags": []
         },
         {
-          "code": "Sassy",
+          "name": "Sassy",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -894,6 +1039,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -901,6 +1047,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -908,6 +1055,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198536544328",
               "price": 23.95,
               "type": "single"
@@ -917,10 +1065,11 @@
           "tags": []
         },
         {
-          "code": "Twilight",
+          "name": "Twilight",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -928,6 +1077,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -935,6 +1085,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -942,6 +1093,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537691208",
               "price": 23.95,
               "type": "single"
@@ -951,10 +1103,11 @@
           "tags": []
         },
         {
-          "code": "Zinnia",
+          "name": "Zinnia",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -962,6 +1115,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -969,6 +1123,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -976,6 +1131,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=16046459027528",
               "price": 23.95,
               "type": "single"
@@ -985,10 +1141,11 @@
           "tags": []
         },
         {
-          "code": "Mid-Century",
+          "name": "Mid-Century",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -996,6 +1153,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1003,6 +1161,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1010,6 +1169,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=44125009285",
               "price": 23.95,
               "type": "single"
@@ -1019,10 +1179,11 @@
           "tags": []
         },
         {
-          "code": "My Sun",
+          "name": "My Sun",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -1030,6 +1191,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1037,6 +1199,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1044,12 +1207,14 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=16046515617864",
               "price": 23.95,
               "type": "single"
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=16046515617864",
               "price": 23.95,
               "type": "single"
@@ -1059,10 +1224,11 @@
           "tags": []
         },
         {
-          "code": "Play",
+          "name": "Play",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -1070,6 +1236,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1077,6 +1244,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1084,6 +1252,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537232456",
               "price": 23.95,
               "type": "single"
@@ -1093,10 +1262,11 @@
           "tags": []
         },
         {
-          "code": "Sierpinski",
+          "name": "Sierpinski",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -1104,6 +1274,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1111,6 +1282,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1118,6 +1290,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=43681626373",
               "price": 23.95,
               "type": "single"
@@ -1127,10 +1300,11 @@
           "tags": []
         },
         {
-          "code": "Faster",
+          "name": "Faster",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -1138,6 +1312,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1145,6 +1320,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1152,6 +1328,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537592904",
               "price": 23.95,
               "type": "single"
@@ -1161,10 +1338,11 @@
           "tags": []
         },
         {
-          "code": "Go",
+          "name": "Go",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -1172,6 +1350,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1179,6 +1358,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1186,6 +1366,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537527368",
               "price": 23.95,
               "type": "single"
@@ -1195,10 +1376,11 @@
           "tags": []
         },
         {
-          "code": "Stop",
+          "name": "Stop",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-12",
               "price": 246.6,
               "quantity": 12,
@@ -1206,6 +1388,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-24",
               "price": 478.8,
               "quantity": 24,
@@ -1213,6 +1396,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0-6",
               "price": 125.7,
               "quantity": 6,
@@ -1220,6 +1404,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-original-one-size-cloth-diaper-5-0?variant=12198537396296",
               "price": 23.95,
               "type": "single"
@@ -1234,17 +1419,21 @@
           "max": 35
         }
       },
-      "tags": ["all in one diaper", "waist snaps"],
+      "tags": [
+        "all in one diaper",
+        "waist snaps"
+      ],
       "type": "diaper"
     },
     {
       "name": "Littles™ 2.0",
       "products": [
         {
-          "code": "Blossom",
+          "name": "Blossom",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=15998808883272",
               "price": 14.95,
               "type": "single"
@@ -1253,10 +1442,11 @@
           "tags": []
         },
         {
-          "code": "Countess",
+          "name": "Countess",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=6543080030247",
               "price": 14.95,
               "type": "single"
@@ -1265,10 +1455,11 @@
           "tags": []
         },
         {
-          "code": "Twilight",
+          "name": "Twilight",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=12336615522376",
               "price": 14.95,
               "type": "single"
@@ -1277,10 +1468,11 @@
           "tags": []
         },
         {
-          "code": "Mid-Century",
+          "name": "Mid-Century",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=44463007109",
               "price": 14.95,
               "type": "single"
@@ -1289,10 +1481,11 @@
           "tags": []
         },
         {
-          "code": "Sierpinski",
+          "name": "Sierpinski",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=12257579728968",
               "price": 14.95,
               "type": "single"
@@ -1306,17 +1499,22 @@
           "max": 12
         }
       },
-      "tags": ["preemie / newborn", "all in one diaper", "waist snaps"],
+      "tags": [
+        "preemie / newborn",
+        "all in one diaper",
+        "waist snaps"
+      ],
       "type": "diaper"
     },
     {
       "name": "Littles™ 2.0",
       "products": [
         {
-          "code": "Blossom",
+          "name": "Blossom",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-12",
               "price": 246.6,
               "quantity": 12,
@@ -1324,6 +1522,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-24",
               "price": 478.8,
               "quantity": 24,
@@ -1331,6 +1530,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-6",
               "price": 125.7,
               "quantity": 6,
@@ -1338,6 +1538,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=15998808883272",
               "price": 14.95,
               "type": "single"
@@ -1347,10 +1548,11 @@
           "tags": []
         },
         {
-          "code": "Countess",
+          "name": "Countess",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-12",
               "price": 246.6,
               "quantity": 12,
@@ -1358,6 +1560,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-24",
               "price": 478.8,
               "quantity": 24,
@@ -1365,6 +1568,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-6",
               "price": 125.7,
               "quantity": 6,
@@ -1372,6 +1576,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=6543080030247",
               "price": 14.95,
               "type": "single"
@@ -1381,10 +1586,11 @@
           "tags": []
         },
         {
-          "code": "Twilight",
+          "name": "Twilight",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-12",
               "price": 246.6,
               "quantity": 12,
@@ -1392,6 +1598,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-24",
               "price": 478.8,
               "quantity": 24,
@@ -1399,6 +1606,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-6",
               "price": 125.7,
               "quantity": 6,
@@ -1406,6 +1614,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=12336615522376",
               "price": 14.95,
               "type": "single"
@@ -1415,10 +1624,11 @@
           "tags": []
         },
         {
-          "code": "Mid-Century",
+          "name": "Mid-Century",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-12",
               "price": 246.6,
               "quantity": 12,
@@ -1426,6 +1636,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-24",
               "price": 478.8,
               "quantity": 24,
@@ -1433,6 +1644,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-6",
               "price": 125.7,
               "quantity": 6,
@@ -1440,6 +1652,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=44463007109",
               "price": 14.95,
               "type": "single"
@@ -1449,10 +1662,11 @@
           "tags": []
         },
         {
-          "code": "Sierpinski",
+          "name": "Sierpinski",
           "listings": [
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-12",
               "price": 246.6,
               "quantity": 12,
@@ -1460,6 +1674,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-24",
               "price": 478.8,
               "quantity": 24,
@@ -1467,6 +1682,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1-6",
               "price": 125.7,
               "quantity": 6,
@@ -1474,6 +1690,7 @@
             },
             {
               "currency": "USD",
+              "company": "bumGenius",
               "link": "https://www.bumgenius.com/products/bumgenius-littles-newborn-cloth-diaper1?variant=12257579728968",
               "price": 14.95,
               "type": "single"
@@ -1488,7 +1705,11 @@
           "max": 12
         }
       },
-      "tags": ["preemie / newborn", "all in one diaper", "waist snaps"],
+      "tags": [
+        "preemie / newborn",
+        "all in one diaper",
+        "waist snaps"
+      ],
       "type": "diaper"
     }
   ]

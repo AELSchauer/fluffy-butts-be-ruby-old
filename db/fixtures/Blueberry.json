@@ -32,12 +32,13 @@
       "name": "Side Snap Simplex",
       "products": [
         {
-          "code": "Ambrosia",
+          "name": "Ambrosia",
           "pattern": "Ambrosia",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200ambrosia72.jpg?v=1575471242",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15070883938350",
               "quantity": 1,
               "price": "25.95",
@@ -47,12 +48,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Avocados",
+          "name": "Avocados",
           "pattern": "Avocados",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200avocado72_91fb344a-4ea4-4001-aa89-e7f2884ef458.jpg?v=1577320469",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749926446",
               "quantity": 1,
               "price": "25.95",
@@ -61,12 +63,13 @@
           ]
         },
         {
-          "code": "Balloons",
+          "name": "Balloons",
           "pattern": "Balloons",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200balloons72_78effe07-dade-4d42-bc52-4aff7195f095.jpg?v=1575471243",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15070884036654",
               "quantity": 1,
               "price": "25.95",
@@ -76,12 +79,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Bears & the Bees",
+          "name": "Bears & the Bees",
           "pattern": "Bears & the Bees",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200bees72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=8074723721262",
               "quantity": 1,
               "price": "25.95",
@@ -91,12 +95,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Blueberry Blooms",
+          "name": "Blueberry Blooms",
           "pattern": "Blueberry Blooms",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200blueberryblooms72_370883f4-ac0d-46b4-aa99-8bbfdbee4cff.jpg?v=1575471243",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=31393320894510",
               "quantity": 1,
               "price": "25.95",
@@ -106,12 +111,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Bouquet",
+          "name": "Bouquet",
           "pattern": "Bouquet",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200bouquet72_6d561386-99f8-4f3c-b1f0-648999566f63.jpg?v=1577320484",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749598766",
               "quantity": 1,
               "price": "25.95",
@@ -121,12 +127,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Chickadee",
+          "name": "Chickadee",
           "pattern": "Chickadee",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200chickadee72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=8074726506542",
               "quantity": 1,
               "price": "25.95",
@@ -136,12 +143,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Froggies",
+          "name": "Froggies",
           "pattern": "Froggies",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200froggies72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=8074732142638",
               "quantity": 1,
               "price": "25.95",
@@ -151,12 +159,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Hummingbirds",
+          "name": "Hummingbirds",
           "pattern": "Hummingbirds",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200hummingbirds72_95956d08-8a8c-4b3c-80a2-42b07589506d.jpg?v=1575471243",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15070884331566",
               "quantity": 1,
               "price": "25.95",
@@ -166,12 +175,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Ice Cap",
+          "name": "Ice Cap",
           "pattern": "Ice Cap",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200icecap72_236eed3c-33ef-44f1-9b5c-a563a9b4047d.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749664302",
               "quantity": 1,
               "price": "25.95",
@@ -181,12 +191,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Ice Cream",
+          "name": "Ice Cream",
           "pattern": "Ice Cream",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200icecream72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749697070",
               "quantity": 1,
               "price": "25.95",
@@ -196,12 +207,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Jungle Jam 2.0",
+          "name": "Jungle Jam 2.0",
           "pattern": "Jungle Jam",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200JJ2_72_01e14d30-2ebb-4f46-b565-baa2eee1a278.jpg?v=1575471352",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=31393327218734",
               "quantity": 1,
               "price": "25.95",
@@ -211,12 +223,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Kitten",
+          "name": "Kitten",
           "pattern": "Kitten",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200kittens72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15053387628590",
               "quantity": 1,
               "price": "25.95",
@@ -226,12 +239,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Llamas",
+          "name": "Llamas",
           "pattern": "Llamas",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200llamas72_6b4c8024-103e-4b25-8fcc-d667cdb9bed0.jpg?v=1575471292",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=31393325842478",
               "quantity": 1,
               "price": "25.95",
@@ -241,12 +255,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Octopus",
+          "name": "Octopus",
           "pattern": "Octopus",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200octopus72.jpg?v=1575471242",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15070885347374",
               "quantity": 1,
               "price": "25.95",
@@ -256,12 +271,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Old Macdonald",
+          "name": "Old Macdonald",
           "pattern": "Old Macdonald",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200oldmcdonald72_497c24e8-d00c-4fe7-a7b1-c12d4854b36b.jpg?v=1577320455",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749762606",
               "quantity": 1,
               "price": "25.95",
@@ -271,12 +287,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Rose",
+          "name": "Rose",
           "pattern": "Rose",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200rose72.jpg?v=1575471242",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15070884855854",
               "quantity": 1,
               "price": "25.95",
@@ -286,12 +303,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Sedona",
+          "name": "Sedona",
           "pattern": "Sedona",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200sedona72_copy.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749795374",
               "quantity": 1,
               "price": "25.95",
@@ -301,12 +319,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Shadows",
+          "name": "Shadows",
           "pattern": "Shadows",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200shadows72.jpg?v=1575471243",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=15070885511214",
               "quantity": 1,
               "price": "25.95",
@@ -316,12 +335,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Sleepy",
+          "name": "Sleepy",
           "pattern": "Sleepy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200sleepy72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749828142",
               "quantity": 1,
               "price": "25.95",
@@ -331,12 +351,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Space",
+          "name": "Space",
           "pattern": "Space",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200space72_f2338749-8e9c-4a13-8729-9c197aac0911.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749860910",
               "quantity": 1,
               "price": "25.95",
@@ -346,12 +367,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "This Little Piggy",
+          "name": "This Little Piggy",
           "pattern": "This Little Piggy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200piggy72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=8074727030830",
               "quantity": 1,
               "price": "25.95",
@@ -361,12 +383,13 @@
           "details": { "sizes": ["Medium", "Large"] }
         },
         {
-          "code": "Work Zone",
+          "name": "Work Zone",
           "pattern": "Work Zone",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200workzone72.jpg?v=1547840348",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/side-snap-simplex-in-organic-cotton?variant=7668749893678",
               "quantity": 1,
               "price": "25.95",
@@ -381,12 +404,13 @@
       "name": "One Size Capri Diaper Cover",
       "products": [
         {
-          "code": "Ambrosia",
+          "name": "Ambrosia",
           "pattern": "Ambrosia",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388ambrosia72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=15070809456686",
               "quantity": 1,
               "price": "22.95",
@@ -395,12 +419,13 @@
           ]
         },
         {
-          "code": "Avocados",
+          "name": "Avocados",
           "pattern": "Avocados",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388avocado72_21174462-a4af-48d8-b685-a3e1fe8e0c44.jpg?v=1578683973",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=15070810013742",
               "quantity": 1,
               "price": "22.95",
@@ -409,12 +434,13 @@
           ]
         },
         {
-          "code": "Bears & the Bees",
+          "name": "Bears & the Bees",
           "pattern": "Bears & the Bees",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388bees72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=8074700161070",
               "quantity": 1,
               "price": "22.95",
@@ -423,12 +449,13 @@
           ]
         },
         {
-          "code": "Blueberry Blooms",
+          "name": "Blueberry Blooms",
           "pattern": "Blueberry Blooms",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388blueberryblooms72_2a4955fc-f9e2-4347-948d-8a6d51ec9029.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=17108157628462",
               "quantity": 1,
               "price": "22.95",
@@ -437,12 +464,13 @@
           ]
         },
         {
-          "code": "Bouquet",
+          "name": "Bouquet",
           "pattern": "Bouquet",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388bouquet72_43792968-dfd6-497b-80d6-522f5c0a1683.jpg?v=1577323680",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=8074699604014",
               "quantity": 1,
               "price": "22.95",
@@ -451,12 +479,13 @@
           ]
         },
         {
-          "code": "Chickadee",
+          "name": "Chickadee",
           "pattern": "Chickadee",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388chickadee72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=8074693181486",
               "quantity": 1,
               "price": "22.95",
@@ -465,12 +494,13 @@
           ]
         },
         {
-          "code": "Hummingbirds",
+          "name": "Hummingbirds",
           "pattern": "Hummingbirds",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388hummingbird72_a3924986-3a86-4495-84a1-6e0ccd175388.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=15070810898478",
               "quantity": 1,
               "price": "22.95",
@@ -479,12 +509,13 @@
           ]
         },
         {
-          "code": "Jungle Jam",
+          "name": "Jungle Jam",
           "pattern": "Jungle Jam",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388JJ2_72_6f3865bf-cc36-4f0d-9bfb-0ad68118645d.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=17108153008174",
               "quantity": 1,
               "price": "22.95",
@@ -493,12 +524,13 @@
           ]
         },
         {
-          "code": "Llamas",
+          "name": "Llamas",
           "pattern": "Llamas",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388llama72_9af4b89b-c87a-499e-9377-5857acf30dc6.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=17108147896366",
               "quantity": 1,
               "price": "22.95",
@@ -507,12 +539,13 @@
           ]
         },
         {
-          "code": "Octopus",
+          "name": "Octopus",
           "pattern": "Octopus",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388octopus72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=15070811488302",
               "quantity": 1,
               "price": "22.95",
@@ -521,12 +554,13 @@
           ]
         },
         {
-          "code": "Old Macdonald",
+          "name": "Old Macdonald",
           "pattern": "Old Macdonald",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388oldmacdonald72_f84b6002-d1ce-42e1-9720-ba257e79ed0e.jpg?v=1578683973",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=7668513177646",
               "quantity": 1,
               "price": "22.95",
@@ -535,12 +569,13 @@
           ]
         },
         {
-          "code": "Rose",
+          "name": "Rose",
           "pattern": "Rose",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388rose72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=15070810603566",
               "quantity": 1,
               "price": "22.95",
@@ -549,12 +584,13 @@
           ]
         },
         {
-          "code": "Shadows",
+          "name": "Shadows",
           "pattern": "Shadows",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388shadows72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=15070811258926",
               "quantity": 1,
               "price": "22.95",
@@ -563,12 +599,13 @@
           ]
         },
         {
-          "code": "Sleepy",
+          "name": "Sleepy",
           "pattern": "Sleepy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388sleepy72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=7668513210414",
               "quantity": 1,
               "price": "22.95",
@@ -577,12 +614,13 @@
           ]
         },
         {
-          "code": "This Little Piggy",
+          "name": "This Little Piggy",
           "pattern": "This Little Piggy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388pigs72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=8074700980270",
               "quantity": 1,
               "price": "22.95",
@@ -591,12 +629,13 @@
           ]
         },
         {
-          "code": "Work Zone",
+          "name": "Work Zone",
           "pattern": "Work Zone",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388workzone72.jpg?v=1563984056",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-capri-diaper-cover?variant=7668513308718",
               "quantity": 1,
               "price": "22.95",
@@ -610,12 +649,13 @@
       "name": "Newborn Simplex",
       "products": [
         {
-          "code": "Ambrosia",
+          "name": "Ambrosia",
           "pattern": "Ambrosia",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBambrosia72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=15070776819758",
               "quantity": 1,
               "price": "21.95",
@@ -624,12 +664,13 @@
           ]
         },
         {
-          "code": "Avocados",
+          "name": "Avocados",
           "pattern": "Avocados",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBavocado72_5f68c860-d6a9-4cc4-83a2-b543f27e3788.jpg?v=1577320151",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=8074332307502",
               "quantity": 1,
               "price": "21.95",
@@ -638,12 +679,13 @@
           ]
         },
         {
-          "code": "Bears & the Bees",
+          "name": "Bears & the Bees",
           "pattern": "Bears & the Bees",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBbees72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=8074325622830",
               "quantity": 1,
               "price": "21.95",
@@ -652,12 +694,13 @@
           ]
         },
         {
-          "code": "Blueberry Blooms",
+          "name": "Blueberry Blooms",
           "pattern": "Blueberry Blooms",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBblueberryblooms72_1f105d4b-ed38-466e-ab8c-3f258d0c6b22.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=17108115587118",
               "quantity": 1,
               "price": "21.95",
@@ -666,12 +709,13 @@
           ]
         },
         {
-          "code": "Bouquet",
+          "name": "Bouquet",
           "pattern": "Bouquet",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBbouquet72_142d4596-597c-492d-81a1-a0356cd894c2.jpg?v=1577320110",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=15070779768878",
               "quantity": 1,
               "price": "21.95",
@@ -680,12 +724,13 @@
           ]
         },
         {
-          "code": "Chickadee",
+          "name": "Chickadee",
           "pattern": "Chickadee",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBchickadee72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=8074307567662",
               "quantity": 1,
               "price": "21.95",
@@ -694,12 +739,13 @@
           ]
         },
         {
-          "code": "Hummingbirds",
+          "name": "Hummingbirds",
           "pattern": "Hummingbirds",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBhummingbirds72_2595c20f-96f9-4079-9cb6-02925034172a.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=15070779965486",
               "quantity": 1,
               "price": "21.95",
@@ -708,12 +754,13 @@
           ]
         },
         {
-          "code": "Ice Cap",
+          "name": "Ice Cap",
           "pattern": "Ice Cap",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBicecap72.jpg?v=1577326282",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=7668598177838",
               "quantity": 1,
               "price": "21.95",
@@ -722,12 +769,13 @@
           ]
         },
         {
-          "code": "Jungle Jam",
+          "name": "Jungle Jam",
           "pattern": "Jungle Jam",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBJJ2_72_38a3a208-080e-4901-8d49-1cc4ad1d3d50.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=17108113162286",
               "quantity": 1,
               "price": "21.95",
@@ -736,12 +784,13 @@
           ]
         },
         {
-          "code": "Kitten",
+          "name": "Kitten",
           "pattern": "Kitten",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBkittens72.jpg?v=1577326297",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=8074317234222",
               "quantity": 1,
               "price": "21.95",
@@ -750,12 +799,13 @@
           ]
         },
         {
-          "code": "Llamas",
+          "name": "Llamas",
           "pattern": "Llamas",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBllamas72_186ffdb4-75fe-4e52-9b68-511e43578120.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=17108111130670",
               "quantity": 1,
               "price": "21.95",
@@ -764,12 +814,13 @@
           ]
         },
         {
-          "code": "Octopus",
+          "name": "Octopus",
           "pattern": "Octopus",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBoctopus72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=15070779998254",
               "quantity": 1,
               "price": "21.95",
@@ -778,12 +829,13 @@
           ]
         },
         {
-          "code": "Old Macdonald",
+          "name": "Old Macdonald",
           "pattern": "Old Macdonald",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBoldmacdonald72_cedd172b-6466-4816-8cf9-388ea5f57a75.jpg?v=1577320197",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=7668598145070",
               "quantity": 1,
               "price": "21.95",
@@ -792,12 +844,13 @@
           ]
         },
         {
-          "code": "Rose",
+          "name": "Rose",
           "pattern": "Rose",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBrose72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=15070779310126",
               "quantity": 1,
               "price": "21.95",
@@ -806,12 +859,13 @@
           ]
         },
         {
-          "code": "Shadows",
+          "name": "Shadows",
           "pattern": "Shadows",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBshadows72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=15070779932718",
               "quantity": 1,
               "price": "21.95",
@@ -820,12 +874,13 @@
           ]
         },
         {
-          "code": "White",
+          "name": "White",
           "pattern": "White",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBwhite72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=7668598276142",
               "quantity": 1,
               "price": "21.95",
@@ -834,12 +889,13 @@
           ]
         },
         {
-          "code": "Work Zone",
+          "name": "Work Zone",
           "pattern": "Work Zone",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8200NBworkzone72.jpg?v=1563984244",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-simplex-in-organic-cotton?variant=7668598308910",
               "quantity": 1,
               "price": "21.95",
@@ -853,12 +909,13 @@
       "name": "Trainers",
       "products": [
         {
-          "code": "Ambrosia",
+          "name": "Ambrosia",
           "pattern": "Ambrosia",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800ambrosia72_1a12a0c3-4066-49c8-b9bc-c57518a361a2.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=15960556765230",
               "quantity": 1,
               "price": "17.95",
@@ -868,12 +925,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Avocados",
+          "name": "Avocados",
           "pattern": "Avocados",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800avocado72_d2c1d9fe-dd95-44da-97cd-9e417cadde50.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=15960559648814",
               "quantity": 1,
               "price": "17.95",
@@ -883,12 +941,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Blueberry Blooms",
+          "name": "Blueberry Blooms",
           "pattern": "Blueberry Blooms",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800blueberryblooms72_65c39d2f-2106-4514-a79a-9632b3d9b956.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=17109129560110",
               "quantity": 1,
               "price": "17.95",
@@ -898,12 +957,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Bouquet",
+          "name": "Bouquet",
           "pattern": "Bouquet",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800bouquet72_0223e6eb-e11c-402c-8194-e1d75978d990.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=31497611771950",
               "quantity": 1,
               "price": "17.95",
@@ -913,12 +973,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Hummingbirds",
+          "name": "Hummingbirds",
           "pattern": "Hummingbirds",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800hummingbirds72_23ec04f7-abd3-4441-8703-f152a12f2268.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=15960571117614",
               "quantity": 1,
               "price": "17.95",
@@ -928,12 +989,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Jungle Jam",
+          "name": "Jungle Jam",
           "pattern": "Jungle Jam",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800JJ2_72_81752274-a0d5-4085-ab6c-1ba0fd814097.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=17109124448302",
               "quantity": 1,
               "price": "17.95",
@@ -943,12 +1005,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Llamas",
+          "name": "Llamas",
           "pattern": "Llamas",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800llama72_e51444ae-927f-4faf-ac3e-edb335c98eec.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=17109120548910",
               "quantity": 1,
               "price": "17.95",
@@ -958,12 +1021,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Octopus",
+          "name": "Octopus",
           "pattern": "Octopus",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800octopus72.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=15960583634990",
               "quantity": 1,
               "price": "17.95",
@@ -972,12 +1036,13 @@
           ]
         },
         {
-          "code": "Old Macdonald",
+          "name": "Old Macdonald",
           "pattern": "Old Macdonald",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800oldmacdonald72_92e31dcf-2081-4aee-99c8-ffded8f2e060.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=31497611804718",
               "quantity": 1,
               "price": "17.95",
@@ -987,12 +1052,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Rose",
+          "name": "Rose",
           "pattern": "Rose",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800rose72.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=15960575541294",
               "quantity": 1,
               "price": "17.95",
@@ -1002,12 +1068,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Shadows",
+          "name": "Shadows",
           "pattern": "Shadows",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800shadows72.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=15960599101486",
               "quantity": 1,
               "price": "17.95",
@@ -1017,12 +1084,13 @@
           "details": { "sizes": ["Small", "Medium", "Large"] }
         },
         {
-          "code": "Sleepy",
+          "name": "Sleepy",
           "pattern": "Sleepy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800sleepy72.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=7668783841326",
               "quantity": 1,
               "price": "17.95",
@@ -1031,12 +1099,13 @@
           ]
         },
         {
-          "code": "This Little Piggy",
+          "name": "This Little Piggy",
           "pattern": "This Little Piggy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/7800pigs72.jpg?v=1590085161",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/trainers-1?variant=8074978852910",
               "quantity": 1,
               "price": "17.95",
@@ -1050,12 +1119,13 @@
       "name": "Newborn Capri Diaper Covers",
       "products": [
         {
-          "code": "Ambrosia",
+          "name": "Ambrosia",
           "pattern": "Ambrosia",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388ambrosia72_0cda89f4-0b89-4255-914a-890e84a86ffa.jpg?v=1577324665",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=15070819450926",
               "quantity": 1,
               "price": "18.95",
@@ -1064,12 +1134,13 @@
           ]
         },
         {
-          "code": "Avocados",
+          "name": "Avocados",
           "pattern": "Avocados",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388avocado72_c5f57d9a-dfc7-4ba7-a212-88c0f478dc67.jpg?v=1577324683",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=7668446003246",
               "quantity": 1,
               "price": "18.95",
@@ -1078,12 +1149,13 @@
           ]
         },
         {
-          "code": "Bears & the Bees",
+          "name": "Bears & the Bees",
           "pattern": "Bears & the Bees",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388NBbees72.jpg?v=1563984975",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=8074268573742",
               "quantity": 1,
               "price": "18.95",
@@ -1092,12 +1164,13 @@
           ]
         },
         {
-          "code": "Blueberry Blooms",
+          "name": "Blueberry Blooms",
           "pattern": "Blueberry Blooms",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388blueberryblooms72_b9285b9c-2f3b-4787-b9f6-305c1c708565.jpg?v=1577324730",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=17108264550446",
               "quantity": 1,
               "price": "18.95",
@@ -1106,12 +1179,13 @@
           ]
         },
         {
-          "code": "Bouquet",
+          "name": "Bouquet",
           "pattern": "Bouquet",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388bouquet72_188f89be-11d8-449f-8ecd-1167d2c9a9d1.jpg?v=1577324676",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=15070819975214",
               "quantity": 1,
               "price": "18.95",
@@ -1120,12 +1194,13 @@
           ]
         },
         {
-          "code": "Chickadee",
+          "name": "Chickadee",
           "pattern": "Chickadee",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388NBchikadee72.jpg?v=1563984975",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=8074272374830",
               "quantity": 1,
               "price": "18.95",
@@ -1134,12 +1209,13 @@
           ]
         },
         {
-          "code": "Froggies",
+          "name": "Froggies",
           "pattern": "Froggies",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388NBfrogs72.jpg?v=1563984975",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=8074263822382",
               "quantity": 1,
               "price": "18.95",
@@ -1148,12 +1224,13 @@
           ]
         },
         {
-          "code": "Hummingbirds",
+          "name": "Hummingbirds",
           "pattern": "Hummingbirds",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388NBhummingbird72_f16ed70d-6d5e-4fac-89f9-75ee711de19a.jpg?v=1577324665",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=15070820532270",
               "quantity": 1,
               "price": "18.95",
@@ -1162,12 +1239,13 @@
           ]
         },
         {
-          "code": "Jungle Jam",
+          "name": "Jungle Jam",
           "pattern": "Jungle Jam",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388JJ2_72_aaecf32e-3489-4984-bcce-35c79e5a1953.jpg?v=1577324753",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=17108263436334",
               "quantity": 1,
               "price": "18.95",
@@ -1176,12 +1254,13 @@
           ]
         },
         {
-          "code": "Llamas",
+          "name": "Llamas",
           "pattern": "Llamas",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388llama72_29848dbb-da80-4c53-9e5b-825ab2fa66a5.jpg?v=1577324772",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=17108262879278",
               "quantity": 1,
               "price": "18.95",
@@ -1190,12 +1269,13 @@
           ]
         },
         {
-          "code": "Octopus",
+          "name": "Octopus",
           "pattern": "Octopus",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388NBoctopus72.jpg?v=1577324665",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=15070821351470",
               "quantity": 1,
               "price": "18.95",
@@ -1204,12 +1284,13 @@
           ]
         },
         {
-          "code": "Old Macdonald",
+          "name": "Old Macdonald",
           "pattern": "Old Macdonald",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388oldmacdonald72_d228a7a8-d972-4a3f-a278-bdafaabacb3e.jpg?v=1577324802",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=7668446363694",
               "quantity": 1,
               "price": "18.95",
@@ -1218,12 +1299,13 @@
           ]
         },
         {
-          "code": "Rose",
+          "name": "Rose",
           "pattern": "Rose",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388NBrose72.jpg?v=1563984975",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=15070820237358",
               "quantity": 1,
               "price": "18.95",
@@ -1232,12 +1314,13 @@
           ]
         },
         {
-          "code": "Shadows",
+          "name": "Shadows",
           "pattern": "Shadows",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/6388shadows72_a1603812-6585-4b91-9a74-1363467e8d55.jpg?v=1577324665",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/newborn-capri-diaper-covers?variant=15070820597806",
               "quantity": 1,
               "price": "18.95",
@@ -1251,12 +1334,13 @@
       "name": "One Size Simplex",
       "products": [
         {
-          "code": "Ambrosia",
+          "name": "Ambrosia",
           "pattern": "Ambrosia",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288ambrosia72_1a4be185-e18e-4d78-b718-7076f1075aef.jpg?v=1577319667",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=15070747000878",
               "quantity": 1,
               "price": "34.95",
@@ -1265,12 +1349,13 @@
           ]
         },
         {
-          "code": "Avocados",
+          "name": "Avocados",
           "pattern": "Avocados",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288avocado72_8a035acb-cb4c-4171-84a9-6757fc4370c5.jpg?v=1577319667",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=7668676263982",
               "quantity": 1,
               "price": "34.95",
@@ -1279,12 +1364,13 @@
           ]
         },
         {
-          "code": "Balloons",
+          "name": "Balloons",
           "pattern": "Balloons",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288balloons72_6c85e3e8-a614-49f7-b5bc-ce9647a0923e.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=15070748213294",
               "quantity": 1,
               "price": "34.95",
@@ -1293,12 +1379,13 @@
           ]
         },
         {
-          "code": "Bears & the Bees",
+          "name": "Bears & the Bees",
           "pattern": "Bears & the Bees",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288bees72_1b349855-919b-4805-9207-eba34a63a21d.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=8074710908974",
               "quantity": 1,
               "price": "34.95",
@@ -1307,12 +1394,13 @@
           ]
         },
         {
-          "code": "Blueberry Blooms",
+          "name": "Blueberry Blooms",
           "pattern": "Blueberry Blooms",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288blueberryblooms72_1a8704b6-840f-408b-941b-3af272597373.jpg?v=1577319667",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=17108076429358",
               "quantity": 1,
               "price": "34.95",
@@ -1321,12 +1409,13 @@
           ]
         },
         {
-          "code": "Bouquet",
+          "name": "Bouquet",
           "pattern": "Bouquet",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288bouquet72_461faa6f-b895-497c-b7b4-7359f549032c.jpg?v=1577319682",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=7668676296750",
               "quantity": 1,
               "price": "34.95",
@@ -1335,12 +1424,13 @@
           ]
         },
         {
-          "code": "Chickadee",
+          "name": "Chickadee",
           "pattern": "Chickadee",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288chickadee72_68195794-6f9b-46de-a3be-614765e9b9f8.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=8074711269422",
               "quantity": 1,
               "price": "34.95",
@@ -1349,12 +1439,13 @@
           ]
         },
         {
-          "code": "Froggies",
+          "name": "Froggies",
           "pattern": "Froggies",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288frogs72_d3923af5-70ea-40c6-b5c6-abb71d28eb1d.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=8074711498798",
               "quantity": 1,
               "price": "34.95",
@@ -1363,12 +1454,13 @@
           ]
         },
         {
-          "code": "Hummingbirds",
+          "name": "Hummingbirds",
           "pattern": "Hummingbirds",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288hummingbirds72_c8099a7a-dbaa-4b65-ab24-879342c6e9dd.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=15070749130798",
               "quantity": 1,
               "price": "34.95",
@@ -1377,12 +1469,13 @@
           ]
         },
         {
-          "code": "Jungle Jam",
+          "name": "Jungle Jam",
           "pattern": "Jungle Jam",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288JJ2_72_bf0e95d7-1855-482d-87a3-36f7ab1dc56b.jpg?v=1577319667",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=17108073807918",
               "quantity": 1,
               "price": "34.95",
@@ -1391,12 +1484,13 @@
           ]
         },
         {
-          "code": "Llamas",
+          "name": "Llamas",
           "pattern": "Llamas",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288llama72_f1d0427f-0122-484c-9d27-4b78fa8a525b.jpg?v=1577319667",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=17108067090478",
               "quantity": 1,
               "price": "34.95",
@@ -1405,12 +1499,13 @@
           ]
         },
         {
-          "code": "Octopus",
+          "name": "Octopus",
           "pattern": "Octopus",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288octopus72.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=15070749687854",
               "quantity": 1,
               "price": "34.95",
@@ -1419,12 +1514,13 @@
           ]
         },
         {
-          "code": "Old Macdonald",
+          "name": "Old Macdonald",
           "pattern": "Old Macdonald",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288oldmacdonald72_c1f5ed7a-cf97-4e88-9071-3a8dd155da84.jpg?v=1577319699",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=7668676427822",
               "quantity": 1,
               "price": "34.95",
@@ -1433,12 +1529,13 @@
           ]
         },
         {
-          "code": "Rose",
+          "name": "Rose",
           "pattern": "Rose",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288rose72.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=15070746247214",
               "quantity": 1,
               "price": "34.95",
@@ -1447,12 +1544,13 @@
           ]
         },
         {
-          "code": "Shadows",
+          "name": "Shadows",
           "pattern": "Shadows",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288shadows72_b6bdc808-2721-46e9-b569-abd1f9646c74.jpg?v=1577319667",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=15070748639278",
               "quantity": 1,
               "price": "34.95",
@@ -1461,12 +1559,13 @@
           ]
         },
         {
-          "code": "This Little Piggy",
+          "name": "This Little Piggy",
           "pattern": "This Little Piggy",
           "image_src": "https://cdn.shopify.com/s/files/1/0846/7386/products/8288pigs72_b6f003f3-a183-433c-bfe1-8075c55a9bd7.jpg?v=1563982201",
           "listings": [
             {
               "currency": "USD",
+              "company": "Blueberry",
               "link": "https://blueberrydiapers.com/products/one-size-simplex-in-organic-cotton?variant=8074711564334",
               "quantity": 1,
               "price": "34.95",

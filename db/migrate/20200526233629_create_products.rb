@@ -4,7 +4,7 @@ class CreateProducts < ActiveRecord::Migration[6.0]
       t.string :name
       t.json :details
 
-      t.references :pattern,      null: false, foreign_key: true
+      t.references :pattern,      null: true,  foreign_key: true
       t.references :product_line, null: false, foreign_key: true
 
       t.timestamps null: false

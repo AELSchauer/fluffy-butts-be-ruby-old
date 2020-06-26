@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/cerebris/jsonapi-resources.git
+  revision: 25911bc1987130fc507e6ee11daa586ff5f215b0
+  branch: issue_1312
+  specs:
+    jsonapi-resources (0.10.2)
+      activerecord (>= 4.1)
+      concurrent-ruby
+      railties (>= 4.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -60,7 +70,7 @@ GEM
     bootsnap (1.4.6)
       msgpack (~> 1.0)
     builder (3.2.4)
-    coderay (1.1.3)
+    byebug (11.1.3)
     concurrent-ruby (1.1.6)
     crass (1.0.6)
     erubi (1.9.0)
@@ -69,10 +79,6 @@ GEM
       activesupport (>= 4.2.0)
     i18n (1.8.3)
       concurrent-ruby (~> 1.0)
-    jsonapi-resources (0.10.2)
-      activerecord (>= 4.1)
-      concurrent-ruby
-      railties (>= 4.1)
     jwt (2.2.1)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -94,9 +100,6 @@ GEM
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     pg (1.2.3)
-    pry (0.12.2)
-      coderay (~> 1.1.0)
-      method_source (~> 0.9.0)
     puma (4.3.5)
       nio4r (~> 2.0)
     rack (2.2.2)
@@ -156,11 +159,11 @@ PLATFORMS
 DEPENDENCIES
   bcrypt (~> 3.1.7)
   bootsnap (>= 1.4.2)
-  jsonapi-resources
+  byebug
+  jsonapi-resources!
   jwt
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)
-  pry (~> 0.12.2)
   puma (~> 4.1)
   rack-cors
   rails (~> 6.0.3, >= 6.0.3.1)
