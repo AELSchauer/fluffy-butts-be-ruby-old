@@ -1,38 +1,213 @@
 {
   "brand": "GroVia",
   "country_origin": "United States",
-  "ships_to": ["United States", "Canada"],
   "patterns": [
-    { "name": "Abalone", "tags": ["solid", "blue"] },
-    { "name": "Arctic", "tags": ["solid", "blue"] },
-    { "name": "Ballot", "tags": ["abstract & geometric", "black & white"] },
-    { "name": "Basil", "tags": ["solid", "green"] },
-    { "name": "Clay", "tags": ["brown", "solid"] },
-    { "name": "Cloud", "tags": ["solid", "gray"] },
-    { "name": "Fennec", "tags": ["stripes"] },
-    { "name": "Glacier", "tags": ["solid", "green"] },
-    { "name": "Have Baby Will Travel", "travel & transportation": [] },
-    { "name": "Heartspring", "tags": ["animals","black"] },
-    { "name": "Jet", "tags": ["solid", "brown"] },
-    { "name": "Koi", "tags": ["animals", "aquatic"] },
-    { "name": "Lotus", "tags": ["solid", "pink"] },
-    { "name": "Marsala", "tags": ["solid", "red"] },
-    { "name": "Maverick", "tags": ["travel & transportation", "sky", "gray"] },
-    { "name": "Onyx Stripe", "tags": ["stripes", "black & white"] },
-    { "name": "Petal", "tags": ["solid", "pink"] },
-    { "name": "Rainbow Baby", "tags": ["sky"] },
-    { "name": "Rose", "tags": ["solid", "pink", "orange"] },
-    { "name": "Sugar Rush", "tags": ["stripes", "pink"] },
-    { "name": "Tex", "tags": ["american western culture", "hobbies", "red"] },
-    { "name": "Ur the One", "tags": ["animals", "aquatic","blue"] },
-    { "name": "Vanilla", "tags": ["solid", "white"] },
-    { "name": "Waverly", "tags": ["abstract & geometric", "purple"] },
-    { "name": "Yarrow", "tags": ["solid", "yellow"] }
+    {
+      "name": "Abalone",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "Adventure",
+      "tags": []
+    },
+    {
+      "name": "Arctic",
+      "tags": [
+        "solid",
+        "blue"
+      ]
+    },
+    {
+      "name": "Ballot",
+      "tags": [
+        "abstract & geometric",
+        "black & white"
+      ]
+    },
+    {
+      "name": "Basil",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "Clay",
+      "tags": [
+        "brown",
+        "solid"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "tags": [
+        "solid",
+        "gray"
+      ]
+    },
+    {
+      "name": "Cloud Grey",
+      "tags": []
+    },
+    {
+      "name": "Crane",
+      "tags": []
+    },
+    {
+      "name": "Fennec",
+      "tags": [
+        "stripes"
+      ]
+    },
+    {
+      "name": "Funfair",
+      "tags": []
+    },
+    {
+      "name": "Glacier",
+      "tags": [
+        "solid",
+        "green"
+      ]
+    },
+    {
+      "name": "Have Baby Will Travel",
+      "tags": [
+        "travel & transportation"
+      ]
+    },
+    {
+      "name": "Heartspring",
+      "tags": [
+        "animals",
+        "black"
+      ]
+    },
+    {
+      "name": "Jet",
+      "tags": [
+        "solid",
+        "brown"
+      ]
+    },
+    {
+      "name": "Koi",
+      "tags": [
+        "animals",
+        "aquatic"
+      ]
+    },
+    {
+      "name": "Lotus",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "Marsala",
+      "tags": [
+        "solid",
+        "red"
+      ]
+    },
+    {
+      "name": "Maverick",
+      "tags": [
+        "travel & transportation",
+        "sky",
+        "gray"
+      ]
+    },
+    {
+      "name": "Onyx Stripe",
+      "tags": [
+        "stripes",
+        "black & white"
+      ]
+    },
+    {
+      "name": "Ophelia",
+      "tags": []
+    },
+    {
+      "name": "Petal",
+      "tags": [
+        "solid",
+        "pink"
+      ]
+    },
+    {
+      "name": "Rainbow Baby",
+      "tags": [
+        "sky"
+      ]
+    },
+    {
+      "name": "Rose",
+      "tags": [
+        "solid",
+        "pink",
+        "orange"
+      ]
+    },
+    {
+      "name": "Sugar Rush",
+      "tags": [
+        "stripes",
+        "pink"
+      ]
+    },
+    {
+      "name": "Tex",
+      "tags": [
+        "american western culture",
+        "hobbies",
+        "red"
+      ]
+    },
+    {
+      "name": "Ur the One",
+      "tags": [
+        "animals",
+        "aquatic",
+        "blue"
+      ]
+    },
+    {
+      "name": "Vanilla",
+      "tags": [
+        "solid",
+        "white"
+      ]
+    },
+    {
+      "name": "Waverly",
+      "tags": [
+        "abstract & geometric",
+        "purple"
+      ]
+    },
+    {
+      "name": "Yarrow",
+      "tags": [
+        "solid",
+        "yellow"
+      ]
+    }
   ],
   "product_lines": [
     {
-      "name": "All In One Organic Cloth Diapers",
-      "tags": ["organic", "infant", "toddler", "all in one diaper"],
+      "name": "Organic All In One",
+      "tags": [
+        "organic",
+        "infant",
+        "toddler",
+        "all in one diaper"
+      ],
       "details": {
         "materials": "Inner Body: 4 layers of 100% Organic Cotton on both sewn-in insert and snap-in booster.\nDiaper Outer: 100% water-resistant Polyester TPU, lined with 2 layers of Organic Cotton.",
         "origin_country": "China",
@@ -50,36 +225,61 @@
       "products": [
         {
           "name": "Arctic",
+          "pattern": "Arctic",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/organic-all-in-one-arctic?variant=20285891739759",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Arctic"
+          ]
         },
         {
           "name": "Basil",
+          "pattern": "Basil",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/organic-all-in-one-basil?variant=18004723269743",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Basil"
+          ]
         },
         {
           "name": "Cloud",
+          "pattern": "Cloud",
           "listings": [
             {
               "currency": "USD",
@@ -89,120 +289,214 @@
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Cloud"
+          ]
         },
         {
           "name": "Fennec",
+          "pattern": "Fennec",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/aio-fennec?variant=4412016525339",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "23.95"
             }
-          ],
-          "pattern": "Fennec"
+          ]
         },
         {
           "name": "Marsala",
+          "pattern": "Marsala",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/organic-all-in-one-marsala?variant=18004599013487",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Marsala"
+          ]
         },
         {
           "name": "Maverick",
+          "pattern": "Maverick",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/organic-all-in-one-maverick?variant=31252576436335",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Maverick"
+          ]
         },
         {
           "name": "Petal",
+          "pattern": "Petal",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/organic-all-in-one-petal?variant=20285963173999",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Petal"
+          ]
         },
         {
           "name": "Sugar Rush",
+          "pattern": "Sugar Rush",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/aio-sugar-rush?variant=4412010856475",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "23.95"
             }
-          ],
-          "pattern": "Sugar Rush"
+          ]
         },
         {
           "name": "Vanilla",
+          "pattern": "Vanilla",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/aio-vanilla?variant=4407368712219",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Vanilla"
+          ]
         },
         {
           "name": "Waverly",
+          "pattern": "Waverly",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/organic-all-in-one-waverly?variant=31252573356143",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Waverly"
+          ]
+        },
+        {
+          "name": "Rose",
+          "pattern": "Rose",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Big O.N.E. Cloth Diaper",
-      "tags": ["young child", "toddler", "all in one diaper", "non-organic"],
+      "tags": [
+        "young child",
+        "toddler",
+        "all in one diaper",
+        "non-organic"
+      ],
       "details": {
         "materials": "Hidden Inner Layer: 100% Polyester Microfiber\nOuter: 100% Water Resistant Polyester TPU\nSoaker: 100% Cotton topped with 100% Polyester Microfleece\nBody Lining: 100% Polyester Microfleece\nOuter: 100% Water Resistant Polyester TPU (Exclusive of Trim)",
         "origin_country": "China",
@@ -220,83 +514,88 @@
       "products": [
         {
           "name": "Arctic",
+          "pattern": "Arctic",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
+              "company": "GroVia",
+              "currency": "USD",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-arctic?variant=29215836274799",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "25.95"
             }
-          ],
-          "pattern": "Arctic"
+          ]
         },
         {
           "name": "Heartspring",
+          "pattern": "Heartspring",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-heartspring?variant=29215859671151",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "25.95"
             }
-          ],
-          "pattern": "Heartspring"
+          ]
         },
         {
           "name": "Maverick",
+          "pattern": "Maverick",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-maverick?variant=31726941044847",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "25.95"
             }
-          ],
-          "pattern": "Maverick"
+          ]
         },
         {
           "name": "Petal",
+          "pattern": "Petal",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-petal?variant=29215856558191",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "25.95"
             }
-          ],
-          "pattern": "Petal"
+          ]
         },
         {
           "name": "Waverly",
+          "pattern": "Waverly",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-waverly?variant=31726934818927",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "25.95"
             }
-          ],
-          "pattern": "Waverly"
+          ]
         }
       ]
     },
     {
-      "name": "Buttah Newborn AIO",
+      "name": "Buttah Newborn All In One",
       "tags": [
         "buttah series",
         "non-organic",
@@ -320,56 +619,93 @@
       "products": [
         {
           "name": "Clay",
+          "pattern": "Clay",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
+              "company": "GroVia",
+              "currency": "USD",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-newborn-aio-clay?variant=30300631138415",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "16.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-newborn-all-in-one",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Clay"
+          ]
         },
         {
           "name": "Glacier",
+          "pattern": "Glacier",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-newborn-aio-glacier?variant=30300626681967",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "16.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-newborn-all-in-one",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Glacier"
+          ]
         },
         {
           "name": "Yarrow",
+          "pattern": "Yarrow",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-newborn-aio-yarrow?variant=30300629532783",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "16.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-newborn-all-in-one",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Yarrow"
+          ]
         }
       ]
     },
     {
-      "name": "Buttah O.N.E. Cloth Diaper",
+      "name": "Buttah O.N.E. Diaper",
       "tags": [
         "buttah series",
-        "infant", "toddler",
+        "infant",
+        "toddler",
         "all in one diaper",
         "non-organic"
       ],
@@ -390,54 +726,96 @@
       "products": [
         {
           "name": "Clay",
+          "pattern": "Clay",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
+              "company": "GroVia",
+              "currency": "USD",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-clay?variant=30300619047023",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-o-n-e-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Clay"
+          ]
         },
         {
           "name": "Glacier",
+          "pattern": "Glacier",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-glacier?variant=30300614885487",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-o-n-e-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Glacier"
+          ]
         },
         {
           "name": "Yarrow",
+          "pattern": "Yarrow",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-yarrow?variant=30300621701231",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "23.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-o-n-e-diaper",
+              "price": 23.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Yarrow"
+          ]
         }
       ]
     },
     {
       "name": "Buttah Organic All In One",
-      "tags": ["buttah series", "organic", "infant", "toddler", "all in one diaper"],
+      "tags": [
+        "buttah series",
+        "organic",
+        "infant",
+        "toddler",
+        "all in one diaper"
+      ],
       "details": {
         "materials": "Inner Body: 4 layers of 100% Organic Cotton on both sewn-in insert and snap-in booster.\nDiaper Outer: 100% water-resistant Polyester TPU, lined with 2 layers of Organic Cotton.",
         "origin_country": "China",
@@ -455,109 +833,102 @@
       "products": [
         {
           "name": "Clay",
+          "pattern": "Clay",
           "listings": [
-            {
-              "name": "Clay",
-              "listings": [
-                {
-                  "currency": "USD",
-                  "company": "GroVia",
-                  "link": "https://www.grovia.com/products/buttah-organic-all-in-one-clay?variant=30300598501487",
-                  "quantity": 1,
-                  "type": "single",
-                  "available": false,
-                  "price": "24.95"
-                }
-              ],
-              "pattern": "Clay"
-            },
-            {
-              "name": "Yarrow",
-              "listings": [
-                {
-                  "currency": "USD",
-                  "company": "GroVia",
-                  "link": "https://www.grovia.com/products/buttah-organic-all-in-one-yarrow?variant=30300591423599",
-                  "quantity": 1,
-                  "type": "single",
-                  "available": false,
-                  "price": "24.95"
-                }
-              ],
-              "pattern": "Yarrow"
-            },
-            {
-              "name": "Glacier",
-              "listings": [
-                {
-                  "currency": "USD",
-                  "company": "GroVia",
-                  "link": "https://www.grovia.com/products/buttah-organic-all-in-one-glacier?variant=30300575465583",
-                  "quantity": 1,
-                  "type": "single",
-                  "available": false,
-                  "price": "24.95"
-                }
-              ],
-              "pattern": "Glacier"
-            },
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-organic-all-in-one-clay?variant=30300598501487",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "24.95"
-            }
-          ],
-          "pattern": "Clay"
-        },
-        {
-          "name": "Glacier",
-          "listings": [
+            },
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/buttah-organic-all-in-one-glacier?variant=30300575465583",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps",
+              "price": 24.95,
               "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "24.95"
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Glacier"
+          ]
         },
         {
           "name": "Yarrow",
+          "pattern": "Yarrow",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/buttah-organic-all-in-one-yarrow?variant=30300591423599",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "24.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps",
+              "price": 24.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Yarrow"
+          ]
+        },
+        {
+          "name": "Glacier",
+          "pattern": "Glacier",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "sizes": ["one size"],
+              "link": "https://www.grovia.com/products/buttah-organic-all-in-one-glacier?variant=30300575465583",
+              "quantity": 1,
+              "type": "single",
+              "available": false,
+              "price": "24.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps",
+              "price": 24.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
         }
       ]
     },
     {
-      "name": "Cloth Swim Diapers",
+      "name": "Swim Diaper",
       "tags": [
         "swim diaper",
-        "infant", "toddler",
-        "young child", "toddler",
+        "infant",
+        "toddler",
+        "young child",
+        "toddler",
         "non-organic"
       ],
       "details": {
         "materials": "Inner: 88% Polyester, 12% Cotton\nOuter: 100% Water Resistant Polyester TPU (exclusive of trim)",
         "origin_country": "China",
         "sizing": {
-          "1": {
+          "size 1": {
             "min": {
               "num": 10,
               "unit": "lb"
@@ -567,7 +938,7 @@
               "unit": "lb"
             }
           },
-          "2": {
+          "size 2": {
             "min": {
               "num": 16,
               "unit": "lb"
@@ -577,7 +948,7 @@
               "unit": "lb"
             }
           },
-          "3": {
+          "size 3": {
             "min": {
               "num": 25,
               "unit": "lb"
@@ -592,174 +963,584 @@
       "products": [
         {
           "name": "Abalone",
+          "pattern": "Abalone",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
-              "link": "https://www.grovia.com/products/swim-diaper-abalone?variant=4411838529563",
+              "company": "GroVia",
+              "currency": "USD",
+              "link": "https://www.grovia.com/products/swim-diaper-abalone",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ]
             },
             {
-              "company": "GroVia","currency": "USD",
-              
-              "link": "https://www.grovia.com/products/swim-diaper-abalone?variant=4411838562331",
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
               "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
-            },
-            {
-              "company": "GroVia","currency": "USD",
-              
-              "link": "https://www.grovia.com/products/swim-diaper-abalone?variant=4411838595099",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Abalone"
+          ]
         },
         {
           "name": "Arctic",
+          "pattern": "Arctic",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-arctic?variant=20791316938863",
+              "link": "https://www.grovia.com/products/swim-diaper-arctic",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ]
             },
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-arctic?variant=20791316971631",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
               "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-arctic?variant=20791317004399",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Arctic"
+          ]
         },
         {
           "name": "Ballot",
+          "pattern": "Ballot",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-ballot?variant=4411080900635",
+              "link": "https://www.grovia.com/products/swim-diaper-ballot",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-ballot?variant=4411080966171",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 3"
+              ]
             }
-          ],
-          "pattern": "Ballot"
+          ]
         },
         {
           "name": "Cloud",
+          "pattern": "Cloud",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-cloud?variant=4410941472795",
+              "link": "https://www.grovia.com/products/swim-diaper-cloud",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ]
             },
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-cloud?variant=4410941505563",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
               "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-cloud?variant=4410941538331",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Cloud"
+          ]
         },
         {
           "name": "Koi",
+          "pattern": "Koi",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-koi?variant=12478656020591",
+              "link": "https://www.grovia.com/products/swim-diaper-koi",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-koi?variant=12478659985519",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 3"
+              ]
             }
-          ],
-          "pattern": "Koi"
+          ]
         },
         {
           "name": "Onyx Stripe",
+          "pattern": "Onyx Stripe",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-onyx-stripe?variant=4411073069083",
+              "link": "https://www.grovia.com/products/swim-diaper-onyx-stripe",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
-            },
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 3"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Petal",
+          "pattern": "Petal",
+          "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-onyx-stripe?variant=4411073134619",
+              "link": "https://www.grovia.com/products/swim-diaper-petal",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
+              "quantity": 1,
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Rainbow Baby",
+          "pattern": "Rainbow Baby",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/swim-diaper-rainbow-baby",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rose",
+          "pattern": "Rose",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/swim-diaper-rose",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "14.95",
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
+              "quantity": 1,
+              "sizes": [
+                "size 1",
+                "size 2",
+                "size 3"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Ur the One",
+          "pattern": "Ur the One",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/swim-diaper-ur-the-one",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "14.95",
+              "sizes": [
+                "size 1"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lotus",
+          "pattern": "Lotus",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
+              "quantity": 1,
+              "sizes": [
+                "size 1",
+                "size 3"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Adventure",
+          "pattern": "Adventure",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
+              "quantity": 1,
+              "sizes": [
+                "size 1"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Ophelia",
+          "pattern": "Ophelia",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
+              "quantity": 1,
+              "sizes": [
+                "size 3"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Funfair",
+          "pattern": "Funfair",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper",
+              "price": 14.95,
+              "quantity": 1,
+              "sizes": [
+                "size 3"
+              ],
+              "type": "single"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hybrid Diaper Shell -- Hook & Loop",
+      "tags": [
+        "organic",
+        "infant",
+        "toddler",
+        "hybrid diaper"
+      ],
+      "details": {
+        "materials": "Inner Body: 100% Polyester Mesh\nOuter: 100% Water Resistant Polyester TPU",
+        "origin_country": "China",
+        "sizing": {
+          "min": {
+            "num": 8,
+            "unit": "lb"
+          },
+          "max": {
+            "num": 30,
+            "unit": "lb"
+          }
+        }
+      },
+      "products": [
+        {
+          "name": "Arctic",
+          "pattern": "Arctic",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139465839",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Basil",
+          "pattern": "Basil",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=18005998174319",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "pattern": "Cloud",
+          "listings": [
+            {
+              "company": "GroVia",
+              "currency": "USD",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4410596491291",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Fennec",
+          "pattern": "Fennec",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4412084813851",
+              "quantity": 1,
+              "type": "single",
+              "available": false,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Have Baby Will Travel",
+          "pattern": "Have Baby Will Travel",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186146927",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Jet",
+          "pattern": "Jet",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Lotus",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-lotus?variant=4409910689819",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
             }
           ],
-          "pattern": "Onyx Stripe"
+          "pattern": "Lotus"
+        },
+        {
+          "name": "Marsala",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=18005957705839",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ],
+          "pattern": "Marsala"
+        },
+        {
+          "name": "Maverick",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588265583",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ],
+          "pattern": "Maverick"
         },
         {
           "name": "Petal",
@@ -767,128 +1548,154 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-petal?variant=20791305666671",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153064559",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
             },
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-petal?variant=20791305699439",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
               "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-petal?variant=20791305732207",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Petal"
         },
         {
-          "name": "Rainbow Baby",
+          "name": "Sugar Rush",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-rainbow-baby?variant=8643343057007",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4412074819611",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-rainbow-baby?variant=8643343089775",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-rainbow-baby?variant=8643343122543",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
             }
           ],
-          "pattern": "Rainbow Baby"
+          "pattern": "Sugar Rush"
+        },
+        {
+          "name": "Tex",
+          "pattern": "Tex",
+          "listings": []
+        },
+        {
+          "name": "Vanilla",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928941595",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ],
+          "pattern": "Vanilla"
+        },
+        {
+          "name": "Waverly",
+          "listings": [
+            {
+              "currency": "USD",
+              "company": "GroVia",
+              "link": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587544687",
+              "quantity": 1,
+              "type": "single",
+              "available": true,
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ],
+          "pattern": "Waverly"
         },
         {
           "name": "Rose",
+          "pattern": "Rose",
           "listings": [
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-rose?variant=4411869462555",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
               "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-rose?variant=4411869495323",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-rose?variant=4411869528091",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Rose"
+          ]
         },
         {
-          "name": "Ur the One",
+          "name": "Crane",
+          "pattern": "Crane",
           "listings": [
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-ur-the-one?variant=12478662017135",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hook-loop",
+              "price": 16.95,
               "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "14.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/swim-diaper-ur-the-one?variant=12478662082671",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "14.95"
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Ur the One"
+          ]
         }
       ]
     },
     {
-      "name": "Hybrid Cloth Diapers",
-      "tags": ["organic", "infant", "toddler", "hybrid diaper"],
+      "name": "Hybrid Diaper Shell -- Snap",
+      "tags": [
+        "organic",
+        "infant",
+        "toddler",
+        "hybrid diaper"
+      ],
       "details": {
         "materials": "Inner Body: 100% Polyester Mesh\nOuter: 100% Water Resistant Polyester TPU",
         "origin_country": "China",
@@ -910,20 +1717,25 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139465839",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139498607",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Arctic"
@@ -934,20 +1746,25 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=18005998174319",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=19945968173167",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Basil"
@@ -956,22 +1773,27 @@
           "name": "Cloud",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4410596491291",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
               "currency": "USD",
               "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4939233296411",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Cloud"
@@ -982,20 +1804,14 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4412084813851",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4939277664283",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
             }
           ],
           "pattern": "Fennec"
@@ -1006,62 +1822,45 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186146927",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186179695",
               "quantity": 1,
               "type": "single",
               "available": false,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Have Baby Will Travel"
         },
         {
           "name": "Jet",
+          "pattern": "Jet",
           "listings": [
             {
+              "company": "Green Mountain Diapers",
               "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-jet?variant=31184181657711",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
               "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-jet?variant=31184181690479",
-              "quantity": 1,
-              "type": "single",
-              "available": false,
-              "price": "16.95"
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Jet"
-        },
-        {
-          "name": "Lotus",
-          "listings": [
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-lotus?variant=4409910689819",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            }
-          ],
-          "pattern": "Lotus"
+          ]
         },
         {
           "name": "Marsala",
@@ -1069,20 +1868,25 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=18005957705839",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=19946108944495",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Marsala"
@@ -1093,20 +1897,25 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588265583",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588298351",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Maverick"
@@ -1117,20 +1926,25 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153064559",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153097327",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Petal"
@@ -1141,38 +1955,22 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4412074819611",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4939426627611",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
             }
           ],
           "pattern": "Sugar Rush"
         },
         {
           "name": "Tex",
-          "listings": [
-            {
-              "currency": "USD",
-              "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-tex?variant=4411196637211",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            }
-          ],
-          "pattern": "Tex"
+          "pattern": "Tex",
+          "listings": []
         },
         {
           "name": "Vanilla",
@@ -1180,20 +1978,14 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928941595",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928908827",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
             }
           ],
           "pattern": "Vanilla"
@@ -1204,29 +1996,72 @@
             {
               "currency": "USD",
               "company": "GroVia",
-              "link": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587544687",
-              "quantity": 1,
-              "type": "single",
-              "available": true,
-              "price": "16.95"
-            },
-            {
-              "currency": "USD",
-              "company": "GroVia",
               "link": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587577455",
               "quantity": 1,
               "type": "single",
               "available": true,
-              "price": "16.95"
+              "price": "16.95",
+              "sizes": [
+                "one size"
+              ]
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
           ],
           "pattern": "Waverly"
+        },
+        {
+          "name": "Rose",
+          "pattern": "Rose",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
+        },
+        {
+          "name": "Crane",
+          "pattern": "Crane",
+          "listings": [
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/grovia-shell-hybrid-diaper-cover",
+              "price": 16.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Newborn All In One Cloth Diapers",
-      "tags": ["preemie / newborn", "all in one diaper", "non-organic"],
+      "tags": [
+        "preemie / newborn",
+        "all in one diaper",
+        "non-organic"
+      ],
       "details": {
         "materials": "Inner Sewn in Soaker Pad: 55% Hemp/45% Cotton topped with 100% Polyester Microfleece\nBody Lining: 100% Polyester Microfleece\nHidden Inner Body Layers: 55% Hemp/45% Cotton\nOuter: 100% Water Resistant Polyester TPU",
         "origin_country": "China",
@@ -1244,21 +2079,23 @@
       "products": [
         {
           "name": "Arctic",
+          "pattern": "Arctic",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/newborn-aio-arctic?variant=20286013898863",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "15.95"
             }
-          ],
-          "pattern": "Arctic"
+          ]
         },
         {
           "name": "Basil",
+          "pattern": "Basil",
           "listings": [
             {
               "currency": "USD",
@@ -1269,26 +2106,27 @@
               "available": false,
               "price": "15.95"
             }
-          ],
-          "pattern": "Basil"
+          ]
         },
         {
           "name": "Cloud",
+          "pattern": "Cloud",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/newborn-aio-cloud?variant=4407374020635",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Cloud"
+          ]
         },
         {
           "name": "Have Baby Will Travel",
+          "pattern": "Have Baby Will Travel",
           "listings": [
             {
               "currency": "USD",
@@ -1299,11 +2137,11 @@
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Have Baby Will Travel"
+          ]
         },
         {
           "name": "Marsala",
+          "pattern": "Marsala",
           "listings": [
             {
               "currency": "USD",
@@ -1314,71 +2152,74 @@
               "available": false,
               "price": "15.95"
             }
-          ],
-          "pattern": "Marsala"
+          ]
         },
         {
           "name": "Maverick",
+          "pattern": "Maverick",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
+              "company": "GroVia",
+              "currency": "USD",
               "link": "https://www.grovia.com/products/newborn-all-in-one-maverick?variant=31252568277103",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Maverick"
+          ]
         },
         {
           "name": "Petal",
+          "pattern": "Petal",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/newborn-aio-petal?variant=20286021664879",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Petal"
+          ]
         },
         {
           "name": "Sugar Rush",
+          "pattern": "Sugar Rush",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/newborn-aio-sugar-rush?variant=4412038447131",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Sugar Rush"
+          ]
         },
         {
           "name": "Vanilla",
+          "pattern": "Vanilla",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/newborn-aio-vanilla?variant=4407372611611",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Vanilla"
+          ]
         },
         {
           "name": "Waverly",
+          "pattern": "Waverly",
           "listings": [
             {
               "currency": "USD",
@@ -1389,14 +2230,18 @@
               "available": true,
               "price": "15.95"
             }
-          ],
-          "pattern": "Waverly"
+          ]
         }
       ]
     },
     {
-      "name": "O.N.E. Cloth Diaper",
-      "tags": ["infant", "toddler", "all in one diaper", "non-organic"],
+      "name": "O.N.E. Diaper",
+      "tags": [
+        "infant",
+        "toddler",
+        "all in one diaper",
+        "non-organic"
+      ],
       "details": {
         "materials": "Hidden Inner Layer: 100% Polyester Microfiber\nOuter: 100% Water Resistant Polyester TPU\nSoaker: 100% Cotton topped with 100% Polyester Microfleece\nBody Lining: 100% Polyester Microfleece\nOuter: 100% Water Resistant Polyester TPU (Exclusive of Trim)",
         "origin_country": "China",
@@ -1414,21 +2259,34 @@
       "products": [
         {
           "name": "Arctic",
+          "pattern": "Arctic",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/o-n-e-cloth-diaper-arctic?variant=20285976346735",
               "quantity": 1,
               "type": "single",
               "available": false,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Arctic"
+          ]
         },
         {
           "name": "Basil",
+          "pattern": "Basil",
           "listings": [
             {
               "currency": "USD",
@@ -1438,12 +2296,23 @@
               "type": "single",
               "available": false,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Basil"
+          ]
         },
         {
           "name": "Cloud",
+          "pattern": "Cloud",
           "listings": [
             {
               "currency": "USD",
@@ -1453,12 +2322,23 @@
               "type": "single",
               "available": true,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Cloud"
+          ]
         },
         {
           "name": "Marsala",
+          "pattern": "Marsala",
           "listings": [
             {
               "currency": "USD",
@@ -1469,41 +2349,65 @@
               "available": true,
               "price": "22.95"
             }
-          ],
-          "pattern": "Marsala"
+          ]
         },
         {
           "name": "Maverick",
+          "pattern": "Maverick",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/o-n-e-cloth-diaper-maverick?variant=31252582596719",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Maverick"
+          ]
         },
         {
           "name": "Petal",
+          "pattern": "Petal",
           "listings": [
             {
-              "company": "GroVia","currency": "USD",
-              
+              "company": "GroVia",
+              "currency": "USD",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/o-n-e-cloth-diaper-petal?variant=20286003544175",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Petal"
+          ]
         },
         {
           "name": "Sugar Rush",
+          "pattern": "Sugar Rush",
           "listings": [
             {
               "currency": "USD",
@@ -1514,11 +2418,11 @@
               "available": true,
               "price": "22.95"
             }
-          ],
-          "pattern": "Sugar Rush"
+          ]
         },
         {
           "name": "Vanilla",
+          "pattern": "Vanilla",
           "listings": [
             {
               "currency": "USD",
@@ -1528,24 +2432,46 @@
               "type": "single",
               "available": true,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Vanilla"
+          ]
         },
         {
           "name": "Waverly",
+          "pattern": "Waverly",
           "listings": [
             {
               "currency": "USD",
               "company": "GroVia",
+              "sizes": ["one size"],
               "link": "https://www.grovia.com/products/o-n-e-cloth-diaper-waverly?variant=31252585250927",
               "quantity": 1,
               "type": "single",
               "available": true,
               "price": "22.95"
+            },
+            {
+              "company": "Green Mountain Diapers",
+              "currency": "USD",
+              "link": "https://www.greenmountaindiapers.com/products/groviaone",
+              "price": 22.95,
+              "quantity": 1,
+              "sizes": [
+                "one size"
+              ],
+              "type": "single"
             }
-          ],
-          "pattern": "Waverly"
+          ]
         }
       ]
     }

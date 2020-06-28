@@ -16,7 +16,7 @@ def upload_brand_data (brand_filename)
       end
     end
   end
-  
+
   brand_data["product_lines"].each do |product_line_data|
     product_line = brand.product_lines.find_or_initialize_by({ name: product_line_data["name"] })
     if !product_line.id
@@ -68,11 +68,6 @@ def upload_brand_data (brand_filename)
           end
         end
         product_line_name = (product_line_name || product_line.name).gsub(/ /,"%20")
-        # if Product.last.id == 702
-        #   puts product_line.name
-        #   puts product_line_name
-        #   puts "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/#{product_line_name}/#{product.name.gsub(/ /,"%20")}.jpg"
-        # end
         link = product_data["image_src"] || "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/#{product_line_name}/#{product.name.gsub(/ /,"%20")}.jpg"
         product.images.find_or_create_by(name: product_data["name"], link: link)
       end
