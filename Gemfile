@@ -24,6 +24,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'rack-cors'
 
 gem 'jsonapi-resources', :git => 'https://github.com/cerebris/jsonapi-resources.git', :branch => 'issue_1312'
+gem 'jsonapi-serializers'
 gem 'jwt'
 
 group :development, :test do

@@ -1,4 +1,5 @@
 class ListingResource < JSONAPI::Resource
-  attributes :company, :currency, :link, :listing_type, :price, :quantity
-  has_many :products
+  belongs_to :products
+  belongs_to :company
+  attributes :currency, :link, :price, :sizes
 end

@@ -1,7 +1,7 @@
 class CreateTagsAndTaggings < ActiveRecord::Migration[6.0]
   def self.up
     create_table :tags do |t|
-      t.string :name,      null: false
+      t.string  :name,     null: false
       t.integer :category, default: 0
 
       t.timestamps null: false

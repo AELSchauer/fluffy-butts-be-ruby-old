@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_11_131409) do
+ActiveRecord::Schema.define(version: 2020_06_30_010450) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,6 +19,41 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
     t.string "name", null: false
     t.string "name_insensitive", null: false
     t.string "origin_country"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "bulk_packs", force: :cascade do |t|
+    t.string "name"
+    t.integer "quantity"
+    t.bigint "product_line_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["product_line_id"], name: "index_bulk_packs_on_product_line_id"
+  end
+
+  create_table "collection_products", force: :cascade do |t|
+    t.bigint "collection_id", null: false
+    t.bigint "product_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["collection_id"], name: "index_collection_products_on_collection_id"
+    t.index ["product_id"], name: "index_collection_products_on_product_id"
+  end
+
+  create_table "collections", force: :cascade do |t|
+    t.string "name"
+    t.json "details"
+    t.bigint "product_line_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["product_line_id"], name: "index_collections_on_product_line_id"
+  end
+
+  create_table "companies", force: :cascade do |t|
+    t.string "name"
+    t.json "ships_to"
+    t.json "urls"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -42,15 +77,19 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
   end
 
   create_table "listings", force: :cascade do |t|
-    t.string "company"
+    t.boolean "available"
+    t.string "country"
     t.string "currency"
-    t.json "details"
-    t.integer "listing_type"
     t.string "link"
     t.decimal "price", precision: 10, scale: 2
-    t.integer "quantity"
+    t.json "sizes"
+    t.string "listable_type", null: false
+    t.integer "listable_id", null: false
+    t.bigint "company_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["company_id"], name: "index_listings_on_company_id"
+    t.index ["listable_id", "listable_type"], name: "index_listings_on_listable_id_and_listable_type"
   end
 
   create_table "patterns", force: :cascade do |t|
@@ -62,23 +101,14 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
   end
 
   create_table "product_lines", force: :cascade do |t|
-    t.integer "product_type"
     t.string "name"
     t.string "name_insensitive"
+    t.integer "product_type"
     t.json "details"
     t.bigint "brand_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["brand_id"], name: "index_product_lines_on_brand_id"
-  end
-
-  create_table "product_listings", force: :cascade do |t|
-    t.bigint "product_id", null: false
-    t.bigint "listing_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["listing_id"], name: "index_product_listings_on_listing_id"
-    t.index ["product_id"], name: "index_product_listings_on_product_id"
   end
 
   create_table "products", force: :cascade do |t|
@@ -90,15 +120,6 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
     t.datetime "updated_at", precision: 6, null: false
     t.index ["pattern_id"], name: "index_products_on_pattern_id"
     t.index ["product_line_id"], name: "index_products_on_product_line_id"
-  end
-
-  create_table "proposals", force: :cascade do |t|
-    t.string "proposable_type", default: ""
-    t.integer "proposable_id"
-    t.json "proposed_change"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["proposable_id", "proposable_type"], name: "index_proposals_on_proposable_id_and_proposable_type"
   end
 
   create_table "taggings", force: :cascade do |t|
@@ -131,10 +152,13 @@ ActiveRecord::Schema.define(version: 2020_06_11_131409) do
     t.index ["email"], name: "index_users_on_email", unique: true
   end
 
+  add_foreign_key "bulk_packs", "product_lines"
+  add_foreign_key "collection_products", "collections"
+  add_foreign_key "collection_products", "products"
+  add_foreign_key "collections", "product_lines"
+  add_foreign_key "listings", "companies"
   add_foreign_key "patterns", "brands"
   add_foreign_key "product_lines", "brands"
-  add_foreign_key "product_listings", "listings"
-  add_foreign_key "product_listings", "products"
   add_foreign_key "products", "patterns"
   add_foreign_key "products", "product_lines"
 end

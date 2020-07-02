@@ -1,0 +1,11 @@
+// Thirsties
+gsutil rsync gs://fluffy-butts/Thirsties/One\ Size\ Pocket\ --\ Snap/Products gs://fluffy-butts/Thirsties/Natural\ One\ Size\ Pocket\ --\ Snap/Products
+gsutil rsync gs://fluffy-butts/Thirsties/One\ Size\ Pocket\ --\ Hook\ \&\ Loop/Products gs://fluffy-butts/Thirsties/Natural\ One\ Size\ Pocket\ --\ Hook\ \&\ Loop/Products
+
+gsutil rsync gs://fluffy-butts/Thirsties/One\ Size\ All\ In\ One\ --\ Snap/Products gs://fluffy-butts/Thirsties/Stay\ Dry\ Natural\ One\ Size\ All\ In\ One/Products
+gsutil rsync gs://fluffy-butts/Thirsties/One\ Size\ All\ In\ One\ --\ Snap/Products gs://fluffy-butts/Thirsties/Natural\ One\ Size\ All\ In\ One\ --\ Snap/Products
+gsutil rsync gs://fluffy-butts/Thirsties/One\ Size\ All\ In\ One\ --\ Hook\ \&\ Loop/Products gs://fluffy-butts/Thirsties/Natural\ One\ Size\ All\ In\ One\ --\ Hook\ \&\ Loop/Products
+
+gsutil rsync gs://fluffy-butts/Thirsties/Newborn\ All\ In\ One\ --\ Snap/Products gs://fluffy-butts/Thirsties/Natural\ Newborn\ All\ In\ One\ --\ Snap/Products
+gsutil rsync gs://fluffy-butts/Thirsties/Newborn\ All\ In\ One\ --\ Hook\ \&\ Loop/Products gs://fluffy-butts/Thirsties/Natural\ Newborn\ All\ In\ One\ --\ Hook\ \&\ Loop/Products
+

@@ -1,10 +1,11 @@
 class ProductLine < ApplicationRecord
   belongs_to :brand
-  has_many :products
-  has_many :taggings, as: :taggable
-  has_many :tags, through: :taggings
-  has_many :imagings, as: :imagable
-  has_many :images, through: :imagings
+  has_many   :imagings, as: :imagable
+  has_many   :images, through: :imagings
+  has_many   :products
+  has_many   :collections
+  has_many   :taggings, as: :taggable
+  has_many   :tags, through: :taggings
 
   def self.find_by_tag_ids(tag_ids = [])
     @feature_tags = Tag.where(id: tag_ids);

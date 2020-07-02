@@ -79,6 +79,8 @@ GEM
       activesupport (>= 4.2.0)
     i18n (1.8.3)
       concurrent-ruby (~> 1.0)
+    jsonapi-serializers (1.0.1)
+      activesupport
     jwt (2.2.1)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -161,6 +163,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   jsonapi-resources!
+  jsonapi-serializers
   jwt
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)

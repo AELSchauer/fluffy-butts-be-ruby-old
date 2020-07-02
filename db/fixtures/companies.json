@@ -215,5 +215,13 @@
     "name": "Green Mountain Diapers",
     "url": "https://www.greenmountaindiapers.com/",
     "ships_to": ["United States"]
+  },
+  {
+    "name": "Lil' Monkey Cheeks",
+    "url": "https://www.greenmountaindiapers.com/",
+    "ships_to": [
+      { "country": "Canada", "cost": 9.99, "localPickup": "Pickering, Ontario" },
+      { "country": "United States", "cost": 14.99 }
+    ]
   }
 ]

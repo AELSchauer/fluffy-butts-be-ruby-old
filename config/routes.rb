@@ -2,6 +2,8 @@ Rails.application.routes.draw do
 
   namespace :api do
     namespace :v1 do
+      get "/product-lines-display", to: "specialty_serves#brand_product_lines"
+
       jsonapi_resources :brands, only: [:index, :show]
       jsonapi_resources :listings, only: [:index, :show]
       jsonapi_resources :product_lines, only: [:index, :show]

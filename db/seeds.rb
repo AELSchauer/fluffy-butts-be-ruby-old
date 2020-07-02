@@ -16,7 +16,7 @@ def upload_brand_data (brand_filename)
       end
     end
   end
-
+  
   brand_data["product_lines"].each do |product_line_data|
     product_line = brand.product_lines.find_or_initialize_by({ name: product_line_data["name"] })
     if !product_line.id
@@ -50,42 +50,31 @@ def upload_brand_data (brand_filename)
       end
       
       if product.images.length === 0
-        if brand.name == "Thirsties"
-          natural_product_lines = [
-            "Natural Newborn All In One -- Hook & Loop",
-            "Natural Newborn All In One -- Snap",
-            "Natural One Size All In One -- Hook & Loop",
-            "Natural One Size All In One -- Snap",
-            "Natural One Size Pocket -- Snap",
-            "Natural One Size Pocket -- Hook & Loop",
-            "Stay Dry Natural One Size All In One"
-          ]
-          if natural_product_lines.include? product_line.name
-            if product_line.name ==  "Stay Dry Natural One Size All In One"
-              product_line_name = product_line.name.gsub("Stay Dry ","") + " -- Snap"
-            end
-            product_line_name = (product_line_name || product_line.name).gsub("Natural ","")
-          end
+        product_line_name = product_line.name.gsub(/ /,"%20")
+        link = product_data["image_src"] || "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/#{product_line_name}/Products/#{product.name.gsub(/ /,"%20")}.jpg"
+        image = product.images.find_or_create_by(name: product_data["name"], link: link)
+        if product_data["default"]
+          product_line.images << image
         end
-        product_line_name = (product_line_name || product_line.name).gsub(/ /,"%20")
-        link = product_data["image_src"] || "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/#{product_line_name}/#{product.name.gsub(/ /,"%20")}.jpg"
-        product.images.find_or_create_by(name: product_data["name"], link: link)
       end
       
       product_data["listings"].each do |listing_data|
-        product.listings.find_or_create_by({
-          company: listing_data["company"],
+        company = Company.find_or_create_by(name: listing_data["company"])
+        listing = product.listings.find_or_create_by({
+          company: company,
           currency: listing_data["currency"],
           link: listing_data["link"],
-          price: listing_data["price"],
-          quantity: listing_data["quantity"],
-          listing_type: listing_data["type"]
-          })
+          price: listing_data["price"]
+        })
+          
+        if !listing.id
+          listing.details = listing_data["sizes"].to_json
+          listing.save
         end
       end
     end
   end
-  
+end  
   
   User.create(email: "fluffy-butts-fake@gmail.com", password: "123456", role: :admin)
   
