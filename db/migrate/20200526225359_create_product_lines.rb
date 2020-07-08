@@ -3,8 +3,9 @@ class CreateProductLines < ActiveRecord::Migration[6.0]
     create_table :product_lines do |t|
       t.string  :name
       t.string  :name_insensitive
+      t.string  :display_order
       t.integer :product_type
-      t.json    :details
+      t.jsonb   :details
 
       t.references :brand, null: false, foreign_key: true
 

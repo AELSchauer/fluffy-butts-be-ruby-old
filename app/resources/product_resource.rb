@@ -1,17 +1,21 @@
 class ProductResource < JSONAPI::Resource
-  attributes :name
+  attributes :name, :product_line_data, :available
   has_one :brand
   has_one :pattern
   has_one :product_line
   has_many :images
   has_many :listings
 
-  filters :id, :name
+  filters :id, :name, :available
   filters :brand, :pattern, :product_line
   
   def self.sortable_fields(context)
     super + [:"brand.name", :"product_line.name"]
   end
+  
+  filter :'available', apply: ->(records, available, _options) {
+    records.find_by_available(available[0] === "true")
+  }
   
   filter :'brand.name', apply: ->(records, names, _options) {
     names_str = names.sort.map { |name| "'#{name}'"}.join(', ')

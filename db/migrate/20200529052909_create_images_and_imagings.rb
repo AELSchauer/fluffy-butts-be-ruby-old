@@ -2,7 +2,7 @@ class CreateImagesAndImagings < ActiveRecord::Migration[6.0]
   def self.up
     create_table :images do |t|
       t.string :name, null: false
-      t.string :link, null: false
+      t.string :url,  null: false
 
       t.timestamps null: false
     end

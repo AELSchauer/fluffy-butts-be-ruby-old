@@ -2,10 +2,10 @@
 
 one:
   name: MyString
-  ships_to: 
-  urls: 
+  shipping: 
+  url: 
 
 two:
   name: MyString
-  ships_to: 
-  urls: 
+  shipping: 
+  url: 

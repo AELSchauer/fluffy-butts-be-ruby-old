@@ -1,3 +1,3 @@
 class ImageResource < JSONAPI::Resource
-  attributes :name, :link
+  attributes :name, :url
 end

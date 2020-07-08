@@ -1,6 +1,7 @@
 class ProductLineResource < JSONAPI::Resource
-  attributes :name
-  has_one :brand
+  attributes :name, :display_order, :details
+  has_one  :brand
+  has_many :images
   has_many :products
   has_many :tags
 

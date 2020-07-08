@@ -1,3 +1,3 @@
 class ImageSerializer < BaseSerializer
-  attributes :name, :link
+  attributes :name, :url
 end

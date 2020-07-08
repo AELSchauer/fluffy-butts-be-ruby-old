@@ -1,11 +1,24 @@
 require "json"
 
+
+def upload_retailers 
+  retailers_data = JSON.parse(File.read("db/fixtures/retailers.json"))
+  retailers_data.each do |retailer_data|
+    retailer = Retailer.find_or_initialize_by(name: retailer_data["name"])
+    if !retailer.id
+      retailer.shipping = retailer_data["shipping"]
+      retailer.save
+    end
+  end
+end
+
+
 tag_categories_data = JSON.parse(File.read("db/fixtures/tag_categories.json"))
 
 def upload_brand_data (brand_filename)
   brand_data = JSON.parse(File.read(brand_filename))
   brand = Brand.find_or_create_by({ name: brand_data["brand"], origin_country: brand_data["country_origin"] })
-  brand.images.find_or_create_by(name: brand_data["brand"], link: "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/Logo.png")
+  brand.images.find_or_create_by(name: brand_data["brand"], url: "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/Logo.png")
   
   brand_data["patterns"].each do |pattern_data|
     pattern = brand.patterns.find_or_create_by({ name: pattern_data["name"] })
@@ -18,9 +31,9 @@ def upload_brand_data (brand_filename)
   end
   
   brand_data["product_lines"].each do |product_line_data|
-    product_line = brand.product_lines.find_or_initialize_by({ name: product_line_data["name"] })
+    product_line = brand.product_lines.find_or_initialize_by({ name: product_line_data["name"], display_order: product_line_data["sort_order"] })
     if !product_line.id
-      product_line.details = product_line_data["details"].to_json
+      product_line.details = product_line_data["details"]
       product_line.save
     end
     
@@ -50,34 +63,35 @@ def upload_brand_data (brand_filename)
       end
       
       if product.images.length === 0
-        product_line_name = product_line.name.gsub(/ /,"%20")
-        link = product_data["image_src"] || "https://storage.cloud.google.com/fluffy-butts/#{brand.name.gsub(/ /,"%20")}/#{product_line_name}/Products/#{product.name.gsub(/ /,"%20")}.jpg"
-        image = product.images.find_or_create_by(name: product_data["name"], link: link)
+        url = "https://fluffy-butts-product-images.s3.us-east-2.amazonaws.com/#{brand.name.gsub(/ /,"+")}/#{product_line.name.gsub(/ /,"+")}/Products/#{product.name.gsub(/ /,"+")}.jpg"
+        image = product.images.find_or_create_by(name: product_data["name"], url: url)
         if product_data["default"]
           product_line.images << image
         end
       end
       
       product_data["listings"].each do |listing_data|
-        company = Company.find_or_create_by(name: listing_data["company"])
-        listing = product.listings.find_or_create_by({
-          company: company,
+        retailer = Retailer.find_or_create_by(name: listing_data["retailer"])
+        listing = product.listings.find_or_initialize_by({
+          retailer: retailer,
           currency: listing_data["currency"],
-          link: listing_data["link"],
+          url: listing_data["url"],
           price: listing_data["price"]
-        })
+          })
           
-        if !listing.id
-          listing.details = listing_data["sizes"].to_json
-          listing.save
+          if !listing.id
+            listing.countries = listing_data["countries"]
+            listing.sizes = listing_data["sizes"]
+            listing.save
+          end
         end
       end
     end
-  end
-end  
+  end  
   
   User.create(email: "fluffy-butts-fake@gmail.com", password: "123456", role: :admin)
   
+  upload_retailers()
   upload_brand_data("db/fixtures/AlvaBaby.json")
   upload_brand_data("db/fixtures/Bambino Mio.json")
   upload_brand_data("db/fixtures/Blueberry.json")

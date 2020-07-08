@@ -50,17 +50,9 @@ ActiveRecord::Schema.define(version: 2020_06_30_010450) do
     t.index ["product_line_id"], name: "index_collections_on_product_line_id"
   end
 
-  create_table "companies", force: :cascade do |t|
-    t.string "name"
-    t.json "ships_to"
-    t.json "urls"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
-
   create_table "images", force: :cascade do |t|
     t.string "name", null: false
-    t.string "link", null: false
+    t.string "url", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["name"], name: "index_images_on_name"
@@ -78,18 +70,18 @@ ActiveRecord::Schema.define(version: 2020_06_30_010450) do
 
   create_table "listings", force: :cascade do |t|
     t.boolean "available"
-    t.string "country"
+    t.jsonb "countries"
     t.string "currency"
-    t.string "link"
+    t.string "url"
     t.decimal "price", precision: 10, scale: 2
-    t.json "sizes"
+    t.jsonb "sizes"
     t.string "listable_type", null: false
     t.integer "listable_id", null: false
-    t.bigint "company_id", null: false
+    t.bigint "retailer_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["company_id"], name: "index_listings_on_company_id"
     t.index ["listable_id", "listable_type"], name: "index_listings_on_listable_id_and_listable_type"
+    t.index ["retailer_id"], name: "index_listings_on_retailer_id"
   end
 
   create_table "patterns", force: :cascade do |t|
@@ -103,8 +95,9 @@ ActiveRecord::Schema.define(version: 2020_06_30_010450) do
   create_table "product_lines", force: :cascade do |t|
     t.string "name"
     t.string "name_insensitive"
+    t.string "display_order"
     t.integer "product_type"
-    t.json "details"
+    t.jsonb "details"
     t.bigint "brand_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -113,13 +106,21 @@ ActiveRecord::Schema.define(version: 2020_06_30_010450) do
 
   create_table "products", force: :cascade do |t|
     t.string "name"
-    t.json "details"
+    t.jsonb "details"
     t.bigint "pattern_id"
     t.bigint "product_line_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["pattern_id"], name: "index_products_on_pattern_id"
     t.index ["product_line_id"], name: "index_products_on_product_line_id"
+  end
+
+  create_table "retailers", force: :cascade do |t|
+    t.string "name"
+    t.string "url"
+    t.jsonb "shipping"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
   create_table "taggings", force: :cascade do |t|
@@ -156,7 +157,7 @@ ActiveRecord::Schema.define(version: 2020_06_30_010450) do
   add_foreign_key "collection_products", "collections"
   add_foreign_key "collection_products", "products"
   add_foreign_key "collections", "product_lines"
-  add_foreign_key "listings", "companies"
+  add_foreign_key "listings", "retailers"
   add_foreign_key "patterns", "brands"
   add_foreign_key "product_lines", "brands"
   add_foreign_key "products", "patterns"
