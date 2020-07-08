@@ -126,6 +126,7 @@
   "product_lines": [
     {
       "name": "Organic All-In-One",
+      "sort_order": "1.1.1",
       "tags": ["organic", "infant", "toddler", "all-in-one diaper"],
       "details": {
         "materials": "<ul><li>Inner Body: 4 layers of 100% Organic Cotton on both sewn-in insert and snap-in booster.</li><li>Diaper Outer: 100% water-resistant Polyester TPU, lined with 2 layers of Organic Cotton.</li><ul>",
@@ -134,14 +135,18 @@
           {
             "name": "one size",
             "weight": {
-              "min": {
-                "num": 10,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 35,
-                "unit": "lb"
-              }
+              "min": [
+                {
+                  "num": 10,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                }
+              ]
             }
           }
         ]
@@ -150,19 +155,32 @@
         {
           "name": "Arctic",
           "pattern": "Arctic",
+          "default": true,
           "listings": [
             {
               "retailer": "GroVia",
               "currency": "USD",
               "available": false,
-              "url": "https://www.grovia.com/products/organic-all-in-one-arctic?variant=20285891739759",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/organic-all-in-one-arctic?variant=20285891739759",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=20011706253405",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=20011706253405",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -189,14 +207,26 @@
               "retailer": "GroVia",
               "currency": "USD",
               "available": false,
-              "url": "https://www.grovia.com/products/organic-all-in-one-basil?variant=18004723269743",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/organic-all-in-one-basil?variant=18004723269743",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=19532767297629",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=19532767297629",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -208,14 +238,26 @@
               "retailer": "GroVia",
               "currency": "USD",
               "available": false,
-              "url": "https://www.grovia.com/products/grovia-aio-cloud?variant=4407382605851",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/grovia-aio-cloud?variant=4407382605851",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=15395845013597",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=15395845013597",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -227,7 +269,13 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 23.95,
-              "url": "https://www.grovia.com/products/aio-fennec?variant=4412016525339"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/aio-fennec?variant=4412016525339",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -254,14 +302,26 @@
               "retailer": "GroVia",
               "currency": "USD",
               "available": false,
-              "url": "https://www.grovia.com/products/organic-all-in-one-marsala?variant=18004599013487",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/organic-all-in-one-marsala?variant=18004599013487",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=19532767035485",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=19532767035485",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -273,14 +333,25 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 23.95,
-              "url": "https://www.grovia.com/products/organic-all-in-one-maverick?variant=31252576436335"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/organic-all-in-one-maverick?variant=31252576436335",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
               "price": 23.95,
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=31846074581085",
-              "available": false
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=31846074581085",
+                  "available": false
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -307,14 +378,25 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 23.95,
-              "url": "https://www.grovia.com/products/organic-all-in-one-petal?variant=20285963173999"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/organic-all-in-one-petal?variant=20285963173999",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=20011701010525",
               "price": 23.95,
-              "available": false
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=20011701010525",
+                  "available": false
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -341,7 +423,13 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 23.95,
-              "url": "https://www.grovia.com/products/aio-sugar-rush?variant=4412010856475"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/aio-sugar-rush?variant=4412010856475",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -369,13 +457,25 @@
               "currency": "USD",
               "available": false,
               "url": "https://www.grovia.com/products/aio-vanilla?variant=4407368712219",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=32384738394205",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=32384738394205",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -387,13 +487,25 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 23.95,
-              "url": "https://www.grovia.com/products/organic-all-in-one-waverly?variant=31252573356143"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/organic-all-in-one-waverly?variant=31252573356143",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=31846075301981",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=31846075301981",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -419,8 +531,14 @@
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=15395842031709",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-organic-all-in-one-diaper?variant=15395842031709",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -469,7 +587,8 @@
       ]
     },
     {
-      "name": "Big O.N.E. Cloth Diaper",
+      "name": "Big O.N.E. Diaper",
+      "sort_order": "1.2.2",
       "tags": ["young child", "toddler", "all-in-one diaper", "non-organic"],
       "details": {
         "materials": "<ul><li>Hidden Inner Layer: 100% Polyester Microfiber</li><li>Outer: 100% Water Resistant Polyester TPU</li><li>Soaker: 100% Cotton topped with 100% Polyester Microfleece</li><li>Body Lining: 100% Polyester Microfleece</li><li>Outer: 100% Water Resistant Polyester TPU (Exclusive of Trim)</li><ul>",
@@ -478,14 +597,18 @@
           {
             "name": "one size",
             "weight": {
-              "min": {
-                "num": 35,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 70,
-                "unit": "lb"
-              }
+              "min": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 70,
+                  "unit": "lb"
+                }
+              ]
             }
           }
         ]
@@ -499,8 +622,13 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 25.95,
-              "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-arctic?variant=29215836274799",
-              "available": false
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-arctic",
+                  "available": false
+                }
+              ]
             }
           ]
         },
@@ -512,19 +640,32 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 25.95,
-              "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-heartspring?variant=29215859671151"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-heartspring",
+                  "available": true
+                }
+              ]
             }
           ]
         },
         {
           "name": "Maverick",
           "pattern": "Maverick",
+          "default": true,
           "listings": [
             {
               "retailer": "GroVia",
               "currency": "USD",
               "price": 25.95,
-              "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-maverick?variant=31726941044847"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-maverick",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -536,7 +677,13 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 25.95,
-              "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-petal?variant=29215856558191"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-petal",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -548,7 +695,13 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 25.95,
-              "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-waverly?variant=31726934818927"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/big-o-n-e-cloth-diaper-waverly",
+                  "available": true
+                }
+              ]
             }
           ]
         }
@@ -556,8 +709,9 @@
     },
     {
       "name": "Buttah Newborn All-In-One",
+      "sort_order": "3.2",
       "tags": [
-        "buttah series",
+        "grovia buttah series",
         "non-organic",
         "preemie / newborn",
         "all-in-one diaper"
@@ -569,14 +723,18 @@
           {
             "name": "one size",
             "weight": {
-              "min": {
-                "num": 5,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 12,
-                "unit": "lb"
-              }
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 12,
+                  "unit": "lb"
+                }
+              ]
             }
           }
         ]
@@ -585,18 +743,31 @@
         {
           "name": "Clay",
           "pattern": "Clay",
+          "default": true,
           "listings": [
             {
               "retailer": "GroVia",
               "currency": "USD",
               "price": 16.95,
-              "url": "https://www.grovia.com/products/buttah-newborn-aio-clay?variant=30300631138415"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-newborn-aio-clay?variant=30300631138415",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
               "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-newborn-all-in-one?variant=30445588578397"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-newborn-all-in-one?variant=30445588578397",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -623,14 +794,25 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 16.95,
-              "url": "https://www.grovia.com/products/buttah-newborn-aio-glacier?variant=30300626681967",
-              "available": false
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-newborn-aio-glacier?variant=30300626681967",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
               "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-newborn-all-in-one?variant=30445593329757"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-newborn-all-in-one?variant=30445593329757",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -657,13 +839,25 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 16.95,
-              "url": "https://www.grovia.com/products/buttah-newborn-aio-yarrow?variant=30300629532783"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-newborn-aio-yarrow?variant=30300629532783",
+                  "available": true
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
               "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-newborn-all-in-one?variant=30445601849437"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-newborn-all-in-one?variant=30445601849437",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -686,8 +880,9 @@
     },
     {
       "name": "Buttah O.N.E. Diaper",
+      "sort_order": "3.3",
       "tags": [
-        "buttah series",
+        "grovia buttah series",
         "infant",
         "toddler",
         "all-in-one diaper",
@@ -700,14 +895,18 @@
           {
             "name": "one size",
             "weight": {
-              "min": {
-                "num": 10,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 35,
-                "unit": "lb"
-              }
+              "min": [
+                {
+                  "num": 10,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                }
+              ]
             }
           }
         ]
@@ -716,19 +915,31 @@
         {
           "name": "Clay",
           "pattern": "Clay",
+          "default": true,
           "listings": [
             {
               "retailer": "GroVia",
               "currency": "USD",
-              "url": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-clay?variant=30300619047023",
-              "available": false,
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-clay?variant=30300619047023",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-o-n-e-diaper?variant=30445206896733",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-o-n-e-diaper?variant=30445206896733",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -754,15 +965,26 @@
             {
               "retailer": "GroVia",
               "currency": "USD",
-              "available": false,
-              "url": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-glacier?variant=30300614885487",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-glacier?variant=30300614885487",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-o-n-e-diaper?variant=30445217153117",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-o-n-e-diaper?variant=30445217153117",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -788,15 +1010,26 @@
             {
               "retailer": "GroVia",
               "currency": "USD",
-              "available": false,
-              "url": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-yarrow?variant=30300621701231",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-o-n-e-cloth-diaper-yarrow?variant=30300621701231",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-o-n-e-diaper?variant=30445220233309",
-              "price": 23.95
+              "price": 23.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-buttah-o-n-e-diaper?variant=30445220233309",
+                  "available": true
+                }
+              ]
             },
             {
               "countries": ["Canada"],
@@ -819,8 +1052,9 @@
     },
     {
       "name": "Buttah Organic All-In-One",
+      "sort_order": "3.1",
       "tags": [
-        "buttah series",
+        "grovia buttah series",
         "organic",
         "infant",
         "toddler",
@@ -833,14 +1067,18 @@
           {
             "name": "one size",
             "weight": {
-              "min": {
-                "num": 10,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 35,
-                "unit": "lb"
-              }
+              "min": [
+                {
+                  "num": 10,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                }
+              ]
             }
           }
         ]
@@ -849,19 +1087,31 @@
         {
           "name": "Clay",
           "pattern": "Clay",
+          "default": true,
           "listings": [
             {
               "retailer": "GroVia",
               "currency": "USD",
               "price": 24.95,
-              "available": false,
-              "url": "https://www.grovia.com/products/buttah-organic-all-in-one-clay?variant=30300598501487"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-organic-all-in-one-clay?variant=30300598501487",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "hhttps://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps?variant=30444817547357",
-              "price": 24.95
+              "price": 24.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps?variant=30444817547357",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -873,14 +1123,25 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 24.95,
-              "available": false,
-              "url": "https://www.grovia.com/products/buttah-organic-all-in-one-glacier?variant=30300575465583"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-organic-all-in-one-glacier?variant=30300575465583",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps?variant=30444828721245",
-              "price": 24.95
+              "price": 24.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps?variant=30444828721245",
+                  "available": true
+                }
+              ]
             }
           ]
         },
@@ -892,14 +1153,1615 @@
               "retailer": "GroVia",
               "currency": "USD",
               "price": 24.95,
-              "available": false,
-              "url": "https://www.grovia.com/products/buttah-organic-all-in-one-yarrow?variant=30300591423599"
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.grovia.com/products/buttah-organic-all-in-one-yarrow?variant=30300591423599",
+                  "available": false
+                }
+              ]
             },
             {
               "retailer": "Green Mountain Diapers",
               "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps?variant=30444836749405",
-              "price": 24.95
+              "price": 24.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-buttah-organic-all-in-one-diaper-side-snaps?variant=30444836749405",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hybrid Diaper Shell -- Hook & Loop",
+      "sort_order": "2.1",
+      "tags": ["organic", "infant", "toddler", "hybrid diaper"],
+      "details": {
+        "materials": "<ul><li>Inner Body: 100% Polyester Mesh</li><li>Outer: 100% Water Resistant Polyester TPU</li><ul>",
+        "origin_country": "China",
+        "sizing": [
+          {
+            "name": "one size",
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 30,
+                  "unit": "lb"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "products": [
+        {
+          "name": "Arctic",
+          "pattern": "Arctic",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139465839"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=20010686742621"
+            }
+          ]
+        },
+        {
+          "name": "Basil",
+          "pattern": "Basil",
+          "default": true,
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=18005998174319"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=19532779520093"
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "pattern": "Cloud",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4410596491291"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=29228442184"
+            }
+          ]
+        },
+        {
+          "name": "Fennec",
+          "pattern": "Fennec",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4412084813851"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445432987738",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Have Baby Will Travel",
+          "pattern": "Have Baby Will Travel",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186146927"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=32042691330141"
+            }
+          ]
+        },
+        {
+          "name": "Jet",
+          "pattern": "Jet",
+          "listings": [
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=32042688348253"
+            }
+          ]
+        },
+        {
+          "name": "Lotus",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-lotus?variant=4409910689819"
+            }
+          ],
+          "pattern": "Lotus"
+        },
+        {
+          "name": "Marsala",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=18005957705839"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=19532779356253"
+            }
+          ],
+          "pattern": "Marsala"
+        },
+        {
+          "name": "Maverick",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588265583"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=31845776621661"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792397811802",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Maverick"
+        },
+        {
+          "name": "Petal",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153064559"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=20010680811613"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445434691674",
+                  "available": false
+                }
+              ]
+            }
+          ],
+          "pattern": "Petal"
+        },
+        {
+          "name": "Sugar Rush",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4412074819611"
+            }
+          ],
+          "pattern": "Sugar Rush"
+        },
+        {
+          "name": "Tex",
+          "pattern": "Tex",
+          "listings": []
+        },
+        {
+          "name": "Vanilla",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928941595"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=31800541904989"
+            }
+          ],
+          "pattern": "Vanilla"
+        },
+        {
+          "name": "Waverly",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587544687"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=31845777768541"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792398139482",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Waverly"
+        },
+        {
+          "name": "Rose",
+          "pattern": "Rose",
+          "listings": [
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=37952374664"
+            }
+          ]
+        },
+        {
+          "name": "Crane",
+          "pattern": "Crane",
+          "listings": [
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=32042689527901"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hybrid Diaper Shell -- Snaps",
+      "sort_order": "2.2",
+      "tags": ["organic", "infant", "toddler", "hybrid diaper"],
+      "details": {
+        "materials": "<ul><li>Inner Body: 100% Polyester Mesh</li><li>Outer: 100% Water Resistant Polyester TPU</li><ul>",
+        "origin_country": "China",
+        "sizing": [
+          {
+            "name": "one size",
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 30,
+                  "unit": "lb"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "products": [
+        {
+          "name": "Arctic",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139498607"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=20005536464989"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445378592858",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Arctic"
+        },
+        {
+          "name": "Basil",
+          "default": true,
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=19945968173167"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=32619527405661"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=32171796299866",
+                  "available": false
+                }
+              ]
+            }
+          ],
+          "pattern": "Basil"
+        },
+        {
+          "name": "Cloud",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4939233296411"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=8100966629467"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=3673171649",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Cloud"
+        },
+        {
+          "name": "Fennec",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4939277664283"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=951823958044",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Fennec"
+        },
+        {
+          "name": "Have Baby Will Travel",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186179695"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31772213674077"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31573792948314",
+                  "available": false
+                }
+              ]
+            }
+          ],
+          "pattern": "Have Baby Will Travel"
+        },
+        {
+          "name": "Jet",
+          "pattern": "Jet",
+          "listings": [
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31772216229981",
+              "available": false
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31573793308762",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marsala",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=19946108944495"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=19532777619549"
+            }
+          ],
+          "pattern": "Marsala"
+        },
+        {
+          "name": "Maverick",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588298351"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31845862047837"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792396304474",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Maverick"
+        },
+        {
+          "name": "Petal",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153097327"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=20005535547485"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445380362330",
+                  "available": false
+                }
+              ]
+            }
+          ],
+          "pattern": "Petal"
+        },
+        {
+          "name": "Sugar Rush",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4939426627611"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=951831101468",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Sugar Rush"
+        },
+        {
+          "name": "Tex",
+          "pattern": "Tex",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=32860351434",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vanilla",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928908827"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=32171762942042",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Vanilla"
+        },
+        {
+          "name": "Waverly",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587577455"
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31845862735965"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792395976794",
+                  "available": true
+                }
+              ]
+            }
+          ],
+          "pattern": "Waverly"
+        },
+        {
+          "name": "Rose",
+          "pattern": "Rose",
+          "listings": [
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=37953806984"
+            }
+          ]
+        },
+        {
+          "name": "Crane",
+          "pattern": "Crane",
+          "listings": [
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 16.95,
+              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31772187426909"
+            }
+          ]
+        },
+        {
+          "name": "Lotus",
+          "pattern": "Lotus",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=18201521927",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Newborn All-In-One",
+      "sort_order": "1.1.2",
+      "tags": ["preemie / newborn", "all-in-one diaper", "non-organic"],
+      "details": {
+        "materials": "<ul><li>Inner Sewn in Soaker Pad: 55% Hemp/45% Cotton topped with 100% Polyester Microfleece</li><li>Body Lining: 100% Polyester Microfleece</li><li>Hidden Inner Body Layers: 55% Hemp/45% Cotton</li><li>Outer: 100% Water Resistant Polyester TPU</li><ul>",
+        "origin_country": "China",
+        "sizing": [
+          {
+            "name": "one size",
+            "weight": {
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 12,
+                  "unit": "lb"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "products": [
+        {
+          "name": "Arctic",
+          "pattern": "Arctic",
+          "default": true,
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "available": false,
+              "url": "https://www.grovia.com/products/newborn-aio-arctic?variant=20286013898863",
+              "price": 15.95
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=16445423386714",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Basil",
+          "pattern": "Basil",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "available": false,
+              "url": "https://www.grovia.com/products/newborn-all-in-one-basil?variant=18004809482351",
+              "price": 15.95
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "pattern": "Cloud",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-aio-cloud?variant=4407374020635"
+            }
+          ]
+        },
+        {
+          "name": "Have Baby Will Travel",
+          "pattern": "Have Baby Will Travel",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-all-in-one-have-baby-will-travel?variant=31184180576367"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31573803597914",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marsala",
+          "pattern": "Marsala",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-all-in-one-marsala?variant=18004944126063",
+              "available": false
+            }
+          ]
+        },
+        {
+          "name": "Maverick",
+          "pattern": "Maverick",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "url": "https://www.grovia.com/products/newborn-all-in-one-maverick?variant=31252568277103",
+              "price": 15.95
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31792404889690",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Petal",
+          "pattern": "Petal",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-aio-petal?variant=20286021664879"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=16445425582170",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sugar Rush",
+          "pattern": "Sugar Rush",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-aio-sugar-rush?variant=4412038447131"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=951851647004",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vanilla",
+          "pattern": "Vanilla",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-aio-vanilla?variant=4407372611611"
+            }
+          ]
+        },
+        {
+          "name": "Waverly",
+          "pattern": "Waverly",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "price": 15.95,
+              "url": "https://www.grovia.com/products/newborn-all-in-one-waverly?variant=31252564476015"
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31792403578970",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fennec",
+          "pattern": "Fennec",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31376479682650",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jet",
+          "pattern": "Jet",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31573804482650",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crane",
+          "pattern": "Crane",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
+              "price": 21.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31573805105242",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "O.N.E. Diaper",
+      "sort_order": "1.2.1",
+      "tags": ["infant", "toddler", "all-in-one diaper", "non-organic"],
+      "details": {
+        "materials": "<ul><li>Hidden Inner Layer: 100% Polyester Microfiber</li><li>Outer: 100% Water Resistant Polyester TPU</li><li>Soaker: 100% Cotton topped with 100% Polyester Microfleece</li><li>Body Lining: 100% Polyester Microfleece</li><li>Outer: 100% Water Resistant Polyester TPU (Exclusive of Trim)</li><ul>",
+        "origin_country": "China",
+        "sizing": [
+          {
+            "name": "one size",
+            "weight": {
+              "min": [
+                {
+                  "num": 10,
+                  "unit": "lb"
+                }
+              ],
+              "max": [
+                {
+                  "num": 35,
+                  "unit": "lb"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "products": [
+        {
+          "name": "Arctic",
+          "pattern": "Arctic",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "currency": "USD",
+              "available": false,
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-arctic?variant=20285976346735",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=20005556682845",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=32171888410714",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Basil",
+          "pattern": "Basil",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-diaper-basil?variant=18005720891503",
+                  "available": false
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=32607951781981",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "pattern": "Cloud",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-diaper-cloud?variant=4409780568091",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "currency": "USD",
+              "price": 22.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=41024971144",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=5535142081",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marsala",
+          "pattern": "Marsala",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-diaper-marsala?variant=18005766865007",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=16407701815386",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maverick",
+          "pattern": "Maverick",
+          "default": true,
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-maverick?variant=31252582596719",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=31846139396189",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=31792409542746",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Petal",
+          "pattern": "Petal",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-petal?variant=20286003544175",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=20005554847837",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=16445389111386",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sugar Rush",
+          "pattern": "Sugar Rush",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-diaper-sugar-rush?variant=4412057157659",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=951883497500",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vanilla",
+          "pattern": "Vanilla",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-diaper-vanilla?variant=4410464534555",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=8108420792411",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=17699042887",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Waverly",
+          "pattern": "Waverly",
+          "listings": [
+            {
+              "retailer": "GroVia",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-waverly?variant=31252585250927",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "retailer": "Green Mountain Diapers",
+              "price": 22.95,
+              "currency": "USD",
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.greenmountaindiapers.com/products/groviaone?variant=31846179536989",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=31792408985690",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rose",
+          "pattern": "Rose",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=43485338186",
+                  "available": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fennec",
+          "pattern": "Fennec",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 31.95,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=951876091932",
+                  "available": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Haze",
+          "pattern": "Haze",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 30.35,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=32283992195162",
+                  "available": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tex",
+          "pattern": "Tex",
+          "listings": [
+            {
+              "countries": ["Canada"],
+              "retailer": "Lil' Monkey Cheeks",
+              "currency": "CAD",
+              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
+              "price": 30.35,
+              "sizes": [
+                {
+                  "name": "one size",
+                  "sort_order": 1,
+                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=32283992326234",
+                  "available": false
+                }
+              ]
             }
           ]
         }
@@ -907,13 +2769,7 @@
     },
     {
       "name": "Swim Diaper",
-      "tags": [
-        "swim diaper",
-        "infant",
-        "toddler",
-        "young child",
-        "non-organic"
-      ],
+      "sort_order": "4.1",
       "details": {
         "materials": "<ul><li>Inner: 88% Polyester, 12% Cotton</li><li>Outer: 100% Water Resistant Polyester TPU (exclusive of trim)</li><ul>",
         "origin_country": "China",
@@ -971,10 +2827,18 @@
           }
         ]
       },
+      "tags": [
+        "swim diaper",
+        "infant",
+        "toddler",
+        "young child",
+        "non-organic"
+      ],
       "products": [
         {
           "name": "Abalone",
           "pattern": "Abalone",
+          "default": true,
           "listings": [
             {
               "retailer": "GroVia",
@@ -985,19 +2849,7 @@
                 {
                   "name": "size 1",
                   "sort_order": 1,
-                  "url": "",
-                  "available": true
-                },
-                {
-                  "name": "size 2",
-                  "sort_order": 2,
-                  "url": "",
-                  "available": true
-                },
-                {
-                  "name": "size 3",
-                  "sort_order": 3,
-                  "url": "",
+                  "url": "https://www.grovia.com/products/swim-diaper-abalone",
                   "available": true
                 }
               ]
@@ -1011,19 +2863,19 @@
                 {
                   "name": "size 1",
                   "sort_order": 1,
-                  "url": "",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper?variant=37960442248",
                   "available": true
                 },
                 {
                   "name": "size 2",
                   "sort_order": 2,
-                  "url": "",
-                  "available": true
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper?variant=37960443976",
+                  "available": false
                 },
                 {
                   "name": "size 3",
                   "sort_order": 3,
-                  "url": "",
+                  "url": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper?variant=37960445064",
                   "available": true
                 }
               ]
@@ -1473,1461 +3325,6 @@
                   "sort_order": 3,
                   "url": "https://www.greenmountaindiapers.com/products/grovia-swim-diaper?variant=29473898184",
                   "available": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Hybrid Diaper Shell -- Hook & Loop",
-      "tags": ["organic", "infant", "toddler", "hybrid diaper"],
-      "details": {
-        "materials": "<ul><li>Inner Body: 100% Polyester Mesh</li><li>Outer: 100% Water Resistant Polyester TPU</li><ul>",
-        "origin_country": "China",
-        "sizing": [
-          {
-            "name": "one size",
-            "weight": {
-              "min": {
-                "num": 8,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 30,
-                "unit": "lb"
-              }
-            }
-          }
-        ]
-      },
-      "products": [
-        {
-          "name": "Arctic",
-          "pattern": "Arctic",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139465839"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=20010686742621"
-            }
-          ]
-        },
-        {
-          "name": "Basil",
-          "pattern": "Basil",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=18005998174319"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=19532779520093"
-            }
-          ]
-        },
-        {
-          "name": "Cloud",
-          "pattern": "Cloud",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4410596491291"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=29228442184"
-            }
-          ]
-        },
-        {
-          "name": "Fennec",
-          "pattern": "Fennec",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4412084813851"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445432987738",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Have Baby Will Travel",
-          "pattern": "Have Baby Will Travel",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186146927"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=32042691330141"
-            }
-          ]
-        },
-        {
-          "name": "Jet",
-          "pattern": "Jet",
-          "listings": [
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=32042688348253"
-            }
-          ]
-        },
-        {
-          "name": "Lotus",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-lotus?variant=4409910689819"
-            }
-          ],
-          "pattern": "Lotus"
-        },
-        {
-          "name": "Marsala",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=18005957705839"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=19532779356253"
-            }
-          ],
-          "pattern": "Marsala"
-        },
-        {
-          "name": "Maverick",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588265583"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=31845776621661"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792397811802",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Maverick"
-        },
-        {
-          "name": "Petal",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153064559"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=20010680811613"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445434691674",
-                  "available": false
-                }
-              ]
-            }
-          ],
-          "pattern": "Petal"
-        },
-        {
-          "name": "Sugar Rush",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4412074819611"
-            }
-          ],
-          "pattern": "Sugar Rush"
-        },
-        {
-          "name": "Tex",
-          "pattern": "Tex",
-          "listings": []
-        },
-        {
-          "name": "Vanilla",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928941595"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=31800541904989"
-            }
-          ],
-          "pattern": "Vanilla"
-        },
-        {
-          "name": "Waverly",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587544687"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=31845777768541"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792398139482",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Waverly"
-        },
-        {
-          "name": "Rose",
-          "pattern": "Rose",
-          "listings": [
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=37952374664"
-            }
-          ]
-        },
-        {
-          "name": "Crane",
-          "pattern": "Crane",
-          "listings": [
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hook-loop?variant=32042689527901"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Hybrid Diaper Shell -- Snaps",
-      "tags": ["organic", "infant", "toddler", "hybrid diaper"],
-      "details": {
-        "materials": "<ul><li>Inner Body: 100% Polyester Mesh</li><li>Outer: 100% Water Resistant Polyester TPU</li><ul>",
-        "origin_country": "China",
-        "sizing": [
-          {
-            "name": "one size",
-            "weight": {
-              "min": {
-                "num": 8,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 30,
-                "unit": "lb"
-              }
-            }
-          }
-        ]
-      },
-      "products": [
-        {
-          "name": "Arctic",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-arctic?variant=20286139498607"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=20005536464989"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445378592858",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Arctic"
-        },
-        {
-          "name": "Basil",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-basil?variant=19945968173167"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=32619527405661"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=32171796299866",
-                  "available": false
-                }
-              ]
-            }
-          ],
-          "pattern": "Basil"
-        },
-        {
-          "name": "Cloud",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-cloud?variant=4939233296411"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=8100966629467"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=3673171649",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Cloud"
-        },
-        {
-          "name": "Fennec",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-fennec?variant=4939277664283"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=951823958044",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Fennec"
-        },
-        {
-          "name": "Have Baby Will Travel",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-have-baby-will-travel?variant=31184186179695"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31772213674077"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31573792948314",
-                  "available": false
-                }
-              ]
-            }
-          ],
-          "pattern": "Have Baby Will Travel"
-        },
-        {
-          "name": "Jet",
-          "pattern": "Jet",
-          "listings": [
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31772216229981",
-              "available": false
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31573793308762",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marsala",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-hook-loop-shell-marsala?variant=19946108944495"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=19532777619549"
-            }
-          ],
-          "pattern": "Marsala"
-        },
-        {
-          "name": "Maverick",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-maverick?variant=31252588298351"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31845862047837"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792396304474",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Maverick"
-        },
-        {
-          "name": "Petal",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-petal?variant=20286153097327"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=20005535547485"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=16445380362330",
-                  "available": false
-                }
-              ]
-            }
-          ],
-          "pattern": "Petal"
-        },
-        {
-          "name": "Sugar Rush",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-sugar-rush?variant=4939426627611"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=951831101468",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Sugar Rush"
-        },
-        {
-          "name": "Tex",
-          "pattern": "Tex",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=32860351434",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Vanilla",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/hybrid-diaper-shell-vanilla?variant=4409928908827"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=32171762942042",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Vanilla"
-        },
-        {
-          "name": "Waverly",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.grovia.com/products/grovia-hybrid-diaper-shell-waverly?variant=31252587577455"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31845862735965"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=31792395976794",
-                  "available": true
-                }
-              ]
-            }
-          ],
-          "pattern": "Waverly"
-        },
-        {
-          "name": "Rose",
-          "pattern": "Rose",
-          "listings": [
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=37953806984"
-            }
-          ]
-        },
-        {
-          "name": "Crane",
-          "pattern": "Crane",
-          "listings": [
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 16.95,
-              "url": "https://www.greenmountaindiapers.com/collections/gro-via-brand/products/grovia-shell-hybrid-diaper-cover?variant=31772187426909"
-            }
-          ]
-        },
-        {
-          "name": "Lotus",
-          "pattern": "Lotus",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell",
-              "price": 22.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-shell?variant=18201521927",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Newborn All-In-One",
-      "tags": ["preemie / newborn", "all-in-one diaper", "non-organic"],
-      "details": {
-        "materials": "<ul><li>Inner Sewn in Soaker Pad: 55% Hemp/45% Cotton topped with 100% Polyester Microfleece</li><li>Body Lining: 100% Polyester Microfleece</li><li>Hidden Inner Body Layers: 55% Hemp/45% Cotton</li><li>Outer: 100% Water Resistant Polyester TPU</li><ul>",
-        "origin_country": "China",
-        "sizing": [
-          {
-            "name": "one size",
-            "weight": {
-              "min": {
-                "num": 5,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 12,
-                "unit": "lb"
-              }
-            }
-          }
-        ]
-      },
-      "products": [
-        {
-          "name": "Arctic",
-          "pattern": "Arctic",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "available": false,
-              "url": "https://www.grovia.com/products/newborn-aio-arctic?variant=20286013898863",
-              "price": 15.95
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=16445423386714",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Basil",
-          "pattern": "Basil",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "available": false,
-              "url": "https://www.grovia.com/products/newborn-all-in-one-basil?variant=18004809482351",
-              "price": 15.95
-            }
-          ]
-        },
-        {
-          "name": "Cloud",
-          "pattern": "Cloud",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-aio-cloud?variant=4407374020635"
-            }
-          ]
-        },
-        {
-          "name": "Have Baby Will Travel",
-          "pattern": "Have Baby Will Travel",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-all-in-one-have-baby-will-travel?variant=31184180576367"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31573803597914",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marsala",
-          "pattern": "Marsala",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-all-in-one-marsala?variant=18004944126063",
-              "available": false
-            }
-          ]
-        },
-        {
-          "name": "Maverick",
-          "pattern": "Maverick",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "url": "https://www.grovia.com/products/newborn-all-in-one-maverick?variant=31252568277103",
-              "price": 15.95
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31792404889690",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Petal",
-          "pattern": "Petal",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-aio-petal?variant=20286021664879"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=16445425582170",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Sugar Rush",
-          "pattern": "Sugar Rush",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-aio-sugar-rush?variant=4412038447131"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=951851647004",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Vanilla",
-          "pattern": "Vanilla",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-aio-vanilla?variant=4407372611611"
-            }
-          ]
-        },
-        {
-          "name": "Waverly",
-          "pattern": "Waverly",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 15.95,
-              "url": "https://www.grovia.com/products/newborn-all-in-one-waverly?variant=31252564476015"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31792403578970",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Fennec",
-          "pattern": "Fennec",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31376479682650",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Jet",
-          "pattern": "Jet",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31573804482650",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Crane",
-          "pattern": "Crane",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one",
-              "price": 21.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-newborn-all-in-one?variant=31573805105242",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "O.N.E. Diaper",
-      "tags": ["infant", "toddler", "all-in-one diaper", "non-organic"],
-      "details": {
-        "materials": "<ul><li>Hidden Inner Layer: 100% Polyester Microfiber</li><li>Outer: 100% Water Resistant Polyester TPU</li><li>Soaker: 100% Cotton topped with 100% Polyester Microfleece</li><li>Body Lining: 100% Polyester Microfleece</li><li>Outer: 100% Water Resistant Polyester TPU (Exclusive of Trim)</li><ul>",
-        "origin_country": "China",
-        "sizing": [
-          {
-            "name": "one size",
-            "weight": {
-              "min": {
-                "num": 10,
-                "unit": "lb"
-              },
-              "max": {
-                "num": 35,
-                "unit": "lb"
-              }
-            }
-          }
-        ]
-      },
-      "products": [
-        {
-          "name": "Arctic",
-          "pattern": "Arctic",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "available": false,
-              "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-arctic?variant=20285976346735",
-              "price": 22.95
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/groviaone",
-              "price": 22.95
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=32171888410714",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Basil",
-          "pattern": "Basil",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-diaper-basil?variant=18005720891503",
-              "available": false
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.greenmountaindiapers.com/products/groviaone"
-            }
-          ]
-        },
-        {
-          "name": "Cloud",
-          "pattern": "Cloud",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-diaper-cloud?variant=4409780568091"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "url": "https://www.greenmountaindiapers.com/products/groviaone",
-              "price": 22.95
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=5535142081",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marsala",
-          "pattern": "Marsala",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-diaper-marsala?variant=18005766865007"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=16407701815386",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Maverick",
-          "pattern": "Maverick",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-maverick?variant=31252582596719"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.greenmountaindiapers.com/products/groviaone"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=31792409542746",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Petal",
-          "pattern": "Petal",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-petal?variant=20286003544175"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.greenmountaindiapers.com/products/groviaone"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=16445389111386",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Sugar Rush",
-          "pattern": "Sugar Rush",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-diaper-sugar-rush?variant=4412057157659"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=951883497500",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Vanilla",
-          "pattern": "Vanilla",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-diaper-vanilla?variant=4410464534555"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.greenmountaindiapers.com/products/groviaone"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=17699042887",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Waverly",
-          "pattern": "Waverly",
-          "listings": [
-            {
-              "retailer": "GroVia",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.grovia.com/products/o-n-e-cloth-diaper-waverly?variant=31252585250927"
-            },
-            {
-              "retailer": "Green Mountain Diapers",
-              "currency": "USD",
-              "price": 22.95,
-              "url": "https://www.greenmountaindiapers.com/products/groviaone"
-            },
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=31792408985690",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Rose",
-          "pattern": "Rose",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=43485338186",
-                  "available": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Fennec",
-          "pattern": "Fennec",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 31.95,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=951876091932",
-                  "available": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Haze",
-          "pattern": "Haze",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 30.35,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=32283992195162",
-                  "available": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tex",
-          "pattern": "Tex",
-          "listings": [
-            {
-              "countries": ["Canada"],
-              "retailer": "Lil' Monkey Cheeks",
-              "currency": "CAD",
-              "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper",
-              "price": 30.35,
-              "sizes": [
-                {
-                  "name": "one size",
-                  "sort_order": 1,
-                  "url": "https://www.lilmonkeycheeks.ca/products/grovia-o-n-e-diaper?variant=32283992326234",
-                  "available": false
                 }
               ]
             }

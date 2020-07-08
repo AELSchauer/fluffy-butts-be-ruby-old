@@ -12,7 +12,7 @@
     },
     {
       "name": "Green Scene",
-      "tags": []
+      "tags": ["green", "industrial"]
     },
     {
       "name": "Jaws",
@@ -168,7 +168,7 @@
       "name": "Diaper Cover -- Hook & Loop",
       "sort_order": "3.2.1",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><ul>",
+        "materials": "<ul><li>100% polyester with waterproof TPU laminate</li></ul>",
         "sizing": [
           {
             "name": "Newborn / Preemie",
@@ -583,7 +583,7 @@
       "name": "Diaper Cover -- Snaps",
       "sort_order": "3.2.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><ul>",
+        "materials": "<ul><li>100% polyester with waterproof TPU laminate</li></ul>",
         "sizing": [
           {
             "name": "Newborn / Preemie",
@@ -827,7 +827,7 @@
       "name": "Duo Wrap -- Hook & Loop",
       "sort_order": "3.1.1",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><ul>",
+        "materials": "<ul><li>100% polyester with waterproof TPU laminate</li></ul>",
         "sizing": [
           {
             "name": "Size 1",
@@ -2356,7 +2356,7 @@
       "name": "Duo Wrap -- Snaps",
       "sort_order": "3.1.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><ul>",
+        "materials": "<ul><li>100% polyester with waterproof TPU laminate</li></ul>",
         "sizing": [
           {
             "name": "Size 1",
@@ -4527,31 +4527,33 @@
       "name": "Newborn All-In-One -- Hook & Loop",
       "sort_order": "1.2.1.1",
       "details": {
-        "materials": "<ul><li>Outer – 100% polyester with waterproof TPU laminate</li><li>Inner Liner – 100% GOTS certified organic cotton</li><li>Inner Absorbency – 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers – 6 layers of 55% hemp - 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% polyester microfleece</li><li>Inner Absorbency : 1 layer of microfiber terry</li><li>Inner Soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 5,
-                "unit": "lb"
-              },
-              {
-                "num": 2,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 14,
-                "unit": "lb"
-              },
-              {
-                "num": 6,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                },
+                {
+                  "num": 2,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 14,
+                  "unit": "lb"
+                },
+                {
+                  "num": 6,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -4739,31 +4741,33 @@
       "name": "Newborn All-In-One -- Snaps",
       "sort_order": "1.2.1.2",
       "details": {
-        "materials": "<ul><li>Outer – 100% polyester with waterproof TPU laminate</li><li>Inner Liner – 100% GOTS certified organic cotton</li><li>Inner Absorbency – 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers – 6 layers of 55% hemp - 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% polyester microfleece</li><li>Inner Absorbency : 1 layer of microfiber terry</li><li>Inner Soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 5,
-                "unit": "lb"
-              },
-              {
-                "num": 2,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 14,
-                "unit": "lb"
-              },
-              {
-                "num": 6,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 5,
+                  "unit": "lb"
+                },
+                {
+                  "num": 2,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 14,
+                  "unit": "lb"
+                },
+                {
+                  "num": 6,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -5250,7 +5254,7 @@
       "name": "Natural Newborn All-In-One -- Hook & Loop",
       "sort_order": "1.2.2.1",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><li>Inner Liner: 100% GOTS certified organic cotton</li><li>Inner Absorbency: 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers: 6 layers of 55% hemp - 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% GOTS certified organic cotton</li><li>Inner Absorbency: 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers: 6 layers of 55% hemp - 45% organic cotton</li></ul>",
         "sizing": [
           {
             "name": "newborn",
@@ -5747,7 +5751,7 @@
       "name": "Natural Newborn All-In-One -- Snaps",
       "sort_order": "1.2.2.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><li>Inner Liner: 100% GOTS certified organic cotton</li><li>Inner Absorbency: 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers: 6 layers of 55% hemp - 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% GOTS certified organic cotton</li><li>Inner Absorbency: 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers: 6 layers of 55% hemp - 45% organic cotton</li></ul>",
         "sizing": [
           {
             "name": "newborn",
@@ -6514,7 +6518,7 @@
       "name": "Natural Newborn Fitted Diaper",
       "sort_order": "4.2",
       "details": {
-        "materials": "<ul><li>70% Rayon from Bamboo/30% Cotton</li><ul>",
+        "materials": "<ul><li>70% Rayon from Bamboo and 30% Cotton</li></ul>",
         "sizing": [
           {
             "name": "newborn",
@@ -6632,31 +6636,33 @@
       "name": "Natural One-Size All-In-One -- Hook & Loop",
       "sort_order": "1.1.2.1",
       "details": {
-        "materials": "<ul><li>Outer – 100% polyester with waterproof TPU laminate</li><li>Inner Liner – 100% GOTS certified organic cotton</li><li>Inner Absorbency – 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers – 8  layers of 55% hemp - 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% GOTS certified organic cotton</li><li>Inner Absorbency: 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers: 6 layers of 55% hemp - 45% organic cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -7037,31 +7043,33 @@
       "name": "Natural One-Size All-In-One -- Snaps",
       "sort_order": "1.1.2.2",
       "details": {
-        "materials": "<ul><li>Outer – 100% polyester with waterproof TPU laminate</li><li>Inner Liner – 100% GOTS certified organic cotton</li><li>Inner Absorbency – 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers – 8  layers of 55% hemp - 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% GOTS certified organic cotton</li><li>Inner Absorbency: 2 layers of 100% GOTS certified organic cotton</li><li>Inner Soakers: 6 layers of 55% hemp - 45% organic cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -7930,31 +7938,33 @@
       "name": "Natural One-Size Fitted Diaper",
       "sort_order": "4.1",
       "details": {
-        "materials": "<ul><li>70% Rayon from Bamboo/30% Cotton</li><ul>",
+        "materials": "<ul><li>70% Rayon from Bamboo and 30% Cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -8057,31 +8067,33 @@
       "name": "Natural One-Size Pocket Diaper -- Hook & Loop",
       "sort_order": "2.2.1",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof urethane coating</li><li>Inner: 100% GOTS certified organic cotton</li><li>Newborn insert: 100% GOTS certified organic cotton</li><li>Full size insert: 55% Hemp, 45% Cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof urethane coating</li><li>Inner: 100% GOTS certified organic cotton</li><li>Newborn insert: 100% GOTS certified organic cotton</li><li>Full size insert: 55% Hemp, 45% Cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -8324,31 +8336,33 @@
       "name": "Natural One-Size Pocket Diaper -- Snaps",
       "sort_order": "2.2.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof urethane coating</li><li>Inner: 100% GOTS certified organic cotton</li><li>Newborn insert: 100% GOTS certified organic cotton</li><li>Full size insert: 55% Hemp, 45% Cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof urethane coating</li><li>Inner: 100% GOTS certified organic cotton</li><li>Newborn insert: 100% GOTS certified organic cotton</li><li>Full size insert: 55% Hemp, 45% Cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -8722,31 +8736,33 @@
       "name": "One-Size All-In-One -- Hook & Loop",
       "sort_order": "1.1.1.1",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner liner: 100% polyester microfleece</li><li>Inner absorbency : 1 layer of microfiber terry</li><li>Inner soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% polyester microfleece</li><li>Inner Absorbency : 1 layer of microfiber terry</li><li>Inner Soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -8921,31 +8937,33 @@
       "name": "One-Size All-In-One -- Snaps",
       "sort_order": "1.1.1.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner liner: 100% polyester microfleece</li><li>Inner absorbency : 1 layer of microfiber terry</li><li>Inner soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Liner: 100% polyester microfleece</li><li>Inner Absorbency : 1 layer of microfiber terry</li><li>Inner Soaker: 100% polyester - 3 layers of microfiber terry topped with layer of microfleece</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -9366,31 +9384,33 @@
       "name": "One-Size Pocket Diaper -- Hook & Loop",
       "sort_order": "2.1.1",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner: 100% polyester microfleece</li><li>Newborn insert: 100% polyester–microfiber terry</li><li>Full size insert: 55% hemp, 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner: 100% polyester microfleece</li><li>Insert: 55% hemp, 45% organic cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -9617,31 +9637,33 @@
       "name": "One-Size Pocket Diaper -- Snaps",
       "sort_order": "2.1.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner: 100% polyester microfleece</li><li>Newborn insert: 100% polyester–microfiber terry</li><li>Full size insert: 55% hemp, 45% organic cotton</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner: 100% polyester microfleece</li><li>Insert: 55% hemp, 45% organic cotton</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -10254,7 +10276,7 @@
       "name": "Potty Training Pant",
       "sort_order": "5.1",
       "details": {
-        "materials": "<ul><li>Outer: 92% Polyester, 8% Spandex</li><li>Middle: 100% polyester with waterproof TPU laminate</li><li>Inner abosrbent layers: 100% GOTS Certified Organic Cotton</li><ul>",
+        "materials": "<ul><li>Outer: 92% Polyester, 8% Spandex</li><li>Middle: 100% polyester with waterproof TPU laminate</li><li>Inner Abosrbent Layers: 100% GOTS Certified Organic Cotton</li></ul>",
         "sizing": [
           {
             "name": "Small",
@@ -10483,31 +10505,33 @@
       "name": "Stay Dry Natural One-Size All-In-One",
       "sort_order": "1.1.2.3",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner absorbency: Soakers/Inserts: 4 layers of certified organic cotton, 4 layers of hemp/organic cotton topped with stay-dry microfleece</li><li>Inner body: 2 layers of organic cotton topped with stay-dry microfleece</li><ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner Absorbency: Soakers/Inserts: 4 layers of certified organic cotton, 4 layers of hemp/organic cotton topped with stay-dry microfleece</li><li>Inner Body: 2 layers of organic cotton topped with stay-dry microfleece</li></ul>",
         "sizing": [
           {
             "name": "one size",
             "sort_order": 1,
-            "min": [
-              {
-                "num": 8,
-                "unit": "lb"
-              },
-              {
-                "num": 4,
-                "unit": "kg"
-              }
-            ],
-            "max": [
-              {
-                "num": 40,
-                "unit": "lb"
-              },
-              {
-                "num": 18,
-                "unit": "kg"
-              }
-            ]
+            "weight": {
+              "min": [
+                {
+                  "num": 8,
+                  "unit": "lb"
+                },
+                {
+                  "num": 4,
+                  "unit": "kg"
+                }
+              ],
+              "max": [
+                {
+                  "num": 40,
+                  "unit": "lb"
+                },
+                {
+                  "num": 18,
+                  "unit": "kg"
+                }
+              ]
+            }
           }
         ]
       },
@@ -11146,7 +11170,7 @@
       "name": "Swim Diaper",
       "sort_order": "5.2",
       "details": {
-        "materials": "<ul><li>Outer: 100% polyester</li><li>Inner: 100% polyester</li></ul>",
+        "materials": "<ul><li>Outer: 100% polyester with waterproof TPU laminate</li><li>Inner: 100% polyester</li></ul>",
         "sizing": [
           {
             "name": "Size 1",

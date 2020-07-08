@@ -4,99 +4,143 @@
   "patterns": [
     {
       "name": "Ambrosia",
-      "tags": []
+      "tags": ["fruits", "flowers & foliage"]
     },
     {
       "name": "Avocados",
-      "tags": []
+      "tags": ["food & beverage", "green"]
     },
     {
       "name": "Balloons",
-      "tags": []
+      "tags": ["travel & transportation", "balloons"]
     },
     {
       "name": "Bears and the Bees",
-      "tags": []
+      "tags": ["yellow", "animals", "bugs & insects"]
     },
     {
       "name": "Blueberry Blooms",
-      "tags": []
+      "tags": ["blue", "flowers & foliage", "fruits"]
     },
     {
       "name": "Bouquet",
-      "tags": []
+      "tags": ["flowers & foliage"]
     },
     {
       "name": "Chickadee",
-      "tags": []
+      "tags": ["animals", "farm"]
+    },
+    {
+      "name": "Dinos",
+      "tags": ["animals", "dinosaurs"]
     },
     {
       "name": "Froggies",
-      "tags": []
+      "tags": ["animals"]
+    },
+    {
+      "name": "Happy Trees",
+      "tags": ["flowers & foliage", "forest"]
+    },
+    {
+      "name": "Huggables",
+      "tags": ["animals", "woodland"]
     },
     {
       "name": "Hummingbirds",
-      "tags": []
+      "tags": ["animals", "birds & feathers"]
     },
     {
       "name": "Ice Cap",
-      "tags": []
+      "tags": ["animals", "blue", "arctic"]
     },
     {
       "name": "Ice Cream",
-      "tags": []
+      "tags": ["food & beverage"]
     },
     {
       "name": "Jungle Jam",
-      "tags": []
+      "tags": ["safari", "jungle", "animals"]
+    },
+    {
+      "name": "Knights",
+      "tags": ["blue", "fantasy"]
     },
     {
       "name": "Kitten",
-      "tags": []
+      "tags": ["pink", "animals", "pets"]
     },
     {
       "name": "Llamas",
-      "tags": []
+      "tags": ["animals"]
     },
     {
       "name": "Octopus",
-      "tags": []
+      "tags": ["animals", "aquatic"]
+    },
+    {
+      "name": "Morgan",
+      "tags": ["fantasy", "purple"]
     },
     {
       "name": "Old Macdonald",
-      "tags": []
+      "tags": ["animals", "farm", "black & white"]
+    },
+    {
+      "name": "Picnic",
+      "tags": ["food & beverage", "fruits", "bugs & insects"]
+    },
+    {
+      "name": "Round-About",
+      "tags": ["abstract & geometric"]
+    },
+    {
+      "name": "Bugs",
+      "tags": ["bugs & insects"]
+    },
+    {
+      "name": "Seahorse",
+      "tags": ["animals", "aquatic", "blue"]
+    },
+    {
+      "name": "Prickly",
+      "tags": ["flowers & foliage", "desert"]
+    },
+    {
+      "name": "Princess",
+      "tags": ["pink", "fantasy"]
     },
     {
       "name": "Rose",
-      "tags": []
+      "tags": ["flowers & foliage", "pink"]
     },
     {
       "name": "Sedona",
-      "tags": []
+      "tags": ["flowers & foliage", "desert"]
     },
     {
       "name": "Shadows",
-      "tags": []
+      "tags": ["animals", "woodland"]
     },
     {
       "name": "Sleepy",
-      "tags": []
+      "tags": ["sleep", "animals"]
     },
     {
       "name": "Space",
-      "tags": []
+      "tags": ["outer space"]
     },
     {
       "name": "This Little Piggy",
-      "tags": []
+      "tags": ["children's poems", "animals", "farm"]
     },
     {
       "name": "White",
-      "tags": []
+      "tags": ["solid", "white"]
     },
     {
       "name": "Work Zone",
-      "tags": []
+      "tags": ["industrial"]
     }
   ],
   "product_lines": [

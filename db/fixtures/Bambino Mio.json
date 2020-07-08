@@ -294,6 +294,7 @@
   "product_lines": [
     {
       "name": "Mioduo Diaper Cover",
+      "sort_order": "1.1",
       "tags": ["diaper cover", "waist velcro", "infant", "toddler"],
       "products": [
         {
@@ -433,6 +434,7 @@
         },
         {
           "name": "Giraffe Jamboree",
+          "default": true,
           "listings": [
             {
               "currency": "USD",
@@ -1028,6 +1030,7 @@
     },
     {
       "name": "Miosolo All-In-One",
+      "sort_order": "1.2",
       "tags": [
         "all-in-one diaper",
         "waist velcro",
@@ -1213,6 +1216,7 @@
         },
         {
           "name": "Giraffe Jamboree",
+          "default": true,
           "listings": [
             {
               "currency": "USD",
@@ -1901,6 +1905,7 @@
     },
     {
       "name": "Potty Training Pant",
+      "sort_order": "3.1",
       "tags": ["potty training diaper", "toddler", "non-organic"],
       "details": {
         "materials": "<ul><li>Made from 80% cotton, 20% polyester, laminated to polyurethane.</li><ul>",
@@ -2006,6 +2011,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002510721101",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002511048781",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002512490573",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Blue"
@@ -2019,6 +2051,33 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
               "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002516783181",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002517209165",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002517700685",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2072,12 +2131,40 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002518945869",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002519797837",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002521403469",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Dragon's Dungeon"
         },
         {
           "name": "Elephantastic",
+          "default": true,
           "listings": [
             {
               "currency": "USD",
@@ -2085,6 +2172,33 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
               "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327100493",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327264333",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327428173",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2117,7 +2231,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 9.99,
+              "price": 8.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327067725",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327231565",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327395405",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2171,6 +2312,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002517143629",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002517798989",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002517831757",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Fairy"
@@ -2184,6 +2352,33 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
               "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522091597",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522320973",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522878029",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2237,6 +2432,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327002189",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327166029",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327329869",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Giraffing Around"
@@ -2270,6 +2492,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522124365",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522353741",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002524254285",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Hen House"
@@ -2282,7 +2531,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 8.99,
+              "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002519306317",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002520879181",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002521501773",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2336,6 +2612,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002510917709",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002511147085",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514128973",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Light Pink"
@@ -2348,7 +2651,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 9.99,
+              "price": 8.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002519404621",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002520911949",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002521763917",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2402,6 +2732,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522157133",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522484813",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002524483661",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Moo Meadow"
@@ -2435,6 +2792,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514817101",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514915405",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002515210317",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Outer Space"
@@ -2447,7 +2831,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 8.99,
+              "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002519535693",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002520944717",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002521796685",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2501,6 +2912,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514227277",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514423885",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514784333",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Pink Elephant"
@@ -2513,7 +2951,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 8.99,
+              "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522222669",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522550349",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002524614733",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2546,7 +3011,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 9.99,
+              "price": 8.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522288205",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522648653",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002524713037",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2579,7 +3071,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 9.99,
+              "price": 8.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002519568461",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002521174093",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002522058829",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2612,7 +3131,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 8.99,
+              "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327133261",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327297101",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327460941",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2666,6 +3212,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002518618189",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002518782029",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002518913101",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Tropical Island"
@@ -2678,7 +3251,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 9.99,
+              "price": 8.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002511016013",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002512457805",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=31002514063437",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 15.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2711,7 +3311,34 @@
               "retailer": "Bambino Mio",
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
-              "price": 8.99,
+              "price": 9.99,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327034957",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327198797",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants?variant=32188327362637",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/potty-training/products/potty-training-pants",
+              "price": 16.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -2740,6 +3367,7 @@
     },
     {
       "name": "Swim Diaper",
+      "sort_order": "3.2",
       "details": {
         "materials": "<ul><li>Inner: 80% cotton, 20% polyester with polyurethane coating</li><li>Outer: 100% polyester</li><ul>",
         "origin_country": "?",
@@ -2886,6 +3514,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002542604365",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002543652941",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002547617869",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552533069",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "All Aboard"
@@ -2899,6 +3560,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002542702669",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002546765901",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002551222349",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552631373",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -2964,6 +3658,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002531921997",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002529824845",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002536411213",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002537689165",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Blue Squid"
@@ -2991,6 +3718,27 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002528710733",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002528809037",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Coral Reef"
@@ -3004,6 +3752,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002542833741",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002547060813",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552139853",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552729677",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -3069,6 +3850,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002524811341",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002524942413",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525040717",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525073485",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Deep Sea Blue"
@@ -3082,6 +3896,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525270093",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525335629",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525433933",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525532237",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Small",
@@ -3147,6 +3994,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180579958861",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580089933",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580221005",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580352077",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Electro Fish"
@@ -3160,6 +4040,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002530349133",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002532380749",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002536673357",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002537787469",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -3225,6 +4138,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002525761613",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002526187597",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002526351437",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002526384205",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Mermaid"
@@ -3238,6 +4184,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180579893325",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580024397",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580155469",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580286541",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Extra Large",
@@ -3297,6 +4276,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002526580813",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002526613581",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002526744653",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Ocean Drop"
@@ -3310,6 +4316,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002543226957",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002547257421",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552238157",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552762445",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -3375,6 +4414,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002530414669",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002532642893",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002536706125",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002537885773",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Pink Flamingo"
@@ -3408,6 +4480,33 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002529235021",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002529366093",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002529562701",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Pink Petal"
@@ -3421,6 +4520,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002543292493",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552336461",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552959053",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002547454029",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -3486,6 +4618,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180579926093",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580057165",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580188237",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580319309",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Radiant Ray"
@@ -3499,6 +4664,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002530611277",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002532675661",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002536771661",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002539294797",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -3564,6 +4762,39 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180579860557",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180579991629",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580122701",
+                  "available": true
+                },
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=32180580253773",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Supernova Star"
@@ -3577,6 +4808,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002531758157",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002536149069",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002537164877",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002542374989",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",
@@ -3624,12 +4888,28 @@
                   "available": true
                 }
               ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002528153677",
+                  "available": true
+                }
+              ]
             }
           ],
           "pattern": "Tutti Fruiti"
         },
         {
           "name": "Whale Wharf",
+          "default": true,
           "listings": [
             {
               "currency": "USD",
@@ -3637,6 +4917,39 @@
               "countries": ["United States"],
               "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
               "price": 15.49,
+              "sizes": [
+                {
+                  "name": "Large",
+                  "sort_order": 5,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002543390797",
+                  "available": true
+                },
+                {
+                  "name": "Medium",
+                  "sort_order": 4,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002547552333",
+                  "available": true
+                },
+                {
+                  "name": "Small",
+                  "sort_order": 3,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002552434765",
+                  "available": true
+                },
+                {
+                  "name": "Extra Large",
+                  "sort_order": 6,
+                  "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper?variant=31002553221197",
+                  "available": true
+                }
+              ]
+            },
+            {
+              "currency": "CAD",
+              "retailer": "Bambino Mio",
+              "countries": ["Canada"],
+              "url": "https://www.bambinomio.com/collections/baby-swimwear/products/swim-diaper",
+              "price": 25.0,
               "sizes": [
                 {
                   "name": "Large",

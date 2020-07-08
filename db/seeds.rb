@@ -63,7 +63,7 @@ def upload_brand_data (brand_filename)
       end
       
       if product.images.length === 0
-        url = "https://fluffy-butts-product-images.s3.us-east-2.amazonaws.com/#{brand.name.gsub(/ /,"+")}/#{product_line.name.gsub(/ /,"+")}/Products/#{product.name.gsub(/ /,"+")}.jpg"
+        url = "https://fluffy-butts-product-images.s3.us-east-2.amazonaws.com/#{brand.name.gsub(/ /,"+")}/#{product_line.name.gsub(/ /,"+")}/Products/#{product.name.gsub(/ /,"+").gsub(/'/,"")}.jpg"
         image = product.images.find_or_create_by(name: product_data["name"], url: url)
         if product_data["default"]
           product_line.images << image
